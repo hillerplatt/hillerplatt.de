@@ -90,8 +90,9 @@ footer {
 	border-color: var(--primary-light);
 }
 
+/* Abspielknopf für Aufnahmen */
 .btn.btn-play {
-	margin-top: 6px;
+	margin-top: 4px;
     border-radius: 100px;
 	padding: 20px;
 	background-image: url('../img/sound-color.svg');
