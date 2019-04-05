@@ -33,6 +33,7 @@ h3 {
 
 .navbar {
 	background-color: rgba(255, 255, 255, .95) !important;
+	-webkit-position: sticky;
 	position: sticky;
 	top: 0;
 	z-index: 1000;
