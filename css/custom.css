@@ -93,7 +93,16 @@ footer {
 .btn.btn-play {
 	margin-top: 6px;
     border-radius: 100px;
-	padding: 7px 11px;
+	padding: 20px;
+	background-image: url('../img/sound-color.svg');
+	background-repeat: no-repeat;
+	background-size: 24px;
+	background-position: center;
+}
+.btn.btn-play:hover,
+.btn.btn-play:focus,
+.btn.btn-play:active {
+	background-image: url('../img/sound.svg');
 }
 
 /* Abstand für Worte ohne Aufnahme */
