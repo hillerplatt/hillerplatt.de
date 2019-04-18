@@ -18,6 +18,9 @@
 	src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url('SourceSansPro-Bold.ttf');
 }
 
+html {
+	scroll-behavior: smooth;
+}
 
 body {
 	font-family: 'Source Sans Pro', 'Open Sans', Frutiger, Calibri, 'Myriad Pro', Myriad, sans-serif;
