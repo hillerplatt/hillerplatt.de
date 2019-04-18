@@ -73,3 +73,4 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 - Direkter Anfang des Wortes ist super.
 - Dateigröße könnte noch etwas schrumpfen. 1 MB für 4 Worte ist noch etwas viel, wenn das über Handy läuft. Können wir aber nachher komprimieren.
 - Dateinamen am besten einfach benannt wie das Wort.
+- (Leisere Aufnahmen sind per Audacity → Amplify → 17 dB verstärkt. Allerdings hörbar schlechtere Qualität.)
