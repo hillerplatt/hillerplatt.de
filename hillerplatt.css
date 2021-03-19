@@ -40,6 +40,18 @@ h3 {
 	color: rgba(0, 0, 0, .6);
 }
 
+#search {
+	width: 100%;
+	border: 2px solid var(--primary-light);
+	border-radius: 100px;
+	padding: 8px 20px;
+}
+
+#search-error {
+	visibility: hidden;
+	text-align: center;
+}
+
 .jumbotron,
 footer {
 	background-color: #cedbe3 !important;

@@ -18,12 +18,12 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 - Lizenzierung der Inhalte? Creative Commons (Namensnennung - Weitergabe unter gleichen Bedingungen) https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
 ## Hauptseite
-- [ ] Klappentext, Vorwort
+- [x] Klappentext, Vorwort
 - [ ] Wo gibt es das Buch?
-- [ ] Direkte Anzeige des Suchfelds
 
 ## Wörterbuch
-- [ ] Suchfeld oben
+- [x] Suchfeld oben
+- [ ] Suche läuft aktuell nur über Plattdeutsch, sollte auch auf Hochdeutsch erweitert werden
 - [x] Plattdeutsch erste Zeile, fett
 - [x] Hochdeutsch zweite Zeile, normal
 - [x] Aufnahme abspielen

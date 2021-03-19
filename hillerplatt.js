@@ -26,3 +26,21 @@ wortliste.forEach(function(wort) {
 
 	document.getElementById('wortliste').appendChild(wortblock)
 })
+
+var search = function() {
+	var $search = $(this);
+	var value = $search.val().toLowerCase();
+
+	// Auf Basis der Suche die Wörter zeigen oder verstecken
+	var find = $('#wortliste li').filter(function() {return this.id.toLowerCase().match(value);});
+	if (find.length) { // Gibt Suchergebnisse
+		$('#search-error').css('visibility', 'hidden');
+		$('#wortliste li').hide();
+		find.show();
+	} else { // Keine Suchergebnisse
+		$('.search-item').text(value);
+		$('#search-error').css('visibility', 'visible');
+	}
+}
+
+$('#search').keyup(search).keyup();
