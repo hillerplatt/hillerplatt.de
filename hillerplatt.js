@@ -7,7 +7,7 @@ wortliste.forEach(function(wort) {
 	let block = ''
 
 	// TEMPORÄR: Audio-Abspielfunktion erst für Wortblöcke, die bereits aufgenommen sind. Aktuell alle Worte mit a
-	if(wort.plattdeutsch.toLowerCase().startsWith('a')) {
+	if(wort.plattdeutsch.toLowerCase().startsWith('a') || wort.plattdeutsch.toLowerCase().startsWith('ä')) {
 		if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
 		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/hw-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
 		block += '<button onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">'
