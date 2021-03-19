@@ -36,6 +36,10 @@ h3 {
     transform: translatex(-50%);
 }
 
+.navbar-nav .nav-link {
+	color: rgba(0, 0, 0, .6);
+}
+
 .jumbotron,
 footer {
 	background-color: #cedbe3 !important;
@@ -93,6 +97,10 @@ footer {
 .btn.btn-play:focus,
 .btn.btn-play:active {
 	background-image: url('img/sound.svg');
+}
+
+h3 {
+	font-size: 1.25rem;
 }
 
 /* Abstand für Worte ohne Aufnahme */
