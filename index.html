@@ -72,112 +72,7 @@
 				<a href="#woerterbuch">Wörterbuch</a>
 			</h2>
 
-			<ul class="row list-unstyled">
-				<li class="col-md-4 media">
-					<audio id="Aaier-audio" src="audio/Aaier.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Aaier-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Aaier, de (Aai, dat)</h3>
-						<p>Eier</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="Aaierpliumen-audio" src="audio/Aaierpliumen.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Aaierpliumen-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Aaierpliumen, de</h3>
-						<p>Eierpflaume</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="Aaierschoalen-audio" src="audio/Aaierschoalen.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Aaierschoalen-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Aaierschoalen, de</h3>
-						<p>Eierschale</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="aaiher-audio" src="audio/aaiher.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('aaiher-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">aaiher</h3>
-						<p>eher</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="aais-audio" src="audio/aais.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('aais-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">aais</h3>
-						<p>erst</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<div class="mr-3">
-					</div>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">aaiste</h3>
-						<p>erste</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="aalbern-audio" src="audio/aalbern.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('aalbern-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">aalbern</h3>
-						<p>albern</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="Aarn-audio" src="audio/Aarn.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Aarn-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Aarn, de</h3>
-						<p>Ernte, Erntezeit</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="aas-audio" src="audio/aas.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('aas-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">aas</h3>
-						<p>erst</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<audio id="achen-audio" src="audio/achen.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('achen-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">achen</h3>
-						<p>beachten, achten</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<div class="mr-3">
-					</div>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">achielen</h3>
-						<p>essen (übermäßig)</p>
-					</div>
-				</li>
-				<li class="col-md-4 media">
-					<div class="mr-3">
-					</div>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">…</h3>
-						<p></p>
-					</div>
-				</li>
+			<ul id="wortliste" class="row list-unstyled">
 			</ul>
 		</section>
 
@@ -258,5 +153,7 @@
 		<script src="vendor/jquery-3.3.1.slim.min.js"></script>
 		<script src="vendor/popper.min.js"></script>
 		<script src="vendor/bootstrap.min.js"></script>
+		<script src="wortliste/wortliste.js"></script>
+		<script src="hillerplatt.js"></script>
 	</body>
 </html>

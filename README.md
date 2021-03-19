@@ -27,6 +27,7 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 - [x] Plattdeutsch erste Zeile, fett
 - [x] Hochdeutsch zweite Zeile, normal
 - [x] Aufnahme abspielen
+- [ ] Alphabetischer Buchstaben-Separator
 - [ ] Erklärung oder Konjugation auf 3. Zeile oder auf Klick?
 - [ ] ? Favorit-Stern
 - [ ] ? Bild
@@ -49,12 +50,14 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 1. XLSX → CSV per LibreOffice "Speichern als". Field delimiter `Tab`, String delimiter ``
 2. CSV → JSON per https://csvjson.com/csv2json
 3. JSON → JS object per https://www.convertonline.io/convert/json-to-js – Sonderfälle:
-- Einzelne Apostrophe verwenden, da "Westfälischer Himmel" doppelte Apostrophe nutzt
 - Keys klein schreiben
+- `\-` bzw `\\-` entfernen
+- Einzelne Apostrophe verwenden, da zB "Westfälischer Himmel" doppelte Apostrophe nutzt
+- Verben & Konjugation, zB plattdeutsch: 'sien' sind aktuell mehrere Einträge
 
 ## Aufnahmen
 - .flac als Format, ist klein und kompatibel https://caniuse.com/#feat=flac
-- Dateinamenbenennung: mit Initialen, Bindestrich und Wort, zB `hw-dat Aai.flac`
+- Dateinamenbenennung: mit Initialen, Bindestrich und Wort, zB `hw-dat Aai.flac` – unklar, ob Initialen eine gute Idee ist, weil es nicht performant ist, per Javascript zu testen, welche Datei vorhanden ist
 - Ein gutes Mikrofon (welches wird genutzt?)
 - Aufnahme einfach mit Laptop oder Handy, Aufnahmeprogramm.
 - Jedes Wort oder Sprichwort einzeln aufnehmen. Direkt anfangen zu reden, so wenig wie möglich Pause am Anfang und Ende. Aufnahme sofort nach aufgenommenem Wort benennen.
