@@ -10,6 +10,7 @@ html {
 
 body {
 	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Oxygen-Sans, Ubuntu, Cantarell, "Noto Sans", Arial, "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	margin-bottom: 40vh;
 }
 
 .navbar-brand,
