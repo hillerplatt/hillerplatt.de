@@ -2,7 +2,7 @@ wortliste.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
 	let wortblock = document.createElement('li')
 	wortblock.classList.add('col-md-4')
-	wortblock.setAttribute('id', plattdeutschId);
+	wortblock.setAttribute('id', plattdeutschId + ' ' + wort.hochdeutsch);
 
 	let block = '<div class="d-inline-flex p-2">'
 
@@ -28,20 +28,23 @@ wortliste.forEach(function(wort) {
 	document.getElementById('wortliste').appendChild(wortblock)
 })
 
+
+
 var search = function() {
-	var $search = $(this);
-	var value = $search.val().toLowerCase();
+	var value = $(this).val().toLowerCase()
 
 	// Auf Basis der Suche die Wörter zeigen oder verstecken
-	var find = $('#wortliste li').filter(function() {return this.id.toLowerCase().match(value);});
+	var find = $('#wortliste li').filter(function() {
+		return this.id.toLowerCase().match(value)
+	})
 	if (find.length) { // Gibt Suchergebnisse
-		$('#search-error').css('visibility', 'hidden');
-		$('#wortliste li').hide();
-		find.show();
+		$('#search-error').css('visibility', 'hidden')
+		$('#wortliste li').hide()
+		find.show()
 	} else { // Keine Suchergebnisse
-		$('.search-item').text(value);
-		$('#search-error').css('visibility', 'visible');
+		$('.search-item').text(value)
+		$('#search-error').css('visibility', 'visible')
 	}
 }
 
-$('#search').keyup(search).keyup();
+$('#search').keyup(search).keyup()
