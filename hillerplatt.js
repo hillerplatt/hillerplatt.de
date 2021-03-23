@@ -33,17 +33,19 @@ wortliste.forEach(function(wort) {
 var search = function() {
 	var value = $(this).val().toLowerCase()
 
-	// Auf Basis der Suche die Wörter zeigen oder verstecken
-	var find = $('#wortliste li').filter(function() {
-		return this.id.toLowerCase().match(value)
-	})
-	if (find.length) { // Gibt Suchergebnisse
-		$('#search-error').css('visibility', 'hidden')
-		$('#wortliste li').hide()
-		find.show()
-	} else { // Keine Suchergebnisse
-		$('.search-item').text(value)
-		$('#search-error').css('visibility', 'visible')
+	if(value.length != 1) { // Nur mit mindestens 2 Buchstaben suchen
+		// Auf Basis der Suche die Wörter zeigen oder verstecken
+		var find = $('#wortliste li').filter(function() {
+			return this.id.toLowerCase().match(value)
+		})
+		if (find.length) { // Gibt Suchergebnisse
+			$('#search-error').css('visibility', 'hidden')
+			$('#wortliste li').hide()
+			find.show()
+		} else { // Keine Suchergebnisse
+			$('.search-item').text(value)
+			$('#search-error').css('visibility', 'visible')
+		}
 	}
 }
 
