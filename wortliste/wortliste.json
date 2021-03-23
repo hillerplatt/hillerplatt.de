@@ -172,7 +172,7 @@
   {
     "artikel": "",
     "plattdeutsch": "afdöppen",
-    "hochdeutsch": "ablösen  (Blüte und Stiel vom Obst und Gemüse entfernen)"
+    "hochdeutsch": "ablösen (Blüte und Stiel vom Obst und Gemüse entfernen)"
   },
   {
     "artikel": "",
@@ -362,7 +362,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Aflegger",
-    "hochdeutsch": "Ableger  (Pflanze oder Mensch)"
+    "hochdeutsch": "Ableger (Pflanze oder Mensch)"
   },
   {
     "artikel": "",
@@ -456,13 +456,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "afsäggen",
-    "hochdeutsch": "absagen, abkündigen (in der Kirche)"
+    "plattdeutsch": "afsaaien",
+    "hochdeutsch": "abschöpfen (Rahm, Fett)"
   },
   {
     "artikel": "",
-    "plattdeutsch": "afsaaien",
-    "hochdeutsch": "abschöpfen (Rahm, Fett)"
+    "plattdeutsch": "afsäggen",
+    "hochdeutsch": "absagen, abkündigen (in der Kirche)"
   },
   {
     "artikel": "",
@@ -567,7 +567,7 @@
   {
     "artikel": "",
     "plattdeutsch": "afsteken",
-    "hochdeutsch": "abstechen  (Heu, Stroh … abladen)"
+    "hochdeutsch": "abstechen (Heu, Stroh  abladen)"
   },
   {
     "artikel": "",
@@ -582,7 +582,7 @@
   {
     "artikel": "",
     "plattdeutsch": "afsträngen",
-    "hochdeutsch": "Zugstränge lösen  (bei Zugtieren)"
+    "hochdeutsch": "Zugstränge lösen (bei Zugtieren)"
   },
   {
     "artikel": "",
@@ -681,11 +681,6 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "annen Enne",
-    "hochdeutsch": "am Ende (schließlich, vielleicht)"
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "Amerikoa",
     "hochdeutsch": "Amerika"
   },
@@ -747,7 +742,7 @@
   {
     "artikel": "",
     "plattdeutsch": "anbloasen",
-    "hochdeutsch": "anblasen  (Signal zum Beginn der Treibjagd)"
+    "hochdeutsch": "anblasen (Signal zum Beginn der Treibjagd)"
   },
   {
     "artikel": "",
@@ -787,7 +782,7 @@
   {
     "artikel": "",
     "plattdeutsch": "andeon",
-    "hochdeutsch": "anreichen  (Heu oder Getreide)"
+    "hochdeutsch": "anreichen (Heu oder Getreide)"
   },
   {
     "artikel": "",
@@ -842,7 +837,7 @@
   {
     "artikel": "",
     "plattdeutsch": "anfutken",
-    "hochdeutsch": "anziehen  (geschmacklos)"
+    "hochdeutsch": "anziehen (geschmacklos)"
   },
   {
     "artikel": "dat",
@@ -977,7 +972,7 @@
   {
     "artikel": "",
     "plattdeutsch": "anlichen",
-    "hochdeutsch": "anheben  (wenig)"
+    "hochdeutsch": "anheben (wenig)"
   },
   {
     "artikel": "",
@@ -992,7 +987,7 @@
   {
     "artikel": "",
     "plattdeutsch": "anliggen",
-    "hochdeutsch": "erinnern  (sich erinnern)"
+    "hochdeutsch": "erinnern (sich erinnern)"
   },
   {
     "artikel": "",
@@ -1031,18 +1026,23 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "annegeln",
-    "hochdeutsch": "annageln"
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "anne",
     "hochdeutsch": "an der"
   },
   {
     "artikel": "",
+    "plattdeutsch": "annegeln",
+    "hochdeutsch": "annageln"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "annen",
     "hochdeutsch": "an den, an dem"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "annen Enne",
+    "hochdeutsch": "am Ende (schließlich, vielleicht)"
   },
   {
     "artikel": "",
@@ -1262,7 +1262,7 @@
   {
     "artikel": "",
     "plattdeutsch": "ansträngen",
-    "hochdeutsch": "Zugstränge befestigen  (bei Zugtieren)"
+    "hochdeutsch": "Zugstränge befestigen (bei Zugtieren)"
   },
   {
     "artikel": "",
@@ -1425,6 +1425,11 @@
     "hochdeutsch": "auch"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "aule",
+    "hochdeutsch": "alte"
+  },
+  {
     "artikel": "dat",
     "plattdeutsch": "aule Reff",
     "hochdeutsch": "Frau (frech)"
@@ -1443,11 +1448,6 @@
     "artikel": "",
     "plattdeutsch": "ault",
     "hochdeutsch": "alt"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "aule",
-    "hochdeutsch": "alte"
   },
   {
     "artikel": "de",
@@ -1521,26 +1521,6 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Bär",
-    "hochdeutsch": "Eber"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "bähen",
-    "hochdeutsch": "saufen, Sau ist rauschig"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Bähentrecker",
-    "hochdeutsch": "Bärenführer"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "bärsk",
-    "hochdeutsch": "rauschiges Schwein"
-  },
-  {
-    "artikel": "de",
     "plattdeutsch": "Babutz",
     "hochdeutsch": "Friseur"
   },
@@ -1581,7 +1561,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Backetrog  (Backetroch)",
+    "plattdeutsch": "Backetrog (Backetroch)",
     "hochdeutsch": "Backtrog"
   },
   {
@@ -1608,6 +1588,16 @@
     "artikel": "dat",
     "plattdeutsch": "Bad",
     "hochdeutsch": "Heilbad"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "bähen",
+    "hochdeutsch": "saufen, Sau ist rauschig"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Bähentrecker",
+    "hochdeutsch": "Bärenführer"
   },
   {
     "artikel": "dat",
@@ -1661,8 +1651,8 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "bannig  (bannich)",
-    "hochdeutsch": "sehr (viel, scharf, lange …)"
+    "plattdeutsch": "bannig (bannich)",
+    "hochdeutsch": "sehr (viel, scharf, lange )"
   },
   {
     "artikel": "",
@@ -1677,12 +1667,22 @@
   {
     "artikel": "de",
     "plattdeutsch": "Bär",
+    "hochdeutsch": "Eber"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Bär",
     "hochdeutsch": "Bär"
   },
   {
     "artikel": "",
     "plattdeutsch": "bärde",
     "hochdeutsch": "beide"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "bärsk",
+    "hochdeutsch": "rauschiges Schwein"
   },
   {
     "artikel": "dat",
@@ -1721,13 +1721,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "bedacht sien",
-    "hochdeutsch": "überlegt"
+    "plattdeutsch": "Bedacht (mit Bedacht)",
+    "hochdeutsch": "Überlegung (mit Überlegung)"
   },
   {
     "artikel": "",
-    "plattdeutsch": "Bedacht (mit Bedacht)",
-    "hochdeutsch": "Überlegung (mit Überlegung)"
+    "plattdeutsch": "bedacht sien",
+    "hochdeutsch": "überlegt"
   },
   {
     "artikel": "",
@@ -1751,7 +1751,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Bedragg  (Bedrach)",
+    "plattdeutsch": "Bedragg (Bedrach)",
     "hochdeutsch": "Betrag"
   },
   {
@@ -1786,7 +1786,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Bedrugg  (Bedruch)",
+    "plattdeutsch": "Bedrugg (Bedruch)",
     "hochdeutsch": "Betrug"
   },
   {
@@ -1805,54 +1805,34 @@
     "hochdeutsch": "bedeuten"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "belen",
-    "hochdeutsch": "betteln"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Beleraaie",
-    "hochdeutsch": "Bettelei"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Beerg (Beerch); de Beerge",
     "hochdeutsch": "Berg"
   },
   {
     "artikel": "",
-    "plattdeutsch": "beerg-af  (beerch-af)",
+    "plattdeutsch": "beerg-af (beerch-af)",
     "hochdeutsch": "bergab"
   },
   {
     "artikel": "",
-    "plattdeutsch": "beerg-doal  (beerch-doal)",
+    "plattdeutsch": "beerg-doal (beerch-doal)",
     "hochdeutsch": "bergab"
   },
   {
     "artikel": "",
-    "plattdeutsch": "beerg-rünner  (beerch-rünner)",
+    "plattdeutsch": "beerg-rünner (beerch-rünner)",
     "hochdeutsch": "bergab"
   },
   {
     "artikel": "",
-    "plattdeutsch": "beerg-up  (beerch-up)",
+    "plattdeutsch": "beerg-up (beerch-up)",
     "hochdeutsch": "bergauf"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Beerken",
     "hochdeutsch": "Birke"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "beter",
-    "hochdeutsch": "besser"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Beterung",
-    "hochdeutsch": "Besserung"
   },
   {
     "artikel": "dat",
@@ -2031,6 +2011,16 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "belen",
+    "hochdeutsch": "betteln"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Beleraaie",
+    "hochdeutsch": "Bettelei"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "beliekteiken",
     "hochdeutsch": "etwas erklären"
   },
@@ -2201,6 +2191,11 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "besöamen",
+    "hochdeutsch": "besäumen"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "besoiken",
     "hochdeutsch": "besuchen"
   },
@@ -2208,11 +2203,6 @@
     "artikel": "",
     "plattdeutsch": "besonners",
     "hochdeutsch": "besonders"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "besöamen",
-    "hochdeutsch": "besäumen"
   },
   {
     "artikel": "",
@@ -2283,6 +2273,16 @@
     "artikel": "",
     "plattdeutsch": "beteiken",
     "hochdeutsch": "bezeichnen"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "beter",
+    "hochdeutsch": "besser"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Beterung",
+    "hochdeutsch": "Besserung"
   },
   {
     "artikel": "",
@@ -2415,14 +2415,14 @@
     "hochdeutsch": "Maßeinheit für Garn (Haspel)"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "bienen",
-    "hochdeutsch": "binden"
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Biendken",
     "hochdeutsch": "Band zur Trachtenmütze"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "bienen",
+    "hochdeutsch": "binden"
   },
   {
     "artikel": "",
@@ -2483,56 +2483,6 @@
     "artikel": "",
     "plattdeutsch": "billig (billich)",
     "hochdeutsch": "billig"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "sien",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck bin                  was           bin wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu bis                   woies        bis wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et es        was           es wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei sind      woien        sind wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "sein",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich bin                    war           bin gewesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du bist                    warst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es ist           war",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir sind ….             waren  ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "de",
@@ -2711,13 +2661,13 @@
   },
   {
     "artikel": "dat",
-    "plattdeutsch": "Blatt; de Bleare",
-    "hochdeutsch": "Blatt am Baum"
+    "plattdeutsch": "Blatt (innen Bloae)",
+    "hochdeutsch": "Tageszeitung (in der Tageszeitung)"
   },
   {
     "artikel": "dat",
-    "plattdeutsch": "Blatt (innen Bloae)",
-    "hochdeutsch": "Tageszeitung (in der Tageszeitung)"
+    "plattdeutsch": "Blatt; de Bleare",
+    "hochdeutsch": "Blatt am Baum"
   },
   {
     "artikel": "de",
@@ -2753,11 +2703,6 @@
     "artikel": "de",
     "plattdeutsch": "Bleckschähen",
     "hochdeutsch": "Blechschere"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Bleser",
-    "hochdeutsch": "Bläser"
   },
   {
     "artikel": "de",
@@ -2811,6 +2756,11 @@
   },
   {
     "artikel": "de",
+    "plattdeutsch": "Bleser",
+    "hochdeutsch": "Bläser"
+  },
+  {
+    "artikel": "de",
     "plattdeutsch": "Blesse",
     "hochdeutsch": "Stirnzeichnung von Pferd und Kuh (weiß)"
   },
@@ -2837,7 +2787,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Blienekeoh",
-    "hochdeutsch": "Blindekuh  (Kinderspiel)"
+    "hochdeutsch": "Blindekuh (Kinderspiel)"
   },
   {
     "artikel": "",
@@ -2847,12 +2797,12 @@
   {
     "artikel": "de",
     "plattdeutsch": "Blierker",
-    "hochdeutsch": "Beller  (ständig bellender Hund)"
+    "hochdeutsch": "Beller (ständig bellender Hund)"
   },
   {
     "artikel": "",
     "plattdeutsch": "blitzeblank",
-    "hochdeutsch": "sauber  (sehr sauber)"
+    "hochdeutsch": "sauber (sehr sauber)"
   },
   {
     "artikel": "",
@@ -2946,7 +2896,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "boarselig  (boarselich)",
+    "plattdeutsch": "boarselig (boarselich)",
     "hochdeutsch": "unachtsam"
   },
   {
@@ -2968,6 +2918,16 @@
     "artikel": "de",
     "plattdeutsch": "Boartlicker",
     "hochdeutsch": "Schleimer, Speichellecker"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "böase",
+    "hochdeutsch": "böse"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Böasewicht",
+    "hochdeutsch": "Bösewicht"
   },
   {
     "artikel": "",
@@ -3023,16 +2983,6 @@
     "artikel": "",
     "plattdeutsch": "boom",
     "hochdeutsch": "oben"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "böase",
-    "hochdeutsch": "böse"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Böasewicht",
-    "hochdeutsch": "Bösewicht"
   },
   {
     "artikel": "",
@@ -3205,16 +3155,6 @@
     "hochdeutsch": "Brotwasser (Getränk aus Wasser und Schwarzbrotstücke)"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "breken",
-    "hochdeutsch": "brechen, erbrechen"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Brekiesen",
-    "hochdeutsch": "Brechstange"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Bregen",
     "hochdeutsch": "Gehirn"
@@ -3251,6 +3191,16 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "breken",
+    "hochdeutsch": "brechen, erbrechen"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Brekiesen",
+    "hochdeutsch": "Brechstange"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "brennen",
     "hochdeutsch": "brennen"
   },
@@ -3261,7 +3211,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "brennerig  (brennerich)",
+    "plattdeutsch": "brennerig (brennerich)",
     "hochdeutsch": "Brenngeruch"
   },
   {
@@ -3292,7 +3242,7 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Breok",
-    "hochdeutsch": "Bruch  (Feuchtwiesen)"
+    "hochdeutsch": "Bruch (Feuchtwiesen)"
   },
   {
     "artikel": "de",
@@ -3720,6 +3670,16 @@
     "hochdeutsch": "Tag"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Damp",
+    "hochdeutsch": "Dampf"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dampen",
+    "hochdeutsch": "dampfen"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "dämpen",
     "hochdeutsch": "dämpfen"
@@ -3733,16 +3693,6 @@
     "artikel": "",
     "plattdeutsch": "dämpig (dämpich)",
     "hochdeutsch": "asthmatisch (in der Regel bei Pferden)"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dampen",
-    "hochdeutsch": "dampfen"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Damp",
-    "hochdeutsch": "Dampf"
   },
   {
     "artikel": "",
@@ -3796,13 +3746,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "daumoals",
-    "hochdeutsch": "damals"
+    "plattdeutsch": "dauf",
+    "hochdeutsch": "taub"
   },
   {
     "artikel": "",
-    "plattdeutsch": "dauf",
-    "hochdeutsch": "taub"
+    "plattdeutsch": "daumoals",
+    "hochdeutsch": "damals"
   },
   {
     "artikel": "de",
@@ -3810,14 +3760,14 @@
     "hochdeutsch": "Tod"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Daute; de Dohen",
-    "hochdeutsch": "Tote"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "daute",
     "hochdeutsch": "tot"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Daute; de Dohen",
+    "hochdeutsch": "Tote"
   },
   {
     "artikel": "",
@@ -3828,11 +3778,6 @@
     "artikel": "",
     "plattdeutsch": "decken",
     "hochdeutsch": "decken"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Deken",
-    "hochdeutsch": "Decke"
   },
   {
     "artikel": "de",
@@ -3856,18 +3801,18 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Deig  (Deich)",
+    "plattdeutsch": "Deig (Deich)",
     "hochdeutsch": "Teig"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Deil; de Deile",
-    "hochdeutsch": "Teil"
   },
   {
     "artikel": "dat",
     "plattdeutsch": "Deil",
     "hochdeutsch": "Ackerstück"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Deil; de Deile",
+    "hochdeutsch": "Teil"
   },
   {
     "artikel": "",
@@ -3893,6 +3838,11 @@
     "artikel": "de",
     "plattdeutsch": "Deipte",
     "hochdeutsch": "Tiefe"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Deken",
+    "hochdeutsch": "Decke"
   },
   {
     "artikel": "dat",
@@ -3960,56 +3910,6 @@
     "hochdeutsch": "Tuch"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "deon",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck deo                   döa       häbbe doan",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu döas                  döes     häss doan",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et döat       döa       häff doan",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei deot        döen     häbb doan",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "tun",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich tue                      tat             habe getan",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du tust                      tatest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es tut            tat",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir tun ...                  taten ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Dezember",
     "hochdeutsch": "Dezember"
@@ -4040,14 +3940,14 @@
     "hochdeutsch": "dick, betrunken"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "dickköppig (dickköppich)",
-    "hochdeutsch": "dickköpfig"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Dickkopp",
     "hochdeutsch": "Dickkopf"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dickköppig (dickköppich)",
+    "hochdeutsch": "dickköpfig"
   },
   {
     "artikel": "de",
@@ -4111,7 +4011,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Dingesdagg  (Dingesdach)",
+    "plattdeutsch": "Dingesdagg (Dingesdach)",
     "hochdeutsch": "Dienstag"
   },
   {
@@ -4218,91 +4118,6 @@
     "artikel": "",
     "plattdeutsch": "doameln",
     "hochdeutsch": "herumhampeln"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dor",
-    "hochdeutsch": "dort, da"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorachter",
-    "hochdeutsch": "dahinter"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "doran",
-    "hochdeutsch": "daran"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorbi",
-    "hochdeutsch": "dabei"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorfür",
-    "hochdeutsch": "dafür"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorhenn",
-    "hochdeutsch": "dahin"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorin",
-    "hochdeutsch": "darin"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dormiehe",
-    "hochdeutsch": "damit"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dornoa",
-    "hochdeutsch": "danach"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorrober",
-    "hochdeutsch": "darüber"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorrümme",
-    "hochdeutsch": "darum"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorrünner",
-    "hochdeutsch": "darunter"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorteo",
-    "hochdeutsch": "dazu"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dortiergen",
-    "hochdeutsch": "daneben"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorrup",
-    "hochdeutsch": "darauf"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorvan",
-    "hochdeutsch": "davon"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "dorvür",
-    "hochdeutsch": "davor"
   },
   {
     "artikel": "",
@@ -4486,8 +4301,53 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "dor",
+    "hochdeutsch": "dort, da"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorachter",
+    "hochdeutsch": "dahinter"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "doran",
+    "hochdeutsch": "daran"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorbi",
+    "hochdeutsch": "dabei"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorfür",
+    "hochdeutsch": "dafür"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorhenn",
+    "hochdeutsch": "dahin"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorin",
+    "hochdeutsch": "darin"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "dörlk",
     "hochdeutsch": "überdreht"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dormiehe",
+    "hochdeutsch": "damit"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dornoa",
+    "hochdeutsch": "danach"
   },
   {
     "artikel": "de",
@@ -4503,6 +4363,46 @@
     "artikel": "de",
     "plattdeutsch": "Dörpstein",
     "hochdeutsch": "Taufstein"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorrober",
+    "hochdeutsch": "darüber"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorrümme",
+    "hochdeutsch": "darum"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorrünner",
+    "hochdeutsch": "darunter"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorrup",
+    "hochdeutsch": "darauf"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorteo",
+    "hochdeutsch": "dazu"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dortiergen",
+    "hochdeutsch": "daneben"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorvan",
+    "hochdeutsch": "davon"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "dorvür",
+    "hochdeutsch": "davor"
   },
   {
     "artikel": "",
@@ -4600,6 +4500,11 @@
     "hochdeutsch": "Frau (trottelige, verschrobene)"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Dreoßel",
+    "hochdeutsch": "Drossel (der Singvogel)"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "drepen",
     "hochdeutsch": "treffen"
@@ -4683,11 +4588,6 @@
     "artikel": "de",
     "plattdeutsch": "Droaken",
     "hochdeutsch": "Erpel (männliche Ente)"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Dreoßel",
-    "hochdeutsch": "Drossel (der Singvogel)"
   },
   {
     "artikel": "",
@@ -4951,11 +4851,6 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "Dürgung (geoen)",
-    "hochdeutsch": "Verdauung (gute)"
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "dürgen",
     "hochdeutsch": "taugen"
   },
@@ -4976,6 +4871,16 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "Dürgung (geoen)",
+    "hochdeutsch": "Verdauung (gute)"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Dürhäng",
+    "hochdeutsch": "Türscharnier"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "dürhaulen",
     "hochdeutsch": "durchhalten"
   },
@@ -4988,11 +4893,6 @@
     "artikel": "",
     "plattdeutsch": "dürhelpen",
     "hochdeutsch": "durchhelfen"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Dürhäng",
-    "hochdeutsch": "Türscharnier"
   },
   {
     "artikel": "",
@@ -5056,13 +4956,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "dürnaaihen",
-    "hochdeutsch": "durchnähen"
+    "plattdeutsch": "dürnaaien",
+    "hochdeutsch": "verprügeln"
   },
   {
     "artikel": "",
-    "plattdeutsch": "dürnaaien",
-    "hochdeutsch": "verprügeln"
+    "plattdeutsch": "dürnaaihen",
+    "hochdeutsch": "durchnähen"
   },
   {
     "artikel": "",
@@ -5106,7 +5006,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Dürschlagg  (Dürschlach)",
+    "plattdeutsch": "Dürschlagg (Dürschlach)",
     "hochdeutsch": "Durchschlag (Sieb)"
   },
   {
@@ -5180,6 +5080,11 @@
     "hochdeutsch": "dunkel"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Dutk",
+    "hochdeutsch": "Bett (eingebaut)"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "dütsk",
     "hochdeutsch": "deutsch"
@@ -5198,11 +5103,6 @@
     "artikel": "",
     "plattdeutsch": "dütt",
     "hochdeutsch": "dies, dieses"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Dutk",
-    "hochdeutsch": "Bett (eingebaut)"
   },
   {
     "artikel": "dat",
@@ -5375,14 +5275,14 @@
     "hochdeutsch": "einmal"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Elefant",
-    "hochdeutsch": "Elefant"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "elben",
     "hochdeutsch": "elf"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Elefant",
+    "hochdeutsch": "Elefant"
   },
   {
     "artikel": "de",
@@ -5621,7 +5521,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Färldwegg  (Färldwech)",
+    "plattdeutsch": "Färldwegg (Färldwech)",
     "hochdeutsch": "Feldweg"
   },
   {
@@ -5665,16 +5565,6 @@
     "hochdeutsch": "Fabrik"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Fehen",
-    "hochdeutsch": "Feder(n)"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Fehenwoagen",
-    "hochdeutsch": "Pferdewagen (gefedert, für Besorgungen)"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "feerben",
     "hochdeutsch": "färben"
@@ -5693,6 +5583,16 @@
     "artikel": "",
     "plattdeutsch": "fegen",
     "hochdeutsch": "fegen"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Fehen",
+    "hochdeutsch": "Feder(n)"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Fehenwoagen",
+    "hochdeutsch": "Pferdewagen (gefedert, für Besorgungen)"
   },
   {
     "artikel": "",
@@ -5742,7 +5642,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Feot (teo Feote); de Foite",
-    "hochdeutsch": "Fuß  (zu Fuß)"
+    "hochdeutsch": "Fuß (zu Fuß)"
   },
   {
     "artikel": "de",
@@ -6126,13 +6026,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "fludderig (fludderich)",
-    "hochdeutsch": "flatterhaft"
+    "plattdeutsch": "flüchten",
+    "hochdeutsch": "flüchten"
   },
   {
     "artikel": "",
-    "plattdeutsch": "flüchten",
-    "hochdeutsch": "flüchten"
+    "plattdeutsch": "fludderig (fludderich)",
+    "hochdeutsch": "flatterhaft"
   },
   {
     "artikel": "de",
@@ -6456,13 +6356,13 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Frünne",
-    "hochdeutsch": "Verwandte"
+    "plattdeutsch": "Fründskopp",
+    "hochdeutsch": "Verwandtschaft, Freundschaft"
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Fründskopp",
-    "hochdeutsch": "Verwandtschaft, Freundschaft"
+    "plattdeutsch": "Frünne",
+    "hochdeutsch": "Verwandte"
   },
   {
     "artikel": "",
@@ -6561,13 +6461,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "fürwoahr",
-    "hochdeutsch": "fürwahr, wirklich"
+    "plattdeutsch": "furtern",
+    "hochdeutsch": "fummeln"
   },
   {
     "artikel": "",
-    "plattdeutsch": "furtern",
-    "hochdeutsch": "fummeln"
+    "plattdeutsch": "fürwoahr",
+    "hochdeutsch": "fürwahr, wirklich"
   },
   {
     "artikel": "",
@@ -6675,14 +6575,14 @@
     "hochdeutsch": "Gänsewein (Wasser)"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Gebett",
-    "hochdeutsch": "Gebet"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "ge",
     "hochdeutsch": "je"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Gebett",
+    "hochdeutsch": "Gebet"
   },
   {
     "artikel": "",
@@ -6800,14 +6700,14 @@
     "hochdeutsch": "entgegen"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "gegenenanner",
-    "hochdeutsch": "gegeneinander"
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Gegendeil",
     "hochdeutsch": "Gegenteil"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "gegenenanner",
+    "hochdeutsch": "gegeneinander"
   },
   {
     "artikel": "",
@@ -6826,7 +6726,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "gehöarig  (gehörich)",
+    "plattdeutsch": "gehöarig (gehörich)",
     "hochdeutsch": "stark"
   },
   {
@@ -6926,7 +6826,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "geneog  (geneoch)",
+    "plattdeutsch": "geneog (geneoch)",
     "hochdeutsch": "genug"
   },
   {
@@ -7100,14 +7000,14 @@
     "hochdeutsch": "gewöhnen"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "gewinnen (gewunnen)",
-    "hochdeutsch": "gewinnen (gewonnen)"
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Gewierten",
     "hochdeutsch": "Gewissen"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "gewinnen (gewunnen)",
+    "hochdeutsch": "gewinnen (gewonnen)"
   },
   {
     "artikel": "",
@@ -7201,58 +7101,8 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "glörben",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck glörbe                   glörbere",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu glörbes                  glörberes",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et glörbet       glörbere",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei glörbet        glörben",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "glauben",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich glaube                      glaubte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du glaubst                      glaubtest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es glaubt            glaubte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir glauben ...                glaubten",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "glörnig (glörnich)",
-    "hochdeutsch": "glühend (bei Fieber, Alkoholkonsum, …)"
+    "hochdeutsch": "glühend (bei Fieber, Alkoholkonsum, )"
   },
   {
     "artikel": "dat",
@@ -7332,51 +7182,6 @@
   {
     "artikel": "",
     "plattdeutsch": "goahn",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck goah                    güng       bin goahn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu gäahs                   güngs     bis goahn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et gäaht        güng       es goahn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei goaht         güngen   sind goahn",
-    "plattdeutsch": "gehen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich gehe                        ging         bin gegangen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du gehst                        gingst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es geht              ging",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir gehen ...                  gingen ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "goahn",
     "hochdeutsch": "aufgehen des Hefeteiges"
   },
   {
@@ -7385,14 +7190,14 @@
     "hochdeutsch": "gar"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Goarn",
-    "hochdeutsch": "Garn"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "goar nich",
     "hochdeutsch": "gar nicht"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Goarn",
+    "hochdeutsch": "Garn"
   },
   {
     "artikel": "de",
@@ -7447,7 +7252,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Grammen",
-    "hochdeutsch": "Grummet  (zweiter Grasschnitt, getrocknet zu Heu)"
+    "hochdeutsch": "Grummet (zweiter Grasschnitt, getrocknet zu Heu)"
   },
   {
     "artikel": "de",
@@ -7485,6 +7290,11 @@
     "hochdeutsch": "groß"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Grautaulen",
+    "hochdeutsch": "Großeltern"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "graute",
     "hochdeutsch": "große"
@@ -7495,29 +7305,24 @@
     "hochdeutsch": "großen"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Grautaulen",
-    "hochdeutsch": "Großeltern"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "grautendeils",
     "hochdeutsch": "größtenteils"
   },
   {
     "artikel": "",
-    "plattdeutsch": "grautjöahrig  (grautjöahrich)",
+    "plattdeutsch": "grautjöahrig (grautjöahrich)",
     "hochdeutsch": "volljährig"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Grautmoime",
-    "hochdeutsch": "Großmutter"
   },
   {
     "artikel": "dat",
     "plattdeutsch": "Grautmiul",
     "hochdeutsch": "Großmaul"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Grautmoime",
+    "hochdeutsch": "Großmutter"
   },
   {
     "artikel": "de",
@@ -7770,6 +7575,11 @@
     "hochdeutsch": "unfruchtbar (bei Säugetieren)"
   },
   {
+    "artikel": "dat",
+    "plattdeutsch": "Haaimweih",
+    "hochdeutsch": "Heimweh"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "haalbe",
     "hochdeutsch": "halbe"
@@ -7895,61 +7705,6 @@
     "hochdeutsch": "Häcksellagerraum"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Haaimweih",
-    "hochdeutsch": "Heimweh"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "hämmen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck häbbe                   haa       häbbe hat",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu häss                      haas     häss hat",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et häff            haa       häff hat",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei häbb           haan     häbb hat",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "haben",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich habe                      hatte         habe gehabt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du hast                        hattest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es hat              hatte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir haben ...                hatten ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Hand; de Hänne",
     "hochdeutsch": "Hand"
@@ -8022,7 +7777,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Haspel",
-    "hochdeutsch": "Haspel  (Garnwinde)"
+    "hochdeutsch": "Haspel (Garnwinde)"
   },
   {
     "artikel": "dat",
@@ -8111,56 +7866,6 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "heiten",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck heite                heitere    häbbe heiten",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu hess                 heiteres  häss heiten",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et hett       heitere    häff heiten",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei heitet     heiten      häbb heiten",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "heißen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich heiße                      hieß            habe geheißen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du heißt                        hießest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es heißt            hieß",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir heißen ...                hießen ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "helle",
     "hochdeutsch": "hell, laut, schlau"
   },
@@ -8173,6 +7878,11 @@
     "artikel": "",
     "plattdeutsch": "henn",
     "hochdeutsch": "hin"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "henn un heer",
+    "hochdeutsch": "hin und her"
   },
   {
     "artikel": "",
@@ -8261,11 +7971,6 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "henn un heer",
-    "hochdeutsch": "hin und her"
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "hennwiesen",
     "hochdeutsch": "hinweisen"
   },
@@ -8350,26 +8055,6 @@
     "hochdeutsch": "Hut"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Hiermd; de Hierme",
-    "hochdeutsch": "Hemd"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Hiermdknöape",
-    "hochdeutsch": "Hemdknöpfe"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Hiermdkroagen",
-    "hochdeutsch": "Hemdkragen"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Hiermdschlippk",
-    "hochdeutsch": "Hemdzipfel"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "hibbelig (hibbelich)",
     "hochdeutsch": "unruhig"
@@ -8403,6 +8088,26 @@
     "artikel": "",
     "plattdeutsch": "hierbi",
     "hochdeutsch": "hierbei"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Hiermd; de Hierme",
+    "hochdeutsch": "Hemd"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Hiermdknöape",
+    "hochdeutsch": "Hemdknöpfe"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Hiermdkroagen",
+    "hochdeutsch": "Hemdkragen"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Hiermdschlippk",
+    "hochdeutsch": "Hemdzipfel"
   },
   {
     "artikel": "",
@@ -8635,6 +8340,11 @@
     "hochdeutsch": "Heuhaufen"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Hoaken; de Hoakens",
+    "hochdeutsch": "Haken"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "hoalen",
     "hochdeutsch": "holen"
@@ -8645,6 +8355,11 @@
     "hochdeutsch": "dengeln (einer Sense)"
   },
   {
+    "artikel": "dat",
+    "plattdeutsch": "Hoar; de Hoare",
+    "hochdeutsch": "Haar"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Hoarbessen",
     "hochdeutsch": "Haarbesen"
@@ -8653,11 +8368,6 @@
     "artikel": "de",
     "plattdeutsch": "Hoarbössen",
     "hochdeutsch": "Haarbürste"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Hoar; de Hoare",
-    "hochdeutsch": "Haar"
   },
   {
     "artikel": "de",
@@ -8673,11 +8383,6 @@
     "artikel": "de",
     "plattdeutsch": "Hoarken",
     "hochdeutsch": "Harke"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Hoaken; de Hoakens",
-    "hochdeutsch": "Haken"
   },
   {
     "artikel": "de",
@@ -8725,11 +8430,6 @@
     "hochdeutsch": "Haar (einzeln)"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Hoasticken",
-    "hochdeutsch": "Amboss zum Dengeln der Sense"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "höart",
     "hochdeutsch": "gehört"
@@ -8738,6 +8438,11 @@
     "artikel": "de",
     "plattdeutsch": "Hoase",
     "hochdeutsch": "Hase, Schwungpflug (von Hand geführt)"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Hoasticken",
+    "hochdeutsch": "Amboss zum Dengeln der Sense"
   },
   {
     "artikel": "de",
@@ -8756,7 +8461,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Hochtietsdagg  (Hochtietsdach)",
+    "plattdeutsch": "Hochtietsdagg (Hochtietsdach)",
     "hochdeutsch": "Hochzeitstag"
   },
   {
@@ -8786,13 +8491,13 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Hoihnerwiehm",
-    "hochdeutsch": "Hühnerstall mit Sitzstangen"
+    "plattdeutsch": "Hoiete",
+    "hochdeutsch": "Gatter (kleines)"
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Hoiete",
-    "hochdeutsch": "Gatter (kleines)"
+    "plattdeutsch": "Hoihnerwiehm",
+    "hochdeutsch": "Hühnerstall mit Sitzstangen"
   },
   {
     "artikel": "",
@@ -8808,51 +8513,6 @@
     "artikel": "de",
     "plattdeutsch": "Hölter",
     "hochdeutsch": "Kopf"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "hopen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck hope                hopere      häbbe hopet",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu hopes               hoperes    häss hopet",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et hopet    hopere      häff hopet",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei hopet     hoperen    häbb hopet",
-    "plattdeutsch": "hoffen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich hoffe                   hoffte          habe gehofft",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du hoffst                   hofftest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es hofft         hoffte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir hoffen ...             hofften ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "de",
@@ -8976,28 +8636,18 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Hungerhoarken",
-    "hochdeutsch": "Stroh- oder Heuharke (große)"
+    "plattdeutsch": "Hungerhoaken",
+    "hochdeutsch": "Mensch (hager)"
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Hungerhoaken",
-    "hochdeutsch": "Mensch (hager)"
+    "plattdeutsch": "Hungerhoarken",
+    "hochdeutsch": "Stroh- oder Heuharke (große)"
   },
   {
     "artikel": "",
     "plattdeutsch": "hüngerig (hüngerich)",
     "hochdeutsch": "hungrig"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "hüünsken",
-    "hochdeutsch": "schluchzen"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "hüünskerig (hüünskerich)",
-    "hochdeutsch": "weinerlich"
   },
   {
     "artikel": "",
@@ -9030,6 +8680,16 @@
     "hochdeutsch": "los (Befehl für Zugtiere)"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "hüünsken",
+    "hochdeutsch": "schluchzen"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "hüünskerig (hüünskerich)",
+    "hochdeutsch": "weinerlich"
+  },
+  {
     "artikel": "dat",
     "plattdeutsch": "Hüüsken",
     "hochdeutsch": "Häuschen"
@@ -9058,6 +8718,16 @@
     "artikel": "de",
     "plattdeutsch": "Iisbleomen",
     "hochdeutsch": "Eisblumen"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Iisen",
+    "hochdeutsch": "Eisen"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Iisenboahn",
+    "hochdeutsch": "Eisenbahn"
   },
   {
     "artikel": "",
@@ -9171,13 +8841,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "indrürsken",
-    "hochdeutsch": "eindösen"
+    "plattdeutsch": "indrürseln",
+    "hochdeutsch": "einnicken"
   },
   {
     "artikel": "",
-    "plattdeutsch": "indrürseln",
-    "hochdeutsch": "einnicken"
+    "plattdeutsch": "indrürsken",
+    "hochdeutsch": "eindösen"
   },
   {
     "artikel": "",
@@ -9251,13 +8921,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "inne (in de)",
-    "hochdeutsch": "in der, in die"
+    "plattdeutsch": "inne",
+    "hochdeutsch": "zu Hause"
   },
   {
     "artikel": "",
-    "plattdeutsch": "inne",
-    "hochdeutsch": "zu Hause"
+    "plattdeutsch": "inne (in de)",
+    "hochdeutsch": "in der, in die"
   },
   {
     "artikel": "",
@@ -9575,16 +9245,6 @@
     "hochdeutsch": "Esel"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Iisen",
-    "hochdeutsch": "Eisen"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Iisenboahn",
-    "hochdeutsch": "Eisenbahn"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Iuhe",
     "hochdeutsch": "Uhr"
@@ -9651,18 +9311,23 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "iut, iute",
+    "hochdeutsch": "aus"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "iutbacken",
     "hochdeutsch": "ausbacken"
   },
   {
     "artikel": "",
-    "plattdeutsch": "iutbetern",
-    "hochdeutsch": "ausbessern"
+    "plattdeutsch": "iutbeoen",
+    "hochdeutsch": "ausbauen"
   },
   {
     "artikel": "",
-    "plattdeutsch": "iutbeoen",
-    "hochdeutsch": "ausbauen"
+    "plattdeutsch": "iutbetern",
+    "hochdeutsch": "ausbessern"
   },
   {
     "artikel": "",
@@ -9773,11 +9438,6 @@
     "artikel": "",
     "plattdeutsch": "iutdrücken",
     "hochdeutsch": "ausdrücken"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "iut, iute",
-    "hochdeutsch": "aus"
   },
   {
     "artikel": "",
@@ -9960,6 +9620,11 @@
     "hochdeutsch": "auslachen"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "iutlährnen",
+    "hochdeutsch": "ausleihen"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Iutlänner",
     "hochdeutsch": "Ausländer"
@@ -9968,11 +9633,6 @@
     "artikel": "",
     "plattdeutsch": "iutlappen",
     "hochdeutsch": "aussaufen"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "iutlährnen",
-    "hochdeutsch": "ausleihen"
   },
   {
     "artikel": "",
@@ -10565,6 +10225,11 @@
     "hochdeutsch": "Kasse, Geldinstitut"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "katrente goahn",
+    "hochdeutsch": "fliehen, abhauen"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Katte",
     "hochdeutsch": "Katze"
@@ -10573,11 +10238,6 @@
     "artikel": "",
     "plattdeutsch": "katthoaken",
     "hochdeutsch": "streiten"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "katrente goahn",
-    "hochdeutsch": "fliehen, abhauen"
   },
   {
     "artikel": "de",
@@ -10623,6 +10283,11 @@
     "artikel": "de",
     "plattdeutsch": "Keerkturm",
     "hochdeutsch": "Kirchturm"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "kehen",
+    "hochdeutsch": "kehren"
   },
   {
     "artikel": "de",
@@ -10738,11 +10403,6 @@
     "artikel": "de",
     "plattdeutsch": "Ketuffel",
     "hochdeutsch": "Kartoffel"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "kehen",
-    "hochdeutsch": "kehren"
   },
   {
     "artikel": "de",
@@ -10952,7 +10612,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Klatten",
-    "hochdeutsch": "Haare  (verfilzt)"
+    "hochdeutsch": "Haare (verfilzt)"
   },
   {
     "artikel": "",
@@ -11032,7 +10692,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Kliutentreher",
-    "hochdeutsch": "Bauer  (scherzhaft)"
+    "hochdeutsch": "Bauer (scherzhaft)"
   },
   {
     "artikel": "de",
@@ -11067,7 +10727,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Klopphingst",
-    "hochdeutsch": "Hengst  (analog zum Binneneber)"
+    "hochdeutsch": "Hengst (analog zum Binneneber)"
   },
   {
     "artikel": "",
@@ -11116,13 +10776,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "klürterig  (klürterich)",
-    "hochdeutsch": "klapperig  (krank)"
+    "plattdeutsch": "klürterig (klürterich)",
+    "hochdeutsch": "klapperig (krank)"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Klürtern",
-    "hochdeutsch": "Kotbrocken am Tierfell  (besonders bei Kühen)"
+    "hochdeutsch": "Kotbrocken am Tierfell (besonders bei Kühen)"
   },
   {
     "artikel": "",
@@ -11211,7 +10871,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "kniepig  (kniepich)",
+    "plattdeutsch": "kniepig (kniepich)",
     "hochdeutsch": "geizig"
   },
   {
@@ -11231,7 +10891,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "kniuserig  (kniuserich)",
+    "plattdeutsch": "kniuserig (kniuserich)",
     "hochdeutsch": "geizig"
   },
   {
@@ -11385,6 +11045,16 @@
     "hochdeutsch": "Korb"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "köörfken",
+    "hochdeutsch": "flechten (Weidenkörbe)"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Köörfker",
+    "hochdeutsch": "Korbflechter"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Koorfpullen",
     "hochdeutsch": "Korbflasche"
@@ -11423,16 +11093,6 @@
     "artikel": "dat",
     "plattdeutsch": "Koppweih",
     "hochdeutsch": "Kopfschmerzen"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "köörfken",
-    "hochdeutsch": "flechten (Weidenkörbe)"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Köörfker",
-    "hochdeutsch": "Korbflechter"
   },
   {
     "artikel": "",
@@ -11735,56 +11395,6 @@
     "hochdeutsch": "kommen (kam)"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "kürnen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck kann                  könn       häbbe könnt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu konns                 könns     häss könnt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et kann       könn       häff könnt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei künnt       können   häbb könnt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "können",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich kann                      konnte        habe gekonnt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du kannst                    konntest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es kann           konnte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir können ...              konnten ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Kürßel",
     "hochdeutsch": "Gerede"
@@ -11870,9 +11480,29 @@
     "hochdeutsch": "dünn (z. B. Kaffee)"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Lährm",
+    "hochdeutsch": "Lehm"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Lährmkiuhlen",
+    "hochdeutsch": "Lehmkuhle"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "lährnen",
+    "hochdeutsch": "leihen"
+  },
+  {
     "artikel": "dat",
     "plattdeutsch": "Lämmken",
     "hochdeutsch": "Lämmlein"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Land (uppen Lanne)",
+    "hochdeutsch": "Land, Acker"
   },
   {
     "artikel": "de",
@@ -11906,11 +11536,6 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "längest",
-    "hochdeutsch": "längst"
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "langes",
     "hochdeutsch": "entlang"
   },
@@ -11923,6 +11548,11 @@
     "artikel": "",
     "plattdeutsch": "langeskurm",
     "hochdeutsch": "entlangkommen, auskommen"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "längest",
+    "hochdeutsch": "längst"
   },
   {
     "artikel": "de",
@@ -11943,11 +11573,6 @@
     "artikel": "de",
     "plattdeutsch": "Langwoagen",
     "hochdeutsch": "Verbindungsstück zur Verlängerung eines Ackerwagens"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Land (uppen Lanne)",
-    "hochdeutsch": "Land, Acker"
   },
   {
     "artikel": "de",
@@ -11976,23 +11601,8 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Lärghert  (Lärchhert)",
+    "plattdeutsch": "Lärghert (Lärchhert)",
     "hochdeutsch": "Schlechtigkeit"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Lährm",
-    "hochdeutsch": "Lehm"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Lährmkiuhlen",
-    "hochdeutsch": "Lehmkuhle"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "lährnen",
-    "hochdeutsch": "leihen"
   },
   {
     "artikel": "de",
@@ -12013,56 +11623,6 @@
     "artikel": "",
     "plattdeutsch": "lauhnen",
     "hochdeutsch": "lohnen, entlohnen"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "laupen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck laupe                   leip       bin laupen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu lopps                    leips     bis laupen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et lopp          leip       es laupen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei laupet        leipen   sind laupen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "laufen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich laufe                      lief            bin gelaufen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du läufst                      liefest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es läuft            lief",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir laufen ...                liefen ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "de",
@@ -12241,17 +11801,12 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Lichwitz",
-    "hochdeutsch": "Leichtfuß  (Spinner)"
-  },
-  {
-    "artikel": "de",
     "plattdeutsch": "Lichfitk",
     "hochdeutsch": "Leichtfuß"
   },
   {
     "artikel": "",
-    "plattdeutsch": "lichföarig  (lichföarich)",
+    "plattdeutsch": "lichföarig (lichföarich)",
     "hochdeutsch": "leichtfertig"
   },
   {
@@ -12263,6 +11818,11 @@
     "artikel": "de",
     "plattdeutsch": "Lichtschinken",
     "hochdeutsch": "Leichtfuß"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Lichwitz",
+    "hochdeutsch": "Leichtfuß (Spinner)"
   },
   {
     "artikel": "de",
@@ -12456,17 +12016,17 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "lierg  (lierch)",
+    "plattdeutsch": "lierg (lierch)",
     "hochdeutsch": "leer"
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Lierglörper  (Lierchlörper)",
+    "plattdeutsch": "Lierglörper (Lierchlörper)",
     "hochdeutsch": "Müßiggänger"
   },
   {
     "artikel": "",
-    "plattdeutsch": "liergmoaken  (lierchmoaken)",
+    "plattdeutsch": "liergmoaken (lierchmoaken)",
     "hochdeutsch": "leeren"
   },
   {
@@ -12707,7 +12267,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Luchtort",
-    "hochdeutsch": "Seitenausgang im alten Bauernhaus  (Bereich davor)"
+    "hochdeutsch": "Seitenausgang im alten Bauernhaus (Bereich davor)"
   },
   {
     "artikel": "de",
@@ -13180,6 +12740,11 @@
     "hochdeutsch": "mit"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "miehegoahn",
+    "hochdeutsch": "mitgehen"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Miehen",
     "hochdeutsch": "Vogelmiere"
@@ -13213,11 +12778,6 @@
     "artikel": "",
     "plattdeutsch": "mientwegen",
     "hochdeutsch": "meinetwegen"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "miehegoahn",
-    "hochdeutsch": "mitgehen"
   },
   {
     "artikel": "de",
@@ -13415,6 +12975,11 @@
     "hochdeutsch": "Mahlzeit"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "Moain",
+    "hochdeutsch": "guten Morgen"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Moaite",
     "hochdeutsch": "Mühe"
@@ -13457,7 +13022,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Moark",
-    "hochdeutsch": "DM  (Deutsche Mark)"
+    "hochdeutsch": "DM (Deutsche Mark)"
   },
   {
     "artikel": "dat",
@@ -13483,11 +13048,6 @@
     "artikel": "",
     "plattdeutsch": "moie",
     "hochdeutsch": "müde"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "Moain",
-    "hochdeutsch": "guten Morgen"
   },
   {
     "artikel": "de",
@@ -13580,11 +13140,6 @@
     "hochdeutsch": "Molkerei"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "müülsk",
-    "hochdeutsch": "mürrisch"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Mund",
     "hochdeutsch": "Mund"
@@ -13616,58 +13171,13 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Müssen",
-    "hochdeutsch": "Mütze"
-  },
-  {
-    "artikel": "de",
     "plattdeutsch": "Musick",
     "hochdeutsch": "Musik"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "mürten",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck mott                 mösse      häbbe mösst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu moss                mösses    häss mösst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et mott      mösse      häff mösst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei mütt       mössen    häbb mösst",
-    "plattdeutsch": "müssen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich muss                     musste         habe gemusst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du musst                     musstest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es muss          musste",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir müssen ...             mussten ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
+    "artikel": "de",
+    "plattdeutsch": "Müssen",
+    "hochdeutsch": "Mütze"
   },
   {
     "artikel": "de",
@@ -13682,7 +13192,12 @@
   {
     "artikel": "de",
     "plattdeutsch": "Mutz",
-    "hochdeutsch": "Pfeife  (kurz)"
+    "hochdeutsch": "Pfeife (kurz)"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "müülsk",
+    "hochdeutsch": "mürrisch"
   },
   {
     "artikel": "",
@@ -14261,6 +13776,11 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "oaber",
+    "hochdeutsch": "aber"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "oahnen",
     "hochdeutsch": "ahnen"
   },
@@ -14368,11 +13888,6 @@
     "artikel": "",
     "plattdeutsch": "ob",
     "hochdeutsch": "ob"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "oaber",
-    "hochdeutsch": "aber"
   },
   {
     "artikel": "",
@@ -14505,11 +14020,6 @@
     "hochdeutsch": "ach"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Ööfken",
-    "hochdeutsch": "Pflaumenart (klein und rund)"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "oh Gäste",
     "hochdeutsch": "Hilfe (Ausdruck des Erstaunens)"
@@ -14551,13 +14061,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "ohne",
-    "hochdeutsch": "ohne"
+    "plattdeutsch": "öhn",
+    "hochdeutsch": "ihn, ihm"
   },
   {
     "artikel": "",
-    "plattdeutsch": "öhn",
-    "hochdeutsch": "ihn, ihm"
+    "plattdeutsch": "ohne",
+    "hochdeutsch": "ohne"
   },
   {
     "artikel": "",
@@ -14648,6 +14158,11 @@
     "artikel": "",
     "plattdeutsch": "onnink",
     "hochdeutsch": "ordentlich"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Ööfken",
+    "hochdeutsch": "Pflaumenart (klein und rund)"
   },
   {
     "artikel": "de",
@@ -15157,7 +14672,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Pingstosse",
-    "hochdeutsch": "Pfingstochse (mit Maigrün geschmückt), Mensch  (sonderbar gekleidet)"
+    "hochdeutsch": "Pfingstochse (mit Maigrün geschmückt), Mensch (sonderbar gekleidet)"
   },
   {
     "artikel": "de",
@@ -15202,7 +14717,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Piuße",
-    "hochdeutsch": "Puste,  Atem"
+    "hochdeutsch": "Puste, Atem"
   },
   {
     "artikel": "",
@@ -15213,6 +14728,11 @@
     "artikel": "de",
     "plattdeutsch": "Piuter",
     "hochdeutsch": "Truthahn"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "pläästern",
+    "hochdeutsch": "regnen (stark)"
   },
   {
     "artikel": "de",
@@ -15278,11 +14798,6 @@
     "artikel": "de",
     "plattdeutsch": "Plass",
     "hochdeutsch": "Platz"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "pläästern",
-    "hochdeutsch": "regnen (stark)"
   },
   {
     "artikel": "",
@@ -15395,6 +14910,11 @@
     "hochdeutsch": "Plagegeist"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "plöahen",
+    "hochdeutsch": "verschütten"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Ploan",
     "hochdeutsch": "Plan"
@@ -15438,11 +14958,6 @@
     "artikel": "de",
     "plattdeutsch": "Plörre",
     "hochdeutsch": "Getränk (wässrig und fad)"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "plöahen",
-    "hochdeutsch": "verschütten"
   },
   {
     "artikel": "de",
@@ -15498,16 +15013,6 @@
     "artikel": "",
     "plattdeutsch": "poahlrisk",
     "hochdeutsch": "kerzengerade"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Poppier",
-    "hochdeutsch": "Papier"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Poppiere",
-    "hochdeutsch": "Dokumente"
   },
   {
     "artikel": "de",
@@ -15568,6 +15073,16 @@
     "artikel": "de",
     "plattdeutsch": "Pöppel",
     "hochdeutsch": "Pappel"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Poppier",
+    "hochdeutsch": "Papier"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Poppiere",
+    "hochdeutsch": "Dokumente"
   },
   {
     "artikel": "de",
@@ -15765,16 +15280,6 @@
     "hochdeutsch": "Federkissen als Unterlage für die Kopfkissen (lang und schmal)"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "püüsken",
-    "hochdeutsch": "zündeln (mit Feuer spielen)"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Püüster",
-    "hochdeutsch": "Schrotflinte, Gewehr"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Pull",
     "hochdeutsch": "Baumkrone"
@@ -15830,11 +15335,6 @@
     "hochdeutsch": "Pumpenschwengel"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Punken",
-    "hochdeutsch": "Sack voll Korn oder Mehl"
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Pund",
     "hochdeutsch": "Pfund"
@@ -15843,6 +15343,11 @@
     "artikel": "dat",
     "plattdeutsch": "Pundstücke; de Punkstücke",
     "hochdeutsch": "Gewichtsstück"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Punken",
+    "hochdeutsch": "Sack voll Korn oder Mehl"
   },
   {
     "artikel": "de",
@@ -15875,6 +15380,11 @@
     "hochdeutsch": "Hausschuhe"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "putken",
+    "hochdeutsch": "trippeln"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Puttappel",
     "hochdeutsch": "Bratapfel"
@@ -15886,13 +15396,18 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "putken",
-    "hochdeutsch": "trippeln"
+    "plattdeutsch": "putzen",
+    "hochdeutsch": "putzen"
   },
   {
     "artikel": "",
-    "plattdeutsch": "putzen",
-    "hochdeutsch": "putzen"
+    "plattdeutsch": "püüsken",
+    "hochdeutsch": "zündeln (mit Feuer spielen)"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Püüster",
+    "hochdeutsch": "Schrotflinte, Gewehr"
   },
   {
     "artikel": "de",
@@ -16171,11 +15686,6 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "reke",
-    "hochdeutsch": "sauber, ordentlich"
-  },
-  {
-    "artikel": "",
     "plattdeutsch": "reengen",
     "hochdeutsch": "regnen"
   },
@@ -16217,17 +15727,22 @@
   {
     "artikel": "de",
     "plattdeutsch": "Regeloator",
-    "hochdeutsch": "Wanduhr  (mit Schlag)"
+    "hochdeutsch": "Wanduhr (mit Schlag)"
   },
   {
     "artikel": "dat",
     "plattdeutsch": "Reid",
-    "hochdeutsch": "Flechtrohr  (für Hiller Stühle)"
+    "hochdeutsch": "Flechtrohr (für Hiller Stühle)"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Reimen",
     "hochdeutsch": "Riemen"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "reke",
+    "hochdeutsch": "sauber, ordentlich"
   },
   {
     "artikel": "",
@@ -16805,14 +16320,14 @@
     "hochdeutsch": "Rat"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Roathius",
-    "hochdeutsch": "Rathaus"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Röatekiuhlen",
     "hochdeutsch": "Rötekuhle (zum Wässern des Flachses)"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Roathius",
+    "hochdeutsch": "Rathaus"
   },
   {
     "artikel": "",
@@ -17136,7 +16651,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "rusterig  (rusterich)",
+    "plattdeutsch": "rusterig (rusterich)",
     "hochdeutsch": "rostig"
   },
   {
@@ -17195,11 +16710,6 @@
     "hochdeutsch": "leise, vorsichtig, langsam"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "saaien",
-    "hochdeutsch": "säen"
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Saaiefatt",
     "hochdeutsch": "Säbehälter"
@@ -17218,6 +16728,11 @@
     "artikel": "de",
     "plattdeutsch": "Saaiemeschinen",
     "hochdeutsch": "Sämaschine"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "saaien",
+    "hochdeutsch": "säen"
   },
   {
     "artikel": "de",
@@ -17297,7 +16812,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Sammler",
-    "hochdeutsch": "Drainagerohr  (großer Durchmesser)"
+    "hochdeutsch": "Drainagerohr (großer Durchmesser)"
   },
   {
     "artikel": "de",
@@ -17321,7 +16836,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "sannig  (sannich)",
+    "plattdeutsch": "sannig (sannich)",
     "hochdeutsch": "sandig"
   },
   {
@@ -17416,58 +16931,8 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Schärtel",
-    "hochdeutsch": "Scheitel"
-  },
-  {
-    "artikel": "de",
     "plattdeutsch": "Schähen",
     "hochdeutsch": "Schere"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "schall",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck schall               scheol      häbbe scheolt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu schoss              scheols    häss scheolt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et schall    scheol      häff scheolt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei schütt     scheolen  häbb schoelt",
-    "plattdeutsch": "soll",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich soll                     sollte         habe gesollt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du sollst                   solltest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es soll          sollte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir sollen ...             sollten ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "de",
@@ -17495,19 +16960,24 @@
     "hochdeutsch": "Schäferkarre"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Schärtel",
+    "hochdeutsch": "Scheitel"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "schasken",
-    "hochdeutsch": "rausschmeißen  (aus einer Position entlassen)"
+    "hochdeutsch": "rausschmeißen (aus einer Position entlassen)"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Schateken",
-    "hochdeutsch": "Plunder  (alte Sachen)"
+    "hochdeutsch": "Plunder (alte Sachen)"
   },
   {
     "artikel": "",
     "plattdeutsch": "schatten",
-    "hochdeutsch": "Brauchtum  (von einem Hochzeitszug Geschenke erbitten)"
+    "hochdeutsch": "Brauchtum (von einem Hochzeitszug Geschenke erbitten)"
   },
   {
     "artikel": "de",
@@ -17517,7 +16987,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Scheeges",
-    "hochdeutsch": "Kerl, Bräutigam  (abwertend)"
+    "hochdeutsch": "Kerl, Bräutigam (abwertend)"
   },
   {
     "artikel": "",
@@ -17732,7 +17202,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schillegassen",
-    "hochdeutsch": "Graupen  (geschälte Gerste)"
+    "hochdeutsch": "Graupen (geschälte Gerste)"
   },
   {
     "artikel": "dat",
@@ -17797,7 +17267,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schiufiut",
-    "hochdeutsch": "Mensch  (der ausgenutzt wird)"
+    "hochdeutsch": "Mensch (der ausgenutzt wird)"
   },
   {
     "artikel": "de",
@@ -17822,7 +17292,7 @@
   {
     "artikel": "",
     "plattdeutsch": "schlaaie",
-    "hochdeutsch": "stumpf  (Zähne)"
+    "hochdeutsch": "stumpf (Zähne)"
   },
   {
     "artikel": "de",
@@ -17842,7 +17312,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schlackerschnei",
-    "hochdeutsch": "Schnee  (wässrig)"
+    "hochdeutsch": "Schnee (wässrig)"
   },
   {
     "artikel": "de",
@@ -17872,7 +17342,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schlatz",
-    "hochdeutsch": "Flüssigkeit  (kleine Menge)"
+    "hochdeutsch": "Flüssigkeit (kleine Menge)"
   },
   {
     "artikel": "de",
@@ -17912,7 +17382,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schleif",
-    "hochdeutsch": "Schöpfkelle  (groß aus Holz)"
+    "hochdeutsch": "Schöpfkelle (groß aus Holz)"
   },
   {
     "artikel": "de",
@@ -18052,7 +17522,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schlonten",
-    "hochdeutsch": "Sachen  (minderwertige oder heruntergekommene Maschinen, Werkzeuge, Kleidung, Gegenstände usw.)"
+    "hochdeutsch": "Sachen (minderwertige oder heruntergekommene Maschinen, Werkzeuge, Kleidung, Gegenstände usw.)"
   },
   {
     "artikel": "de",
@@ -18082,7 +17552,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schlüngelbank",
-    "hochdeutsch": "Sitzbank  (vornehmlich für Kinder)"
+    "hochdeutsch": "Sitzbank (vornehmlich für Kinder)"
   },
   {
     "artikel": "de",
@@ -18092,7 +17562,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schlünze",
-    "hochdeutsch": "Auswurf  (gelb)"
+    "hochdeutsch": "Auswurf (gelb)"
   },
   {
     "artikel": "de",
@@ -18142,7 +17612,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schmachtlappen",
-    "hochdeutsch": "Hungerleider  (dürrer Mensch)"
+    "hochdeutsch": "Hungerleider (dürrer Mensch)"
   },
   {
     "artikel": "de",
@@ -18161,7 +17631,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schmehrig  (schmehrich)",
+    "plattdeutsch": "schmehrig (schmehrich)",
     "hochdeutsch": "schmierig"
   },
   {
@@ -18332,7 +17802,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schnelllöarper",
-    "hochdeutsch": "Elektromotor oder Traktor  (schnelllaufend)"
+    "hochdeutsch": "Elektromotor oder Traktor (schnelllaufend)"
   },
   {
     "artikel": "de",
@@ -18341,7 +17811,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schneterig  (schneterich)",
+    "plattdeutsch": "schneterig (schneterich)",
     "hochdeutsch": "schwatzhaft"
   },
   {
@@ -18462,7 +17932,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schnöppenlicker",
-    "hochdeutsch": "Person  (bei der der Schnupfen aus der Nase hängt und abgeleckt wird)"
+    "hochdeutsch": "Person (bei der der Schnupfen aus der Nase hängt und abgeleckt wird)"
   },
   {
     "artikel": "de",
@@ -18471,7 +17941,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Schnöppentrogg  (Schnöppentroch)",
+    "plattdeutsch": "Schnöppentrogg (Schnöppentroch)",
     "hochdeutsch": "Person mit ständig laufender Nase"
   },
   {
@@ -18496,7 +17966,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schnurterig  (schnurterich)",
+    "plattdeutsch": "schnurterig (schnurterich)",
     "hochdeutsch": "schmutzig"
   },
   {
@@ -18540,11 +18010,6 @@
     "hochdeutsch": "Pflugschar"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Schoer; de Schöare",
-    "hochdeutsch": "Scherbe"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "schoarp",
     "hochdeutsch": "scharf"
@@ -18580,14 +18045,14 @@
     "hochdeutsch": "Schulklasse"
   },
   {
+    "artikel": "dat",
+    "plattdeutsch": "Schoer; de Schöare",
+    "hochdeutsch": "Scherbe"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Schoiler",
     "hochdeutsch": "Schüler"
-  },
-  {
-    "artikel": "dat",
-    "plattdeutsch": "Schoppk",
-    "hochdeutsch": "Bund  (Stroh oder Heu)"
   },
   {
     "artikel": "de",
@@ -18603,6 +18068,11 @@
     "artikel": "de",
     "plattdeutsch": "Schoppendür",
     "hochdeutsch": "Schuppentür"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Schoppk",
+    "hochdeutsch": "Bund (Stroh oder Heu)"
   },
   {
     "artikel": "dat",
@@ -18672,7 +18142,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schräemschieter",
-    "hochdeutsch": "Mensch  (klein)"
+    "hochdeutsch": "Mensch (klein)"
   },
   {
     "artikel": "",
@@ -18681,7 +18151,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schrapperig  (schrapperich)",
+    "plattdeutsch": "schrapperig (schrapperich)",
     "hochdeutsch": "raffgierig"
   },
   {
@@ -18717,7 +18187,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schrieberaaie",
-    "hochdeutsch": "Schreiberei  (Verwaltungsaufwand)"
+    "hochdeutsch": "Schreiberei (Verwaltungsaufwand)"
   },
   {
     "artikel": "dat",
@@ -18731,7 +18201,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schrienen  (et schrinnt)",
+    "plattdeutsch": "schrienen (et schrinnt)",
     "hochdeutsch": "brennen von Hautwunden"
   },
   {
@@ -18782,7 +18252,7 @@
   {
     "artikel": "",
     "plattdeutsch": "schuen",
-    "hochdeutsch": "rutschen  (gleiten)"
+    "hochdeutsch": "rutschen (gleiten)"
   },
   {
     "artikel": "",
@@ -18811,12 +18281,12 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schüllig  (schüllich)",
+    "plattdeutsch": "schüllig (schüllich)",
     "hochdeutsch": "schuldig"
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Schülligkert  (Schüllichkert)",
+    "plattdeutsch": "Schülligkert (Schüllichkert)",
     "hochdeutsch": "Schuldigkeit"
   },
   {
@@ -18842,7 +18312,7 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Schuppsel",
-    "hochdeutsch": "Frau  (schlecht angezogen)"
+    "hochdeutsch": "Frau (schlecht angezogen)"
   },
   {
     "artikel": "de",
@@ -18852,12 +18322,12 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Schürbrett",
-    "hochdeutsch": "Handbrett  (Maurerwerkzeug)"
+    "hochdeutsch": "Handbrett (Maurerwerkzeug)"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Schürken",
-    "hochdeutsch": "Babymimik  (unbewusst)"
+    "hochdeutsch": "Babymimik (unbewusst)"
   },
   {
     "artikel": "",
@@ -18867,7 +18337,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schürte",
-    "hochdeutsch": "Schuss  (Wachstum)"
+    "hochdeutsch": "Schuss (Wachstum)"
   },
   {
     "artikel": "dat",
@@ -18927,7 +18397,7 @@
   {
     "artikel": "",
     "plattdeutsch": "schwattbunt",
-    "hochdeutsch": "schwarzbunt  (Kühe)"
+    "hochdeutsch": "schwarzbunt (Kühe)"
   },
   {
     "artikel": "de",
@@ -19007,7 +18477,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schwick-Schwack",
-    "hochdeutsch": "Doppelmühle (Mühlespiel), Untergrund  (schwammig)"
+    "hochdeutsch": "Doppelmühle (Mühlespiel), Untergrund (schwammig)"
   },
   {
     "artikel": "",
@@ -19016,7 +18486,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schwiemelig  (schwiemelich)",
+    "plattdeutsch": "schwiemelig (schwiemelich)",
     "hochdeutsch": "schwindelig"
   },
   {
@@ -19042,7 +18512,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Schwieneketuffel",
-    "hochdeutsch": "Schweinekartoffel  (stärkereiche Futterkartoffel)"
+    "hochdeutsch": "Schweinekartoffel (stärkereiche Futterkartoffel)"
   },
   {
     "artikel": "de",
@@ -19101,7 +18571,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "schwoarfällig  (schwoarfällich)",
+    "plattdeutsch": "schwoarfällig (schwoarfällich)",
     "hochdeutsch": "schwerfällig"
   },
   {
@@ -19117,12 +18587,12 @@
   {
     "artikel": "",
     "plattdeutsch": "schwucken",
-    "hochdeutsch": "schwappen  (hin und her)"
+    "hochdeutsch": "schwappen (hin und her)"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Schwungpleog",
-    "hochdeutsch": "Pflug  (handgeführt mit einem Stützrad)"
+    "hochdeutsch": "Pflug (handgeführt mit einem Stützrad)"
   },
   {
     "artikel": "de",
@@ -19143,56 +18613,6 @@
     "artikel": "",
     "plattdeutsch": "sei",
     "hochdeutsch": "sie"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "seihn",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck seih               saug (sauch)  häbbe seihn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu sühs               soiges            häss seihn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et süht    saug (sauch)  häff seihn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei seiht    soigen             häbb seihn",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "sehen",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich sehe                 sah           habe gesehen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du siehst                sahst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es sieht      sah",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir sehen ...           sahen ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "",
@@ -19242,7 +18662,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Seoln",
-    "hochdeutsch": "Pfriemen  (um Löcher in Leder zu stechen)"
+    "hochdeutsch": "Pfriemen (um Löcher in Leder zu stechen)"
   },
   {
     "artikel": "de",
@@ -19313,56 +18733,6 @@
     "artikel": "de",
     "plattdeutsch": "Siehenstrümpe",
     "hochdeutsch": "Seidenstrümpfe (aus Kunstfaser)"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "sien",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck bin                 was              bin wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu bis                  woies           bis wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et  es      was              es wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei sind     woien           sind wesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "sein",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich bin                 war             bin gewesen",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du bist                 warst",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es ist       war",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir sind ...           waren ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "",
@@ -19581,7 +18951,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Soitigkert  (Soitichkert)",
+    "plattdeutsch": "Soitigkert (Soitichkert)",
     "hochdeutsch": "Süßigkeit"
   },
   {
@@ -19596,7 +18966,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Sommerdagg  (Sommerdach)",
+    "plattdeutsch": "Sommerdagg (Sommerdach)",
     "hochdeutsch": "Sommertag"
   },
   {
@@ -19611,7 +18981,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Sönndagg  (Sönndach)",
+    "plattdeutsch": "Sönndagg (Sönndach)",
     "hochdeutsch": "Sonntag"
   },
   {
@@ -19642,7 +19012,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Sööle",
-    "hochdeutsch": "Salzlake  (zum Pökeln)"
+    "hochdeutsch": "Salzlake (zum Pökeln)"
   },
   {
     "artikel": "de",
@@ -19715,14 +19085,14 @@
     "hochdeutsch": "Speckseite (vor allem vom Schwein)"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Spektoakel",
-    "hochdeutsch": "Spektakel, Krach"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Speis",
     "hochdeutsch": "Mörtel"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Spektoakel",
+    "hochdeutsch": "Spektakel, Krach"
   },
   {
     "artikel": "dat",
@@ -19831,7 +19201,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "spinkelig  (spinkelich)",
+    "plattdeutsch": "spinkelig (spinkelich)",
     "hochdeutsch": "gesprenkelt"
   },
   {
@@ -19887,7 +19257,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Spisse",
-    "hochdeutsch": "Mensch  (dünn, hager)"
+    "hochdeutsch": "Mensch (dünn, hager)"
   },
   {
     "artikel": "de",
@@ -19916,7 +19286,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "splienig  (splienich)",
+    "plattdeutsch": "splienig (splienich)",
     "hochdeutsch": "spleenig"
   },
   {
@@ -19966,7 +19336,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "spoaßig  (spoaßich)",
+    "plattdeutsch": "spoaßig (spoaßich)",
     "hochdeutsch": "spaßig"
   },
   {
@@ -19976,7 +19346,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "spoikenhaftig  (spoikenhaftich)",
+    "plattdeutsch": "spoikenhaftig (spoikenhaftich)",
     "hochdeutsch": "gespenstisch"
   },
   {
@@ -20037,7 +19407,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Springhoasenoabend",
-    "hochdeutsch": "Treffen von Verliebten  (am Mittwoch und Samstag)"
+    "hochdeutsch": "Treffen von Verliebten (am Mittwoch und Samstag)"
   },
   {
     "artikel": "de",
@@ -20062,12 +19432,12 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Sprützenhius",
-    "hochdeutsch": "Spritzenhaus  (Feuerwehrgerätehaus), Arrestzelle"
+    "hochdeutsch": "Spritzenhaus (Feuerwehrgerätehaus), Arrestzelle"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Spucht",
-    "hochdeutsch": "Mensch  (schmächtig)"
+    "hochdeutsch": "Mensch (schmächtig)"
   },
   {
     "artikel": "",
@@ -20386,7 +19756,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Stillenfreidagg  (Stillenfreidach)",
+    "plattdeutsch": "Stillenfreidagg (Stillenfreidach)",
     "hochdeutsch": "Karfreitag"
   },
   {
@@ -20486,7 +19856,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Stoah-in-Wegg  (Stoah-in-Wech)",
+    "plattdeutsch": "Stoah-in-Wegg (Stoah-in-Wech)",
     "hochdeutsch": "jemand der im Weg steht, Gegenstand der überflüssig ist"
   },
   {
@@ -20587,7 +19957,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Stoobm",
-    "hochdeutsch": "Stube  (Wohnzimmer)"
+    "hochdeutsch": "Stube (Wohnzimmer)"
   },
   {
     "artikel": "de",
@@ -20752,7 +20122,7 @@
   {
     "artikel": "",
     "plattdeutsch": "stritzen",
-    "hochdeutsch": "spritzen  (kleiner Strahl)"
+    "hochdeutsch": "spritzen (kleiner Strahl)"
   },
   {
     "artikel": "",
@@ -20846,16 +20216,6 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Stürterbock",
-    "hochdeutsch": "Stotterer  (abfällig)"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "stürtern",
-    "hochdeutsch": "stottern"
-  },
-  {
-    "artikel": "de",
     "plattdeutsch": "Stülpen",
     "hochdeutsch": "Deckel"
   },
@@ -20901,18 +20261,28 @@
   },
   {
     "artikel": "de",
+    "plattdeutsch": "Stürterbock",
+    "hochdeutsch": "Stotterer (abfällig)"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "stürtern",
+    "hochdeutsch": "stottern"
+  },
+  {
+    "artikel": "de",
     "plattdeutsch": "Stüssel",
     "hochdeutsch": "Stütze"
   },
   {
     "artikel": "",
     "plattdeutsch": "stüsseln",
-    "hochdeutsch": "abstützen  (behelfsmäßig), stapeln (unordentlich)"
+    "hochdeutsch": "abstützen (behelfsmäßig), stapeln (unordentlich)"
   },
   {
     "artikel": "de",
     "plattdeutsch": "Stütk",
-    "hochdeutsch": "Schwanzwurzel  (bei Geflügel)"
+    "hochdeutsch": "Schwanzwurzel (bei Geflügel)"
   },
   {
     "artikel": "de",
@@ -20937,7 +20307,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Süger",
-    "hochdeutsch": "Drainagerohr  (kleiner Durchmesser)"
+    "hochdeutsch": "Drainagerohr (kleiner Durchmesser)"
   },
   {
     "artikel": "de",
@@ -21002,7 +20372,7 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Sünnekindken",
-    "hochdeutsch": "Marienkäfer  (oder auch komischer Mensch)"
+    "hochdeutsch": "Marienkäfer (oder auch komischer Mensch)"
   },
   {
     "artikel": "de",
@@ -21101,12 +20471,12 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "tadderig  (tadderich)",
+    "plattdeutsch": "tadderig (tadderich)",
     "hochdeutsch": "zitterig"
   },
   {
     "artikel": "",
-    "plattdeutsch": "Tagg  (Tach)",
+    "plattdeutsch": "Tagg (Tach)",
     "hochdeutsch": "guten Tag"
   },
   {
@@ -21142,7 +20512,7 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Tappenlock",
-    "hochdeutsch": "Zapfenloch  (im Fachwerk)"
+    "hochdeutsch": "Zapfenloch (im Fachwerk)"
   },
   {
     "artikel": "",
@@ -21157,7 +20527,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Taske",
-    "hochdeutsch": "Frau  (zickig)"
+    "hochdeutsch": "Frau (zickig)"
   },
   {
     "artikel": "de",
@@ -21347,7 +20717,7 @@
   {
     "artikel": "",
     "plattdeutsch": "teoballern",
-    "hochdeutsch": "verschlämmt  (Acker), zuknallen"
+    "hochdeutsch": "verschlämmt (Acker), zuknallen"
   },
   {
     "artikel": "",
@@ -21377,7 +20747,7 @@
   {
     "artikel": "",
     "plattdeutsch": "teodeon",
-    "hochdeutsch": "anreichen  (Heu oder Korngarben), zutun"
+    "hochdeutsch": "anreichen (Heu oder Korngarben), zutun"
   },
   {
     "artikel": "dat",
@@ -21411,7 +20781,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "teofällig  (teofällich)",
+    "plattdeutsch": "teofällig (teofällich)",
     "hochdeutsch": "zufällig"
   },
   {
@@ -21746,7 +21116,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Teoschlagghommer  (Teoschlachhommer)",
+    "plattdeutsch": "Teoschlagghommer (Teoschlachhommer)",
     "hochdeutsch": "Vorschlaghammer (beim Schmied und Auktionator)"
   },
   {
@@ -21801,7 +21171,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "teostännig  (teostännich)",
+    "plattdeutsch": "teostännig (teostännich)",
     "hochdeutsch": "zuständig"
   },
   {
@@ -22186,7 +21556,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "töllig  (töllich)",
+    "plattdeutsch": "töllig (töllich)",
     "hochdeutsch": "zöllig"
   },
   {
@@ -22241,8 +21611,8 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Toorfring  (4 Potthüser)",
-    "hochdeutsch": "Torfring  (24 Torfstücke ringförmig zum Kegel aufgestapelt)"
+    "plattdeutsch": "Toorfring (4 Potthüser)",
+    "hochdeutsch": "Torfring (24 Torfstücke ringförmig zum Kegel aufgestapelt)"
   },
   {
     "artikel": "de",
@@ -22261,7 +21631,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "torrerig  (torrerich)",
+    "plattdeutsch": "torrerig (torrerich)",
     "hochdeutsch": "verheddern"
   },
   {
@@ -22342,7 +21712,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Trentel",
-    "hochdeutsch": "Scheibe (rund),  Wurstscheibe"
+    "hochdeutsch": "Scheibe (rund), Wurstscheibe"
   },
   {
     "artikel": "",
@@ -22406,7 +21776,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "trierselig  (trierselich)",
+    "plattdeutsch": "trierselig (trierselich)",
     "hochdeutsch": "schwindelig"
   },
   {
@@ -22456,7 +21826,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Trogg  (Troch)",
+    "plattdeutsch": "Trogg (Troch)",
     "hochdeutsch": "Trog"
   },
   {
@@ -22487,7 +21857,7 @@
   {
     "artikel": "",
     "plattdeutsch": "trüggeblieben",
-    "hochdeutsch": "zurückbleiben  (auch geistig)"
+    "hochdeutsch": "zurückbleiben (auch geistig)"
   },
   {
     "artikel": "",
@@ -22611,7 +21981,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Trüggewegg  (Trüggewech)",
+    "plattdeutsch": "Trüggewegg (Trüggewech)",
     "hochdeutsch": "Rückweg, Heimweg"
   },
   {
@@ -22671,7 +22041,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "tüddelig  (tüddelich)",
+    "plattdeutsch": "tüddelig (tüddelich)",
     "hochdeutsch": "verwirrt"
   },
   {
@@ -22685,14 +22055,14 @@
     "hochdeutsch": "zeugen"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "tülken",
+    "hochdeutsch": "pinkeln (bei kleinen Kindern)"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Tüllen",
     "hochdeutsch": "Spitze für Zigarren oder Spritzbeutel"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "tülken",
-    "hochdeutsch": "pinkeln  (bei kleinen Kindern)"
   },
   {
     "artikel": "de",
@@ -22776,12 +22146,12 @@
   },
   {
     "artikel": "dat",
-    "plattdeutsch": "Tüüg  (Tüüch)",
+    "plattdeutsch": "Tüüg (Tüüch)",
     "hochdeutsch": "Kleidung, Zeug"
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Tüügbössen  (Tüüchbössen)",
+    "plattdeutsch": "Tüügbössen (Tüüchbössen)",
     "hochdeutsch": "Kleiderbürste"
   },
   {
@@ -22866,7 +22236,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "twassköppig  (twassköppich)",
+    "plattdeutsch": "twassköppig (twassköppich)",
     "hochdeutsch": "querköpfig"
   },
   {
@@ -22926,7 +22296,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Twieg  (Twiech)",
+    "plattdeutsch": "Twieg (Twiech)",
     "hochdeutsch": "Zweig"
   },
   {
@@ -22981,7 +22351,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Ulldagg  (Ulldach)",
+    "plattdeutsch": "Ulldagg (Ulldach)",
     "hochdeutsch": "Alltag"
   },
   {
@@ -22991,7 +22361,7 @@
   },
   {
     "artikel": "dat",
-    "plattdeutsch": "Ulldoagestüüg  (Ulldoagestüüch)",
+    "plattdeutsch": "Ulldoagestüüg (Ulldoagestüüch)",
     "hochdeutsch": "Alltagskleidung"
   },
   {
@@ -23055,11 +22425,6 @@
     "hochdeutsch": "allzu viel"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Ümmeleitunge",
-    "hochdeutsch": "Umleitung"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "ümme",
     "hochdeutsch": "um"
@@ -23087,7 +22452,7 @@
   {
     "artikel": "",
     "plattdeutsch": "ümmeböcken",
-    "hochdeutsch": "umbocken  (Ziege oder Schaf), Meinung ändern"
+    "hochdeutsch": "umbocken (Ziege oder Schaf), Meinung ändern"
   },
   {
     "artikel": "",
@@ -23230,6 +22595,11 @@
     "hochdeutsch": "umkommen"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Ümmeleitunge",
+    "hochdeutsch": "Umleitung"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "ümmemeten",
     "hochdeutsch": "messen (erneut vermessen)"
@@ -23247,7 +22617,7 @@
   {
     "artikel": "",
     "plattdeutsch": "ümmeracken",
-    "hochdeutsch": "umstoßen  (unachtsam)"
+    "hochdeutsch": "umstoßen (unachtsam)"
   },
   {
     "artikel": "",
@@ -23291,13 +22661,13 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "ümmesoiken",
-    "hochdeutsch": "sortieren"
+    "plattdeutsch": "ümmesöamen",
+    "hochdeutsch": "umsäumen"
   },
   {
     "artikel": "",
-    "plattdeutsch": "ümmesöamen",
-    "hochdeutsch": "umsäumen"
+    "plattdeutsch": "ümmesoiken",
+    "hochdeutsch": "sortieren"
   },
   {
     "artikel": "",
@@ -23762,7 +23132,7 @@
   {
     "artikel": "",
     "plattdeutsch": "up Trillitt",
-    "hochdeutsch": "auf Achse  (zum Vergnügen)"
+    "hochdeutsch": "auf Achse (zum Vergnügen)"
   },
   {
     "artikel": "",
@@ -23881,7 +23251,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Updragg  (Updrach)",
+    "plattdeutsch": "Updragg (Updrach)",
     "hochdeutsch": "Auftrag"
   },
   {
@@ -23902,7 +23272,7 @@
   {
     "artikel": "",
     "plattdeutsch": "updrülken",
-    "hochdeutsch": "aufwickeln  (Haare auf Lockenwickler drehen)"
+    "hochdeutsch": "aufwickeln (Haare auf Lockenwickler drehen)"
   },
   {
     "artikel": "",
@@ -23915,19 +23285,14 @@
     "hochdeutsch": "aufgedunsen"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "upeten",
-    "hochdeutsch": "aufessen"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "uppenanner",
-    "hochdeutsch": "aufeinander"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Upenthault",
     "hochdeutsch": "Aufenthalt"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "upeten",
+    "hochdeutsch": "aufessen"
   },
   {
     "artikel": "",
@@ -24216,6 +23581,11 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "uppenanner",
+    "hochdeutsch": "aufeinander"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "uppiußen",
     "hochdeutsch": "aufpusten"
   },
@@ -24252,7 +23622,7 @@
   {
     "artikel": "",
     "plattdeutsch": "upribbeln",
-    "hochdeutsch": "auflösen  (von Gestricktem und Gehäkeltem)"
+    "hochdeutsch": "auflösen (von Gestricktem und Gehäkeltem)"
   },
   {
     "artikel": "",
@@ -24467,7 +23837,7 @@
   {
     "artikel": "dat",
     "plattdeutsch": "Upweermsel",
-    "hochdeutsch": "Aufgewärmtes  (Essen)"
+    "hochdeutsch": "Aufgewärmtes (Essen)"
   },
   {
     "artikel": "",
@@ -24862,7 +24232,7 @@
   {
     "artikel": "",
     "plattdeutsch": "vedönnern",
-    "hochdeutsch": "verdonnern  (verurteilen)"
+    "hochdeutsch": "verdonnern (verurteilen)"
   },
   {
     "artikel": "",
@@ -24922,7 +24292,7 @@
   {
     "artikel": "",
     "plattdeutsch": "vedummdübeln",
-    "hochdeutsch": "verulken  (für dumm verkaufen)"
+    "hochdeutsch": "verulken (für dumm verkaufen)"
   },
   {
     "artikel": "",
@@ -25170,11 +24540,6 @@
     "hochdeutsch": "Tierarzt"
   },
   {
-    "artikel": "",
-    "plattdeutsch": "vekehen",
-    "hochdeutsch": "verkehren"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Veihkörper",
     "hochdeutsch": "Viehhändler"
@@ -25220,6 +24585,11 @@
     "hochdeutsch": "verkehrt, falsch"
   },
   {
+    "artikel": "",
+    "plattdeutsch": "vekehen",
+    "hochdeutsch": "verkehren"
+  },
+  {
     "artikel": "de",
     "plattdeutsch": "Vekehr",
     "hochdeutsch": "Verkehr"
@@ -25258,6 +24628,11 @@
     "artikel": "",
     "plattdeutsch": "veklüngeln",
     "hochdeutsch": "verlegen, verlieren"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "veklürtern",
+    "hochdeutsch": "erklären, verklickern"
   },
   {
     "artikel": "",
@@ -25336,6 +24711,11 @@
   },
   {
     "artikel": "",
+    "plattdeutsch": "velährnen",
+    "hochdeutsch": "verleihen"
+  },
+  {
+    "artikel": "",
     "plattdeutsch": "velangen",
     "hochdeutsch": "verlangen"
   },
@@ -25348,11 +24728,6 @@
     "artikel": "",
     "plattdeutsch": "velängern",
     "hochdeutsch": "verlängern"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "velährnen",
-    "hochdeutsch": "verleihen"
   },
   {
     "artikel": "",
@@ -25426,7 +24801,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "velüstig  (velüstich)",
+    "plattdeutsch": "velüstig (velüstich)",
     "hochdeutsch": "verloren gehen"
   },
   {
@@ -25446,7 +24821,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "vemirragg  (vemirrach)",
+    "plattdeutsch": "vemirragg (vemirrach)",
     "hochdeutsch": "heute Mittag"
   },
   {
@@ -25501,7 +24876,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "venammdagg  (venammdach)",
+    "plattdeutsch": "venammdagg (venammdach)",
     "hochdeutsch": "heute Nachmittag"
   },
   {
@@ -25568,11 +24943,6 @@
     "artikel": "",
     "plattdeutsch": "veriut",
     "hochdeutsch": "voraus"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "veklürtern",
-    "hochdeutsch": "erklären, verklickern"
   },
   {
     "artikel": "",
@@ -25676,8 +25046,8 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "veschwinnen  (veschwunnen)",
-    "hochdeutsch": "verschwinden  (verschwunden)"
+    "plattdeutsch": "veschwinnen (veschwunnen)",
+    "hochdeutsch": "verschwinden (verschwunden)"
   },
   {
     "artikel": "dat",
@@ -25736,8 +25106,8 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "vesteerben  (vesturm)",
-    "hochdeutsch": "versterben  (verstorben)"
+    "plattdeutsch": "vesteerben (vesturm)",
+    "hochdeutsch": "versterben (verstorben)"
   },
   {
     "artikel": "",
@@ -26037,7 +25407,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Vurgelbiehen",
-    "hochdeutsch": "Vogelbeeren  (Eberesche)"
+    "hochdeutsch": "Vogelbeeren (Eberesche)"
   },
   {
     "artikel": "de",
@@ -26062,7 +25432,7 @@
   {
     "artikel": "",
     "plattdeutsch": "vürheerschniehen",
-    "hochdeutsch": "abschneiden  (Scheiben von Wurst, Käse, Brot usw.)"
+    "hochdeutsch": "abschneiden (Scheiben von Wurst, Käse, Brot usw.)"
   },
   {
     "artikel": "",
@@ -26091,7 +25461,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "vürsichtig  (vürsichtich)",
+    "plattdeutsch": "vürsichtig (vürsichtich)",
     "hochdeutsch": "vorsichtig"
   },
   {
@@ -26106,7 +25476,27 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "wabbelig  (wabbelich)",
+    "plattdeutsch": "waaien",
+    "hochdeutsch": "jäten von Unkraut"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Waaihemührlen",
+    "hochdeutsch": "Windfege (Gerät zur Reinigung von Getreide und Saatgut)"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "waaihen",
+    "hochdeutsch": "wehen"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Wääske",
+    "hochdeutsch": "Frau (alte Tante)"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "wabbelig (wabbelich)",
     "hochdeutsch": "wabbelig"
   },
   {
@@ -26153,26 +25543,6 @@
     "artikel": "de",
     "plattdeutsch": "Wägen",
     "hochdeutsch": "Kinderwiege für Säuglinge"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Wääske",
-    "hochdeutsch": "Frau (alte Tante)"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "waaien",
-    "hochdeutsch": "jäten von Unkraut"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Waaihemührlen",
-    "hochdeutsch": "Windfege (Gerät zur Reinigung von Getreide und Saatgut)"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "waaihen",
-    "hochdeutsch": "wehen"
   },
   {
     "artikel": "",
@@ -26320,19 +25690,19 @@
     "hochdeutsch": "Stallarbeit (alltäglich)"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Weerkstiehe",
+    "hochdeutsch": "Werkstatt"
+  },
+  {
     "artikel": "dat",
-    "plattdeutsch": "Weerktüüg  (Werktüüch)",
+    "plattdeutsch": "Weerktüüg (Werktüüch)",
     "hochdeutsch": "Werkzeug"
   },
   {
     "artikel": "dat",
     "plattdeutsch": "Weerlüchen",
     "hochdeutsch": "Wetterleuchten"
-  },
-  {
-    "artikel": "de",
-    "plattdeutsch": "Weerkstiehe",
-    "hochdeutsch": "Werkstatt"
   },
   {
     "artikel": "",
@@ -26376,7 +25746,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "weggblieben  (wechblieben)",
+    "plattdeutsch": "weggblieben (wechblieben)",
     "hochdeutsch": "wegbleiben"
   },
   {
@@ -26391,7 +25761,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "weggdeon  (wechdeon)",
+    "plattdeutsch": "weggdeon (wechdeon)",
     "hochdeutsch": "weggeben"
   },
   {
@@ -26406,12 +25776,12 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "weggfleiten  (wechfleiten)",
+    "plattdeutsch": "weggfleiten (wechfleiten)",
     "hochdeutsch": "wegfließen"
   },
   {
     "artikel": "",
-    "plattdeutsch": "weggfoihen  (wechfoihen)",
+    "plattdeutsch": "weggfoihen (wechfoihen)",
     "hochdeutsch": "wegfahren, verreisen"
   },
   {
@@ -26451,7 +25821,7 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "wegglaupen  (wechlaupen)",
+    "plattdeutsch": "wegglaupen (wechlaupen)",
     "hochdeutsch": "weglaufen"
   },
   {
@@ -26578,51 +25948,6 @@
     "artikel": "dat",
     "plattdeutsch": "Weitenmehl",
     "hochdeutsch": "Weizenmehl"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "well",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "eck well                   weol          häbbe weolt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "diu wutt                   weols        häss weolt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "hei, sei, et well        weol         häff weolt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wi, gi, sei wütt         weolen     häbb weolt",
-    "plattdeutsch": "will",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "ich will                     wollte          habe gewollt",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "du willst                   wolltest",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "er, sie, es will          wollte",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
-  },
-  {
-    "artikel": "wir wollen ...            wollten ...",
-    "plattdeutsch": "",
-    "hochdeutsch": ""
   },
   {
     "artikel": "dat",
@@ -26752,7 +26077,7 @@
   {
     "artikel": "",
     "plattdeutsch": "wichsen",
-    "hochdeutsch": "eincremen von Lederwaren,  prügeln"
+    "hochdeutsch": "eincremen von Lederwaren, prügeln"
   },
   {
     "artikel": "de",
@@ -26790,14 +26115,14 @@
     "hochdeutsch": "wie, als"
   },
   {
-    "artikel": "dat",
-    "plattdeutsch": "Wiebertüüg (Wiebertüüch)",
-    "hochdeutsch": "Frauenthemen (spezielle)"
-  },
-  {
     "artikel": "de",
     "plattdeutsch": "Wieberschluck",
     "hochdeutsch": "Likör"
+  },
+  {
+    "artikel": "dat",
+    "plattdeutsch": "Wiebertüüg (Wiebertüüch)",
+    "hochdeutsch": "Frauenthemen (spezielle)"
   },
   {
     "artikel": "dat",
@@ -27050,16 +26375,6 @@
     "hochdeutsch": "Weser"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Wirsinn",
-    "hochdeutsch": "Widersinn"
-  },
-  {
-    "artikel": "",
-    "plattdeutsch": "wirsinnig  (wirsinnich)",
-    "hochdeutsch": "starrsinnig, widersinnig"
-  },
-  {
     "artikel": "",
     "plattdeutsch": "wierten",
     "hochdeutsch": "wissen"
@@ -27116,7 +26431,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Winterdagg  (Winterdach)",
+    "plattdeutsch": "Winterdagg (Winterdach)",
     "hochdeutsch": "Wintertag"
   },
   {
@@ -27148,6 +26463,16 @@
     "artikel": "de",
     "plattdeutsch": "Wirschien",
     "hochdeutsch": "Widerschein"
+  },
+  {
+    "artikel": "de",
+    "plattdeutsch": "Wirsinn",
+    "hochdeutsch": "Widersinn"
+  },
+  {
+    "artikel": "",
+    "plattdeutsch": "wirsinnig (wirsinnich)",
+    "hochdeutsch": "starrsinnig, widersinnig"
   },
   {
     "artikel": "de",
@@ -27355,19 +26680,19 @@
     "hochdeutsch": "Warze"
   },
   {
-    "artikel": "de",
-    "plattdeutsch": "Woaterpullen",
-    "hochdeutsch": "Wasserflasche"
-  },
-  {
     "artikel": "dat",
     "plattdeutsch": "Woater",
     "hochdeutsch": "Wasser"
   },
   {
+    "artikel": "de",
+    "plattdeutsch": "Woaterpullen",
+    "hochdeutsch": "Wasserflasche"
+  },
+  {
     "artikel": "",
     "plattdeutsch": "woaterstiebe",
-    "hochdeutsch": "klebrig  (Wasserstreifen im Backwerk)"
+    "hochdeutsch": "klebrig (Wasserstreifen im Backwerk)"
   },
   {
     "artikel": "de",
@@ -27382,7 +26707,7 @@
   {
     "artikel": "de",
     "plattdeutsch": "Wocken",
-    "hochdeutsch": "Flachswickel  (Rohmaterial zum Spinnen)"
+    "hochdeutsch": "Flachswickel (Rohmaterial zum Spinnen)"
   },
   {
     "artikel": "dat",
@@ -27711,8 +27036,8 @@
   },
   {
     "artikel": "",
-    "plattdeutsch": "wutte wall … (wutt diu wall …)",
-    "hochdeutsch": "willst du wohl …"
+    "plattdeutsch": "wutte wall  (wutt diu wall )",
+    "hochdeutsch": "willst du wohl"
   },
   {
     "artikel": "",
@@ -27916,7 +27241,7 @@
   },
   {
     "artikel": "de",
-    "plattdeutsch": "Zuggvürgel  (Zuchvürgel)",
+    "plattdeutsch": "Zuggvürgel (Zuchvürgel)",
     "hochdeutsch": "Zugvögel"
   },
   {
