@@ -41,6 +41,12 @@ h3 {
 	color: rgba(0, 0, 0, .6);
 }
 
+.search-container {
+	position: sticky;
+	top: 58px;
+	background-color: rgba(255, 255, 255, .95) !important;
+}
+
 #search {
 	border: 2px solid var(--primary-light);
 	border-radius: 100px;
