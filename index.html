@@ -72,10 +72,10 @@
 				<a href="#woerterbuch">Wörterbuch</a>
 			</h2>
 
-			<div class="search-container col-md-4 offset-md-4">
+			<div class="search-container row">
 				<input type="search" id="search" name="search"
-				aria-label="Suche" placeholder="Suche …">
-				<p id="search-error">Keine Ergebnisse für <strong class="search-item"></strong>.</p>
+				aria-label="Suche" placeholder="Suche …" class="col-md-4 offset-md-4">
+				<p id="search-error" class="col-md-4 offset-md-4">Keine Ergebnisse für <strong class="search-item"></strong>.</p>
 			</div>
 
 			<ul id="wortliste" class="row list-unstyled">
@@ -88,67 +88,77 @@
 				<a href="#redewendungen">Redewendungen</a>
 			</h2>
 
-			<ul class="row list-unstyled">
-				<li class="col-md-4 media">
-					<audio id="Eck-bin-doch-nich-dien-Furzbedeinten-audio" src="audio/redewendungen/Eck bin doch nich dien Furzbedeinten.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Eck-bin-doch-nich-dien-Furzbedeinten-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Eck bin doch nich dien Furzbedeinten.</h3>
-						<p>Ich bin doch nicht dein Laufbursche.</p>
+			<ul id="wortliste-redewendungen" class="row list-unstyled">
+				<li class="col-md-4">
+					<div class="d-inline-flex p-2">
+						<audio id="Eck-bin-doch-nich-dien-Furzbedeinten-audio" src="audio/redewendungen/Eck bin doch nich dien Furzbedeinten.wav" preload="auto"></audio>
+						<button onclick="document.getElementById('Eck-bin-doch-nich-dien-Furzbedeinten-audio').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">
+						</button>
+						<div>
+							<h3 class="mb-0">Eck bin doch nich dien Furzbedeinten.</h3>
+							<p>Ich bin doch nicht dein Laufbursche.</p>
+						</div>
 					</div>
 				</li>
-				<li class="col-md-4 media">
-					<audio id="Schindliuder-drieben-audio" src="audio/redewendungen/Schindliuder drieben.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Schindliuder-drieben-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Schindliuder drieben</h3>
-						<p>Schindluder treiben</p>
+				<li class="col-md-4">
+					<div class="d-inline-flex p-2">
+						<audio id="Schindliuder-drieben-audio" src="audio/redewendungen/Schindliuder drieben.wav" preload="auto"></audio>
+						<button onclick="document.getElementById('Schindliuder-drieben-audio').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">
+						</button>
+						<div>
+							<h3 class="mb-0">Schindliuder drieben</h3>
+							<p>Schindluder treiben</p>
+						</div>
 					</div>
 				</li>
-				<li class="col-md-4 media">
-					<audio id="Inne-Hurken-sitten-audio" src="audio/redewendungen/Inne Hurken sitten.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Inne-Hurken-sitten-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Inne Hurken sitten.</h3>
-						<p>In der Hocke sitzen.</p>
+				<li class="col-md-4">
+					<div class="d-inline-flex p-2">
+						<audio id="Inne-Hurken-sitten-audio" src="audio/redewendungen/Inne Hurken sitten.wav" preload="auto"></audio>
+						<button onclick="document.getElementById('Inne-Hurken-sitten-audio').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">
+						</button>
+						<div>
+							<h3 class="mb-0">Inne Hurken sitten.</h3>
+							<p>In der Hocke sitzen.</p>
+						</div>
 					</div>
 				</li>
-				<li class="col-md-4 media">
-					<audio id="De-gloaihet-wi-en-Leggeheohn-audio" src="audio/redewendungen/De gloaihet wi en Leggeheohn.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('De-gloaihet-wi-en-Leggeheohn-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">De gloaihet wi en Leggeheohn.</h3>
-						<p>Er hat einen glühend roten Kopf.</p>
+				<li class="col-md-4">
+					<div class="d-inline-flex p-2">
+						<audio id="De-gloaihet-wi-en-Leggeheohn-audio" src="audio/redewendungen/De gloaihet wi en Leggeheohn.wav" preload="auto"></audio>
+						<button onclick="document.getElementById('De-gloaihet-wi-en-Leggeheohn-audio').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">
+						</button>
+						<div>
+							<h3 class="mb-0">De gloaihet wi en Leggeheohn.</h3>
+							<p>Er hat einen glühend roten Kopf.</p>
+						</div>
 					</div>
 				</li>
-				<li class="col-md-4 media">
-					<audio id="Et-ligg-mi-uppe-Tungen-audio" src="audio/redewendungen/Et ligg mi uppe Tungen.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Et-ligg-mi-uppe-Tungen-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Et ligg mi uppe Tungen.</h3>
-						<p>Es liegt mir auf der Zunge.</p>
+				<li class="col-md-4">
+					<div class="d-inline-flex p-2">
+						<audio id="Et-ligg-mi-uppe-Tungen-audio" src="audio/redewendungen/Et ligg mi uppe Tungen.wav" preload="auto"></audio>
+						<button onclick="document.getElementById('Et-ligg-mi-uppe-Tungen-audio').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">
+						</button>
+						<div>
+							<h3 class="mb-0">Et ligg mi uppe Tungen.</h3>
+							<p>Es liegt mir auf der Zunge.</p>
+						</div>
 					</div>
 				</li>
-				<li class="col-md-4 media">
-					<audio id="Kummste-teom-Mirrach-eten-audio" src="audio/redewendungen/Kummste teom Mirrach eten.wav" preload="auto"></audio>
-					<button onclick="document.getElementById('Kummste-teom-Mirrach-eten-audio').play();" type="button" class="btn btn-primary mr-3 btn-play" aria-label="Abspielen">
-					</button>
-					<div class="media-body">
-						<h3 class="mt-0 mb-1">Kummste teom Mirrach eten?</h3>
-						<p>Kommst du zum Mittagessen?</p>
+				<li class="col-md-4">
+					<div class="d-inline-flex p-2">
+						<audio id="Kummste-teom-Mirrach-eten-audio" src="audio/redewendungen/Kummste teom Mirrach eten.wav" preload="auto"></audio>
+						<button onclick="document.getElementById('Kummste-teom-Mirrach-eten-audio').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">
+						</button>
+						<div>
+							<h3 class="mb-0">Kummste teom Mirrach eten?</h3>
+							<p>Kommst du zum Mittagessen?</p>
+						</div>
 					</div>
 				</li>
 			</ul>
 		</section>
 
-		<script src="vendor/jquery-3.3.1.slim.min.js"></script>
-		<script src="vendor/popper.min.js"></script>
-		<script src="vendor/bootstrap.min.js"></script>
+		<script src="vendor/jquery-3.6.0.min.js"></script>
 		<script src="wortliste/wortliste.js"></script>
 		<script src="hillerplatt.js"></script>
 	</body>
