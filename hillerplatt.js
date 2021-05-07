@@ -7,13 +7,18 @@ wortliste.forEach(function(wort) {
 	let block = '<div class="d-inline-flex p-2">'
 
 	// TEMPORÄR: Audio-Abspielfunktion erst für Wortblöcke, die bereits aufgenommen sind. Aktuell alle Worte mit a, w und z
-	if (wort.plattdeutsch.toLowerCase().startsWith('a') || wort.plattdeutsch.toLowerCase().startsWith('ä')) {
+	if (wort.plattdeutsch.toLowerCase().startsWith('a') ||
+		wort.plattdeutsch.toLowerCase().startsWith('ä')) {
 		// Helga Wittenfeld: "hw-"
 		if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
 		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/hw-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
 		block += '<button onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">'
 		block += '</button>'
-	} else if (wort.plattdeutsch.toLowerCase().startsWith('w') || wort.plattdeutsch.toLowerCase().startsWith('z')) {
+	} else if (wort.plattdeutsch.toLowerCase().startsWith('u') ||
+		wort.plattdeutsch.toLowerCase().startsWith('ü') ||
+		wort.plattdeutsch.toLowerCase().startsWith('v') ||
+		wort.plattdeutsch.toLowerCase().startsWith('w') ||
+		wort.plattdeutsch.toLowerCase().startsWith('z')) {
 		// Annette Borchardt: "ab-"
 		if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
 		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/ab-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
