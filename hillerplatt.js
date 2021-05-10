@@ -14,7 +14,8 @@ wortliste.forEach(function(wort) {
 		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/hw-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
 		block += '<button onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">'
 		block += '</button>'
-	} else if (wort.plattdeutsch.toLowerCase().startsWith('u') ||
+	} else if (wort.plattdeutsch.toLowerCase().startsWith('t') ||
+		wort.plattdeutsch.toLowerCase().startsWith('u') ||
 		wort.plattdeutsch.toLowerCase().startsWith('ü') ||
 		wort.plattdeutsch.toLowerCase().startsWith('v') ||
 		wort.plattdeutsch.toLowerCase().startsWith('w') ||
