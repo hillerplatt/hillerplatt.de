@@ -46,21 +46,19 @@ wortliste.forEach(function(wort) {
 var search = function() {
 	var value = $(this).val().toLowerCase()
 
-	if(value.length != 1) { // Nur mit mindestens 2 Buchstaben suchen
-		// Auf Basis der Suche die Wörter zeigen oder verstecken
-		var find = $('#wortliste li').filter(function() {
-			return this.id.toLowerCase().match(value)
-		})
-		if (find.length) { // Gibt Suchergebnisse
-			$('#search-error').css('visibility', 'hidden')
-			// Statt .show/.hide für Performance
-			// https://www.learningjquery.com/2010/05/now-you-see-me-showhide-performance
-			$('#wortliste li').css('display', 'none')
-			find.css('display', 'list-item')
-		} else { // Keine Suchergebnisse
-			$('.search-item').text(value)
-			$('#search-error').css('visibility', 'visible')
-		}
+	// Auf Basis der Suche die Wörter zeigen oder verstecken
+	var find = $('#wortliste li').filter(function() {
+		return this.id.toLowerCase().match(value)
+	})
+	if (find.length) { // Gibt Suchergebnisse
+		$('#search-error').css('visibility', 'hidden')
+		// Statt .show/.hide für Performance
+		// https://www.learningjquery.com/2010/05/now-you-see-me-showhide-performance
+		document.querySelectorAll('#wortliste li').forEach(el => el.setAttribute('style', 'display: none !important;'))
+		find.css('display', 'initial')
+	} else { // Keine Suchergebnisse
+		$('.search-item').text(value)
+		$('#search-error').css('visibility', 'visible')
 	}
 }
 
