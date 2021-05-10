@@ -1,10 +1,10 @@
 wortliste.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
 	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4')
+	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-2')
 	wortblock.setAttribute('id', plattdeutschId + ' ' + wort.hochdeutsch);
 
-	let block = '<div class="d-inline-flex p-2">'
+	let block = ''
 
 	// TEMPORÄR: Audio-Abspielfunktion erst für Wortblöcke, die bereits aufgenommen sind. Aktuell alle Worte mit a, w und z
 	if (wort.plattdeutsch.toLowerCase().startsWith('a') ||
@@ -34,7 +34,6 @@ wortliste.forEach(function(wort) {
 	block += '<div>'
 	block += '<h3 class="mb-0">' + wort.plattdeutsch + '</h3>'
 	block += '<p>' + wort.hochdeutsch + '</p>'
-	block += '</div>'
 	block += '</div>'
 
 	wortblock.innerHTML = block
