@@ -54,8 +54,10 @@ var search = function() {
 		})
 		if (find.length) { // Gibt Suchergebnisse
 			$('#search-error').css('visibility', 'hidden')
-			$('#wortliste li').hide()
-			find.show()
+			// Statt .show/.hide für Performance
+			// https://www.learningjquery.com/2010/05/now-you-see-me-showhide-performance
+			$('#wortliste li').css('display', 'none')
+			find.css('display', 'list-item')
 		} else { // Keine Suchergebnisse
 			$('.search-item').text(value)
 			$('#search-error').css('visibility', 'visible')
