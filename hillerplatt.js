@@ -42,24 +42,23 @@ wortliste.forEach(function(wort) {
 })
 
 
+document.querySelector('#search').addEventListener('keyup', function() {
+	var value = this.value.toLowerCase()
 
-var search = function() {
-	var value = $(this).val().toLowerCase()
+	// Erst alle Wörter verstecken
+	document.querySelectorAll('#wortliste li').forEach(el => el.style.setProperty('display', 'none', 'important'))
 
-	// Auf Basis der Suche die Wörter zeigen oder verstecken
-	var find = $('#wortliste li').filter(function() {
-		return this.id.toLowerCase().match(value)
-	})
-	if (find.length) { // Gibt Suchergebnisse
-		$('#search-error').css('visibility', 'hidden')
-		// Statt .show/.hide für Performance
-		// https://www.learningjquery.com/2010/05/now-you-see-me-showhide-performance
-		document.querySelectorAll('#wortliste li').forEach(el => el.setAttribute('style', 'display: none !important;'))
-		find.css('display', 'initial')
-	} else { // Keine Suchergebnisse
-		$('.search-item').text(value)
-		$('#search-error').css('visibility', 'visible')
+	// Auf Basis der Suche die Wörter zeigen
+	Array.from(document.querySelectorAll('#wortliste li'))
+		.filter(el => el.id.toLowerCase().match(value))
+		.forEach(el => el.style.display = null)
+
+	// Suchmeldung anfangs verstecken
+	document.querySelector('#search-error').style.visibility = 'hidden'
+
+	// Keine Suchergebnisse (leere Liste) → Suchmeldung anzeigen
+	if(document.querySelector('#wortliste').offsetHeight === 0) {
+		document.querySelector('.search-item').textContent = value
+		document.querySelector('#search-error').style.visibility = 'visible'
 	}
-}
-
-$('#search').keyup(search).keyup()
+})
