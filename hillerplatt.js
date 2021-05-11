@@ -8,7 +8,7 @@ wortliste.forEach(function(wort) {
 	let prefix = ''
 
 	// TEMPORÄR: Audio-Abspielfunktion erst für Wortblöcke, die bereits aufgenommen sind. Aktuell alle Worte mit a, w und z
-	if(0 < wort.plattdeutsch.localeCompare('i', 'de'))
+	if(0 < wort.plattdeutsch.localeCompare('i', 'de')) {
 		// Helga Wittenfeld: "hw-"
 		prefix = 'hw'
 	} else if (wort.plattdeutsch.toLowerCase().startsWith('t') ||
