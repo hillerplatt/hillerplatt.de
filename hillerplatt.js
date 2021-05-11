@@ -1,19 +1,17 @@
 wortliste.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
 	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-2')
+	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
 	wortblock.setAttribute('id', plattdeutschId + ' ' + wort.hochdeutsch);
 
 	let block = ''
+	let prefix = ''
 
 	// TEMPORÄR: Audio-Abspielfunktion erst für Wortblöcke, die bereits aufgenommen sind. Aktuell alle Worte mit a, w und z
 	if (wort.plattdeutsch.toLowerCase().startsWith('a') ||
 		wort.plattdeutsch.toLowerCase().startsWith('ä')) {
 		// Helga Wittenfeld: "hw-"
-		if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
-		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/hw-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
-		block += '<button onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">'
-		block += '</button>'
+		prefix = 'hw'
 	} else if (wort.plattdeutsch.toLowerCase().startsWith('t') ||
 		wort.plattdeutsch.toLowerCase().startsWith('u') ||
 		wort.plattdeutsch.toLowerCase().startsWith('ü') ||
@@ -21,20 +19,24 @@ wortliste.forEach(function(wort) {
 		wort.plattdeutsch.toLowerCase().startsWith('w') ||
 		wort.plattdeutsch.toLowerCase().startsWith('z')) {
 		// Annette Borchardt: "ab-"
-		if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
-		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/ab-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
-		block += '<button onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();" type="button" class="btn btn-primary btn-play me-3" aria-label="Abspielen">'
-		block += '</button>'
-	} else {
-		// Noch keine Aufnahme
-		if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
-		block += '<div class="btn-placeholder me-3"></div>'
+		prefix = 'ab'
 	}
 
-	block += '<div>'
+	if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
+
+	if(prefix) {
+		block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
+		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
+	} else {
+		block += '<div class="play play-placeholder p-3">'
+	}
 	block += '<h3 class="mb-0">' + wort.plattdeutsch + '</h3>'
-	block += '<p>' + wort.hochdeutsch + '</p>'
-	block += '</div>'
+	block += '<p class="mb-0">' + wort.hochdeutsch + '</p>'
+	if(prefix) {
+		block += '</button>'
+	} else {
+		block += '</div>'
+	}
 
 	wortblock.innerHTML = block
 

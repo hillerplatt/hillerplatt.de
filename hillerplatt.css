@@ -21,36 +21,61 @@ h3 {
 }
 
 .navbar {
-	background-color: rgba(255, 255, 255, .95) !important;
 	-webkit-position: sticky;
 	position: sticky;
 	top: 0;
+	margin: 0 auto;
+	width: 400px;
+	max-width: 100%;
+	overflow: hidden;
+	margin-top: -34px;
 	z-index: 1000;
 	font-weight: bold;
 	color: var(--primary) !important;
-	padding-bottom: 50px;
+}
+
+.navbar .container {
+	padding: 0;
+}
+
+#navbar {
+	width: 100%;
 }
 
 .navbar-nav.navbar-center {
-    position: absolute;
-    left: 50%;
-    transform: translatex(-50%);
+	display: flex;
+	justify-content: space-between;
+	background-color: #fff;
+	border-radius: 25px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-nav .nav-link {
 	color: rgba(0, 0, 0, .6);
+	padding: 13px 24px !important;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	border-radius: 25px;
+	color: #000 !important;
 }
 
 .search-container {
 	position: sticky;
 	top: 58px;
-	background-color: rgba(255, 255, 255, .95) !important;
+	margin: 0 auto;
+	width: 400px;
+	max-width: 100%;
 }
 
 #search {
 	border: 2px solid var(--primary-light);
 	border-radius: 100px;
 	padding: 8px 20px;
+	margin-top: 12px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	width: 100%;
 }
 
 #search-error {
@@ -89,14 +114,21 @@ section {
 	padding-top: 32px;
 }
 
+h1 {
+	font-size: 4rem;
+}
+
 h2 {
 	display: block;
 	background-color: #fff;
 	color: var(--primary) !important;
 	text-align: center;
-	padding: 16px;
-	padding-top: 76px;
+	padding-top: 60px;
 	margin-top: -30px;
+}
+h2 a {
+	display: block;
+	padding: 16px;
 }
 
 h3 {
@@ -118,23 +150,28 @@ h3 {
 }
 
 /* Abspielknopf für Aufnahmen */
-.btn.btn-play {
-	height: 44px;
-	width: 44px;
-	margin-top: 2px;
-	border-radius: 22px;
-	background-image: url('img/sound-color.svg');
-	background-repeat: no-repeat;
-	background-size: 24px;
-	background-position: center;
-}
-.btn.btn-play:hover,
-.btn.btn-play:focus,
-.btn.btn-play:active {
+.play {
+	background-color: #fff;
+	border: none;
+	text-align: left;
+	width: 100%;
+	padding-left: 80px !important;
 	background-image: url('img/sound.svg');
+	background-repeat: no-repeat;
+	background-size: 44px;
+	background-position: 20px center;
+}
+.play:hover,
+.play:focus {
+	background-image: url('img/sound-filled.svg');
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	border-radius: 22px;
+	color: var(--primary);
+}
+.play:active {
+	transform: initial;
 }
 
-.btn-placeholder {
-	width: 44px;
-	flex-shrink: 0;
+.play-placeholder {
+	background-image: none !important;
 }
