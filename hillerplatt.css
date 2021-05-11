@@ -1,7 +1,8 @@
 :root {
-	--primary: #414c24;
-	--primary-light: #616c44;
-	--secondary: #f00;
+	--primary: #16a34c;
+	--primary-light: #4cbe6f;
+	--secondary: #dbce85;
+	--maxcontrast: #737674;
 }
 
 html {
@@ -25,7 +26,7 @@ h3 {
 	position: sticky;
 	top: 0;
 	margin: 0 auto;
-	width: 400px;
+	width: 408px;
 	max-width: 100%;
 	overflow: hidden;
 	margin-top: -34px;
@@ -39,7 +40,8 @@ h3 {
 }
 
 #navbar {
-	width: 100%;
+	width: calc(100% - 8px);
+	padding-left: 4px;
 }
 
 .navbar-nav.navbar-center {
@@ -58,7 +60,7 @@ h3 {
 .navbar-nav .nav-link:focus {
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	border-radius: 25px;
-	color: #000 !important;
+	color: var(--primary) !important;
 }
 
 .search-container {
@@ -70,7 +72,7 @@ h3 {
 }
 
 #search {
-	border: 2px solid var(--primary-light);
+	border: 2px solid var(--primary);
 	border-radius: 100px;
 	padding: 8px 20px;
 	margin-top: 12px;
@@ -103,6 +105,7 @@ h3 {
 a {
 	color: var(--primary);
 	text-decoration: none !important;
+	font-weight: bold;
 }
 a:hover,
 a:focus,
@@ -168,10 +171,16 @@ h3 {
 	border-radius: 22px;
 	color: var(--primary);
 }
-.play:active {
-	transform: initial;
+
+.play p {
+	color: var(--maxcontrast);
 }
 
 .play-placeholder {
 	background-image: none !important;
+}
+
+::selection {
+	background-color: var(--primary-light);
+	color: #fff;
 }
