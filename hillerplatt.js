@@ -1,3 +1,4 @@
+// Wortliste füllen
 wortliste.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
 	let wortblock = document.createElement('li')
@@ -7,22 +8,19 @@ wortliste.forEach(function(wort) {
 	let block = ''
 	let prefix = ''
 
-	// TEMPORÄR: Audio-Abspielfunktion erst für Wortblöcke, die bereits aufgenommen sind. Aktuell alle Worte mit a, w und z
-	if(0 > wort.plattdeutsch.localeCompare('i', 'de')) {
-		// Helga Wittenfeld: "hw-"
+	// Präfixe basiert auf Sprecherin
+	if(wort.plattdeutsch.localeCompare('i', 'de') < 0) {
+		// Helga Wittenfeld: "hw-", Worte A bis H
 		prefix = 'hw'
-	} else if (wort.plattdeutsch.toLowerCase().startsWith('t') ||
-		wort.plattdeutsch.toLowerCase().startsWith('u') ||
-		wort.plattdeutsch.toLowerCase().startsWith('ü') ||
-		wort.plattdeutsch.toLowerCase().startsWith('v') ||
-		wort.plattdeutsch.toLowerCase().startsWith('w') ||
-		wort.plattdeutsch.toLowerCase().startsWith('z')) {
-		// Annette Borchardt: "ab-"
+	} else if (wort.plattdeutsch.localeCompare('s', 'de') > 0) {
+		// Annette Borchardt: "ab-", Worte S bis Z
 		prefix = 'ab'
 	}
 
+	// Artikel sind in den Daten separat. Wir sortieren nach Wort, zeigen aber mit Artikel an.
 	if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
 
+	// HTML zusammenbauen
 	if(prefix) {
 		block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
 		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
@@ -38,11 +36,12 @@ wortliste.forEach(function(wort) {
 	}
 
 	wortblock.innerHTML = block
-
 	document.getElementById('wortliste').appendChild(wortblock)
 })
 
 
+
+// Suchfunktion
 document.querySelector('#search').addEventListener('keyup', function() {
 	var value = this.value.toLowerCase()
 
