@@ -1,9 +1,10 @@
 // Wortliste füllen
 wortliste.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '')
 	let wortblock = document.createElement('li')
 	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
-	wortblock.setAttribute('id', plattdeutschId + ' ' + wort.hochdeutsch);
+	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
 
 	let block = ''
 	let prefix = ''
@@ -21,9 +22,10 @@ wortliste.forEach(function(wort) {
 	if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
 
 	// HTML zusammenbauen
+	// Fragezeichen sind in Dateinamen nicht erlaubt
 	if(prefix) {
 		block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
-		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutsch + '.flac" preload="none"></audio>'
+		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutsch.replace('?', '') + '.flac" preload="none"></audio>'
 	} else {
 		block += '<div class="play play-placeholder p-3">'
 	}
@@ -61,4 +63,30 @@ document.querySelector('#search').addEventListener('keyup', function() {
 		document.querySelector('.search-item').textContent = value
 		document.querySelector('#search-error').style.visibility = 'visible'
 	}
+})
+
+
+
+// Redewendungen füllen
+redewendungen.forEach(function(wort) {
+	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let wortblock = document.createElement('li')
+	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
+	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
+
+	let block = ''
+	let prefix = ''
+	// Aktuell keine Präfixe, alles Marie Wiese
+
+	// HTML zusammenbauen
+	// Fragezeichen sind in Dateinamen nicht erlaubt
+	block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
+	block += '<audio id="' + plattdeutschId + '-audio" src="audio/redewendungen/' + wort.plattdeutsch.replace('?', '') + '.wav" preload="none"></audio>'
+	block += '<h3 class="mb-0">' + wort.plattdeutsch + '</h3>'
+	block += '<p class="mb-0">' + wort.hochdeutsch + '</p>'
+	block += '</button>'
+
+	wortblock.innerHTML = block
+	document.getElementById('wortliste-redewendungen').appendChild(wortblock)
 })
