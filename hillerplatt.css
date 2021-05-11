@@ -91,6 +91,7 @@ h3 {
 .jumbotron {
 	margin-bottom: 0;
 	height: 300px;
+	padding-top: 32px;
 	background-color: #cedbe3 !important;
 	color: #fff;
 	text-shadow: 0 0 10px rgba(0, 0, 0, .5);
