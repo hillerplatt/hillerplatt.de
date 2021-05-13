@@ -1,12 +1,5 @@
 // Wortliste füllen
 wortliste.forEach(function(wort) {
-	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
-	let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '')
-	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
-	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
-
-	let block = ''
 	let prefix = ''
 
 	// Präfixe basiert auf Sprecherin
@@ -20,6 +13,14 @@ wortliste.forEach(function(wort) {
 
 	// Artikel sind in den Daten separat. Wir sortieren nach Wort, zeigen aber mit Artikel an.
 	if(wort.artikel) wort.plattdeutsch = wort.artikel + ' ' + wort.plattdeutsch
+
+	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let wortblock = document.createElement('li')
+	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
+	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
+
+	let block = ''
 
 	// HTML zusammenbauen
 	// Fragezeichen sind in Dateinamen nicht erlaubt
