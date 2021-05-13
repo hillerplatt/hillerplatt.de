@@ -13,8 +13,8 @@ wortliste.forEach(function(wort) {
 	if(wort.plattdeutsch.localeCompare('i', 'de') < 0) {
 		// Helga Wittenfeld: "hw-", Worte A bis H
 		prefix = 'hw'
-	} else if (wort.plattdeutsch.localeCompare('r', 'de') > 0) {
-		// Annette Borchardt: "ab-", Worte R bis Z
+	} else if (wort.plattdeutsch.localeCompare('q', 'de') > 0) {
+		// Annette Borchardt: "ab-", Worte Q bis Z
 		prefix = 'ab'
 	}
 
