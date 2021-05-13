@@ -63,6 +63,26 @@ h3 {
 	color: var(--primary-light) !important;
 }
 
+.random {
+	display: block;
+	margin: 0 auto 1rem;
+	border: none;
+	background-color: var(--primary-light);
+	background-image: url('img/shuffle.svg'), linear-gradient(45deg, var(--primary-light) 0%, var(--secondary) 100%);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-weight: bold;
+	color: #fff;
+	border-radius: 22px;
+	padding: 10px 20px 10px 60px !important;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.random:hover,
+.random:focus {
+	background-color: var(--primary-light);
+	background-image: url('img/shuffle.svg'), linear-gradient(45deg, var(--primary-light) 0%, var(--primary-light) 100%);
+}
+
 .search-container {
 	position: sticky;
 	top: 58px;

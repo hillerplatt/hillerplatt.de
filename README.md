@@ -21,7 +21,6 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 - [ ] Wo gibt es das Buch?
 
 ### Wörterbuch
-- [ ] 9 zufällige Wörter oben anzeigen
 - [ ] Alphabetischer Buchstaben-Separator
 - [ ] Unterstützung von ungenauer Suche evtl, via [List.js](https://listjs.com/examples/fuzzy-search/) oder [Fuse.js](https://fusejs.io/demo.html)
 - [ ] Erklärung oder Konjugation auf 3. Zeile?
