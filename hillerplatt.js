@@ -33,8 +33,8 @@ function zufallsworte() {
 			wort.plattdeutschKomplett = wort.plattdeutsch
 		}
 
-		let plattdeutschId = wort.plattdeutschKomplett.replace(/[^a-zA-Z ]/g, '') + '-random'
-		let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '') + '-random'
+		let plattdeutschId = wort.plattdeutschKomplett.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '') + '-random'
+		let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '') + '-random'
 		let wortblock = document.createElement('li')
 		wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
 		wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
@@ -86,8 +86,8 @@ wortliste.forEach(function(wort) {
 		wort.plattdeutschKomplett = wort.plattdeutsch
 	}
 
-	let plattdeutschId = wort.plattdeutschKomplett.replace(/[^a-zA-Z ]/g, '')
-	let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let plattdeutschId = wort.plattdeutschKomplett.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
+	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let wortblock = document.createElement('li')
 	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
 	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
@@ -142,8 +142,8 @@ document.querySelector('#search').addEventListener('keyup', function() {
 
 // Redewendungen füllen
 redewendungen.forEach(function(wort) {
-	let plattdeutschId = wort.plattdeutsch.replace(/[^a-zA-Z ]/g, '')
-	let hochdeutschId = wort.hochdeutsch.replace(/[^a-zA-Z ]/g, '')
+	let plattdeutschId = wort.plattdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
+	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let wortblock = document.createElement('li')
 	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
 	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
