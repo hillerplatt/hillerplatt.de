@@ -57,10 +57,9 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 - Ein gutes Mikrofon (welches wird genutzt?)
 - Aufnahme einfach mit Laptop oder Handy, Aufnahmeprogramm.
 - Jedes Wort oder Sprichwort einzeln aufnehmen. Direkt anfangen zu reden, so wenig wie möglich Pause am Anfang und Ende. Aufnahme sofort nach aufgenommenem Wort benennen.
+- Mit Artikeln und Pluralversionen aufnehmen.
 - Keine Hintergrundgeräusche, Atmen, Schmatzen, Räuspern, etc.
 - Raum ohne Hall. Aufnahmen immer im gleichen Raum, gleiche Position
 - Immer gleichen Abstand vom Mikrofon, gleiche Lautstärke.
-- Drauf achten, dass es laut genug ist. Abgleich mit Liedern oder Youtube-Videos, ob die Lautstärke ähnlich ist.
-- Für die Webseite müssen die aufgenommenen Dateien womöglich komprimiert werden, damit es schneller lädt, aber das ist ein separates Thema.
+- Drauf achten, dass es laut genug ist. Abgleich mit existierenden Worten, ob die Lautstärke ähnlich ist.
 - Lautstärke ist gut, vergleichbar mit Leveln von Videos oder Musik.
-- Direkter Anfang des Wortes ist super.
