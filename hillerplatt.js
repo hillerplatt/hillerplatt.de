@@ -71,8 +71,8 @@ wortliste.forEach(function(wort) {
 	let prefix = ''
 
 	// Präfixe basiert auf Sprecherin
-	if(wort.plattdeutsch.localeCompare('i', 'de') < 0) {
-		// Helga Wittenfeld: "hw-", Worte A bis H
+	if(wort.plattdeutsch.localeCompare('n', 'de') < 0) {
+		// Helga Wittenfeld: "hw-", Worte A bis M
 		prefix = 'hw'
 	} else if (wort.plattdeutsch.localeCompare('n', 'de') > 0) {
 		// Annette Borchardt: "ab-", Worte N bis Z
