@@ -160,6 +160,11 @@ h2 a {
 
 h3 {
 	font-size: 1.25rem;
+	margin-bottom: 0;
+}
+
+h3 + p {
+	margin-bottom: 0;
 }
 
 .btn-primary {
@@ -176,32 +181,34 @@ h3 {
 	border-color: var(--primary-light);
 }
 
+/* Listenelemente */
+li {
+	padding: 0.25rem;
+	display: inline-flex;
+}
+
 /* Abspielknopf für Aufnahmen */
-.play {
+li button {
 	background-color: #fff;
 	border: none;
 	text-align: left;
 	width: 100%;
-	padding-left: 80px !important;
+	padding: 1rem 1rem 1rem 80px;
 	background-image: url('img/sound.svg');
 	background-repeat: no-repeat;
 	background-size: 44px;
 	background-position: 20px center;
 }
-.play:hover,
-.play:focus {
+li button:hover,
+li button:focus {
 	background-image: url('img/sound-filled.svg');
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 	border-radius: 22px;
 	color: var(--primary-light);
 }
 
-.play p {
+li button p {
 	color: var(--maxcontrast);
-}
-
-.play-placeholder {
-	background-image: none !important;
 }
 
 ::selection {

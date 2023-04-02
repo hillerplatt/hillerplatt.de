@@ -36,26 +36,18 @@ function zufallsworte() {
 		let plattdeutschId = wort.plattdeutschKomplett.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '') + '-random'
 		let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '') + '-random'
 		let wortblock = document.createElement('li')
-		wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
-		wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
+
+		wortblock.classList.add('col-md-4')
 
 		let block = ''
 
 		// HTML zusammenbauen
 		// Fragezeichen sind in Dateinamen nicht erlaubt
-		if(prefix) {
-			block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
-			block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '.flac" preload="none"></audio>'
-		} else {
-			block += '<div class="play play-placeholder p-3">'
-		}
-		block += '<h3 class="mb-0">' + wort.plattdeutschKomplett + '</h3>'
-		block += '<p class="mb-0">' + wort.hochdeutsch + '</p>'
-		if(prefix) {
-			block += '</button>'
-		} else {
-			block += '</div>'
-		}
+		block += '<button type="button" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
+		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '.flac" preload="none"></audio>'
+		block += '<h3>' + wort.plattdeutschKomplett + '</h3>'
+		block += '<p>' + wort.hochdeutsch + '</p>'
+		block += '</button>'
 
 		wortblock.innerHTML = block
 		wortlisteRandomFragment.appendChild(wortblock)
@@ -94,26 +86,17 @@ wortliste.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutschKomplett.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
-	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
+	wortblock.classList.add('col-md-4')
 
 	let block = ''
 
 	// HTML zusammenbauen
 	// Fragezeichen sind in Dateinamen nicht erlaubt
-	if(prefix) {
-		block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
-		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '.flac" preload="none"></audio>'
-	} else {
-		block += '<div class="play play-placeholder p-3">'
-	}
-	block += '<h3 class="mb-0">' + wort.plattdeutschKomplett + '</h3>'
-	block += '<p class="mb-0">' + wort.hochdeutsch + '</p>'
-	if(prefix) {
-		block += '</button>'
-	} else {
-		block += '</div>'
-	}
+	block += '<button type="button" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
+	block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '.flac" preload="none"></audio>'
+	block += '<h3>' + wort.plattdeutschKomplett + '</h3>'
+	block += '<p>' + wort.hochdeutsch + '</p>'
+	block += '</button>'
 
 	wortblock.innerHTML = block
 	wortlisteFragment.appendChild(wortblock)
@@ -153,8 +136,7 @@ redewendungen.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4', 'd-inline-flex', 'p-1')
-	wortblock.setAttribute('id', plattdeutschId + ' ' + hochdeutschId);
+	wortblock.classList.add('col-md-4')
 
 	let block = ''
 	let prefix = ''
@@ -162,10 +144,10 @@ redewendungen.forEach(function(wort) {
 
 	// HTML zusammenbauen
 	// Fragezeichen sind in Dateinamen nicht erlaubt
-	block += '<button type="button" class="play p-3" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
+	block += '<button type="button" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
 	block += '<audio id="' + plattdeutschId + '-audio" src="audio/redewendungen/' + wort.plattdeutsch.replace('?', '') + '.wav" preload="none"></audio>'
-	block += '<h3 class="mb-0">' + wort.plattdeutsch + '</h3>'
-	block += '<p class="mb-0">' + wort.hochdeutsch + '</p>'
+	block += '<h3>' + wort.plattdeutsch + '</h3>'
+	block += '<p>' + wort.hochdeutsch + '</p>'
 	block += '</button>'
 
 	wortblock.innerHTML = block
