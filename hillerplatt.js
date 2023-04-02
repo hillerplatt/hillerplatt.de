@@ -121,7 +121,7 @@ document.querySelector('#search').addEventListener('keyup', function() {
 
 	// Auf Basis der Suche die Wörter zeigen
 	Array.from(document.querySelectorAll('#wortliste li'))
-		.filter(el => el.id.toLowerCase().match(value))
+		.filter(el => el.textContent.toLowerCase().match(value))
 		.forEach(el => el.style.display = null)
 
 	// Suchmeldung anfangs verstecken
