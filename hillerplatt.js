@@ -7,6 +7,19 @@ function shuffleArray(array) {
     }
 }
 
+// Audioaufnahmen abspielen
+function playAudio(name, ordner) {
+	let audio
+
+	if(ordner === 'redewendungen') {
+		audio = new Audio('audio/redewendungen/' + name + '.wav');
+	} else {
+		audio = new Audio('audio/recorder/' + name + '.flac');
+	}
+
+	audio.play();
+}
+
 // Randomisierte Wortliste füllen
 wortlisteRandom = wortliste.slice(0)
 
@@ -33,8 +46,6 @@ function zufallsworte() {
 			wort.plattdeutschKomplett = wort.plattdeutsch
 		}
 
-		let plattdeutschId = wort.plattdeutschKomplett.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '') + '-random'
-		let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '') + '-random'
 		let wortblock = document.createElement('li')
 
 		wortblock.classList.add('col-md-4')
@@ -43,8 +54,7 @@ function zufallsworte() {
 
 		// HTML zusammenbauen
 		// Fragezeichen sind in Dateinamen nicht erlaubt
-		block += '<button type="button" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
-		block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '.flac" preload="none"></audio>'
+		block += '<button type="button" onclick="playAudio(\'' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '\')">'
 		block += '<h3>' + wort.plattdeutschKomplett + '</h3>'
 		block += '<p>' + wort.hochdeutsch + '</p>'
 		block += '</button>'
@@ -83,8 +93,6 @@ wortliste.forEach(function(wort) {
 		wort.plattdeutschKomplett = wort.plattdeutsch
 	}
 
-	let plattdeutschId = wort.plattdeutschKomplett.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
-	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let wortblock = document.createElement('li')
 	wortblock.classList.add('col-md-4')
 
@@ -92,8 +100,7 @@ wortliste.forEach(function(wort) {
 
 	// HTML zusammenbauen
 	// Fragezeichen sind in Dateinamen nicht erlaubt
-	block += '<button type="button" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
-	block += '<audio id="' + plattdeutschId + '-audio" src="audio/recorder/' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '.flac" preload="none"></audio>'
+	block += '<button type="button" onclick="playAudio(\'' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '\')">'
 	block += '<h3>' + wort.plattdeutschKomplett + '</h3>'
 	block += '<p>' + wort.hochdeutsch + '</p>'
 	block += '</button>'
@@ -133,8 +140,6 @@ document.querySelector('#search').addEventListener('keyup', function() {
 const redewendungenFragment = document.createDocumentFragment()
 
 redewendungen.forEach(function(wort) {
-	let plattdeutschId = wort.plattdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
-	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let wortblock = document.createElement('li')
 	wortblock.classList.add('col-md-4')
 
@@ -144,8 +149,8 @@ redewendungen.forEach(function(wort) {
 
 	// HTML zusammenbauen
 	// Fragezeichen sind in Dateinamen nicht erlaubt
-	block += '<button type="button" onclick="document.getElementById(\'' + plattdeutschId + '-audio\').play();">'
-	block += '<audio id="' + plattdeutschId + '-audio" src="audio/redewendungen/' + wort.plattdeutsch.replace('?', '') + '.wav" preload="none"></audio>'
+	block += '<button type="button" onclick="playAudio(\'' + wort.plattdeutsch.replace('?', '') + '\', \'redewendungen\')">'
+
 	block += '<h3>' + wort.plattdeutsch + '</h3>'
 	block += '<p>' + wort.hochdeutsch + '</p>'
 	block += '</button>'

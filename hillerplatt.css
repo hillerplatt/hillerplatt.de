@@ -182,7 +182,7 @@ h3 + p {
 }
 
 /* Listenelemente */
-li {
+.list-unstyled li {
 	padding: 0.25rem;
 	display: inline-flex;
 }
