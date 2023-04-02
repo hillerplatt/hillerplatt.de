@@ -47,9 +47,9 @@ h3 {
 .navbar-nav.navbar-center {
 	display: flex;
 	justify-content: space-between;
-	background-color: #fff;
+	background-color: var(--bs-white);
 	border-radius: 25px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	border: 2px solid #d7d9d3;
 }
 
 .navbar-nav .nav-link {
@@ -72,8 +72,8 @@ h3 {
 	background-repeat: no-repeat;
 	background-position: left center;
 	font-weight: bold;
-	color: #fff;
-	border-radius: 22px;
+	color: var(--bs-white);
+	border-radius: 25px;
 	padding: 10px 20px 10px 60px !important;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
@@ -113,7 +113,7 @@ h3 {
 	height: 300px;
 	padding-top: 32px;
 	background-color: #cedbe3 !important;
-	color: #fff;
+	color: var(--bs-white);
 	text-shadow: 0 0 10px rgba(0, 0, 0, .5);
 	border-radius: 0;
 	background-image: url('img/torfmoor-edited-smaller.jpg');
@@ -147,7 +147,7 @@ h1 {
 
 h2 {
 	display: block;
-	background-color: #fff;
+	background-color: var(--bs-white);
 	color: var(--primary) !important;
 	text-align: center;
 	padding-top: 60px;
@@ -176,7 +176,7 @@ h3 + p {
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-	color: #fff;
+	color: var(--bs-white);
 	background: var(--primary-light);
 	border-color: var(--primary-light);
 }
@@ -189,8 +189,9 @@ h3 + p {
 
 /* Abspielknopf für Aufnahmen */
 li button {
-	background-color: #fff;
-	border: none;
+	background-color: var(--bs-white);
+	border: 2px solid var(--bs-white);
+	border-radius: 100px;
 	text-align: left;
 	width: 100%;
 	padding: 1rem 1rem 1rem 80px;
@@ -202,8 +203,7 @@ li button {
 li button:hover,
 li button:focus {
 	background-image: url('img/sound-filled.svg');
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-	border-radius: 22px;
+	border-color: #d7d9d3;
 	color: var(--primary-light);
 }
 
@@ -213,5 +213,5 @@ li button p {
 
 ::selection {
 	background-color: var(--primary-light);
-	color: #fff;
+	color: var(--bs-white);
 }
