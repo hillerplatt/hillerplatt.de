@@ -4,6 +4,8 @@
 	--primary-lighter: #4cbe6f;
 	--secondary: #dbce85;
 	--maxcontrast: #737674;
+	--background-light: #cedbe3;
+	--border-light: #d7d9d3;
 }
 
 html {
@@ -49,7 +51,8 @@ h3 {
 	justify-content: space-between;
 	background-color: var(--bs-white);
 	border-radius: 25px;
-	border: 2px solid #d7d9d3;
+	border: 2px solid var(--border-light);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-nav .nav-link {
@@ -112,7 +115,7 @@ h3 {
 	margin-bottom: 0;
 	height: 300px;
 	padding-top: 32px;
-	background-color: #cedbe3 !important;
+	background-color: var(--background-light) !important;
 	color: var(--bs-white);
 	text-shadow: 0 0 10px rgba(0, 0, 0, .5);
 	border-radius: 0;
@@ -203,7 +206,7 @@ li button {
 li button:hover,
 li button:focus {
 	background-image: url('img/sound-filled.svg');
-	border-color: #d7d9d3;
+	border-color: var(--border-light);
 	color: var(--primary-light);
 }
 
