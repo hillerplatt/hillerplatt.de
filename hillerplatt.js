@@ -12,7 +12,7 @@ wortlisteRandom = wortliste.slice(0)
 
 function zufallsworte() {
 	shuffleArray(wortlisteRandom)
-	document.getElementById('wortliste-random').innerHTML = ''
+	const wortlisteRandomFragment = document.createDocumentFragment()
 
 	wortlisteRandom.slice(0, 9).forEach(function(wort) {
 		let prefix = ''
@@ -58,8 +58,11 @@ function zufallsworte() {
 		}
 
 		wortblock.innerHTML = block
-		document.getElementById('wortliste-random').appendChild(wortblock)
+		wortlisteRandomFragment.appendChild(wortblock)
 	})
+
+	document.getElementById('wortliste-random').innerHTML = ''
+	document.getElementById('wortliste-random').appendChild(wortlisteRandomFragment)
 }
 
 zufallsworte()
@@ -67,6 +70,8 @@ zufallsworte()
 
 
 // Wortliste füllen
+const wortlisteFragment = document.createDocumentFragment()
+
 wortliste.forEach(function(wort) {
 	let prefix = ''
 
@@ -111,9 +116,10 @@ wortliste.forEach(function(wort) {
 	}
 
 	wortblock.innerHTML = block
-	document.getElementById('wortliste').appendChild(wortblock)
+	wortlisteFragment.appendChild(wortblock)
 })
 
+document.getElementById('wortliste').appendChild(wortlisteFragment)
 
 
 // Suchfunktion
@@ -141,6 +147,8 @@ document.querySelector('#search').addEventListener('keyup', function() {
 
 
 // Redewendungen füllen
+const redewendungenFragment = document.createDocumentFragment()
+
 redewendungen.forEach(function(wort) {
 	let plattdeutschId = wort.plattdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
 	let hochdeutschId = wort.hochdeutsch.replace(/[^0-9a-zA-ZäöüÄÖÜß ]/g, '')
@@ -161,5 +169,7 @@ redewendungen.forEach(function(wort) {
 	block += '</button>'
 
 	wortblock.innerHTML = block
-	document.getElementById('wortliste-redewendungen').appendChild(wortblock)
+	redewendungenFragment.appendChild(wortblock)
 })
+
+document.getElementById('wortliste-redewendungen').appendChild(redewendungenFragment)
