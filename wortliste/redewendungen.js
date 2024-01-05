@@ -4,7 +4,7 @@ const redewendungen = [
         "hochdeutsch": "Hiller Begriff für  \"auf dem Friedhof liegen\"."
     },
     {
-        "plattdeutsch": "An geden Schliepstein es'n Draaiher.",
+        "plattdeutsch": "An geden Schliepstein es’n Draaiher.",
         "hochdeutsch": "Es gibt für alles eine Lösung."
     },
     {
@@ -12,7 +12,7 @@ const redewendungen = [
         "hochdeutsch": "Bis Mittag schlafen."
     },
     {
-        "plattdeutsch": "Dat Schwien noa'n Bärn bringen.",
+        "plattdeutsch": "Dat Schwien noa’n Bärn bringen.",
         "hochdeutsch": "Das Schwein vom Eber decken lassen."
     },
     {
@@ -88,7 +88,7 @@ const redewendungen = [
         "hochdeutsch": "Er ist kein Feinschmecker."
     },
     {
-        "plattdeutsch": "De kieket sick nich moal mit'm Oarse an.",
+        "plattdeutsch": "De kieket sick nich moal mit’m Oarse an.",
         "hochdeutsch": "Die sind ganz und gar zerstritten."
     },
     {
@@ -212,7 +212,7 @@ const redewendungen = [
         "hochdeutsch": "Es liegt mir auf der Zunge. "
     },
     {
-        "plattdeutsch": "Et was man nur sau'n Dopp.",
+        "plattdeutsch": "Et was man nur sau’n Dopp.",
         "hochdeutsch": "Es war nur so ein kleines Stück."
     },
     {
@@ -220,7 +220,7 @@ const redewendungen = [
         "hochdeutsch": "Es ist mir zeitlich knapp geworden."
     },
     {
-        "plattdeutsch": "Et was öhne an'n Pierk togen.",
+        "plattdeutsch": "Et was öhne an’n Pierk togen.",
         "hochdeutsch": "Es ist ihm sehr nahe gegangen."
     },
     {
@@ -236,11 +236,11 @@ const redewendungen = [
         "hochdeutsch": "Dies sagt man scherzhaft, wenn jemand ein Loch im Strumpf hat \nund der große Zeh hindurchschaut."
     },
     {
-        "plattdeutsch": "Für'n Sack vull Geld nimmp de Welt den Heot af.",
+        "plattdeutsch": "Für’n Sack vull Geld nimmp de Welt den Heot af.",
         "hochdeutsch": "Geld regiert die Welt."
     },
     {
-        "plattdeutsch": "Für'n Sack vull Geld nimmp de Welt den Heot af.",
+        "plattdeutsch": "Für’n Sack vull Geld nimmp de Welt den Heot af.",
         "hochdeutsch": "Auf der Kippe stehen."
     },
     {
@@ -256,7 +256,7 @@ const redewendungen = [
         "hochdeutsch": "Ein entwicklungsverzögerter Mensch."
     },
     {
-        "plattdeutsch": "Hei flötket iut'n lesten Looke.",
+        "plattdeutsch": "Hei flötket iut’n lesten Looke.",
         "hochdeutsch": "Er pfeift aus dem letzten Loch (atemlos)."
     },
     {
@@ -336,7 +336,7 @@ const redewendungen = [
         "hochdeutsch": "Er hat mich schnell abgewimmelt."
     },
     {
-        "plattdeutsch": "Hei weol mi an't Lear.",
+        "plattdeutsch": "Hei weol mi an’t Lear.",
         "hochdeutsch": "Er wollte mir ans Leder."
     },
     {
@@ -384,7 +384,7 @@ const redewendungen = [
         "hochdeutsch": "Ein Hund auf dem Hof hat es besser als …."
     },
     {
-        "plattdeutsch": "Leiber'n Spatz inne Hand, wie ne Diuben uppen Doake.",
+        "plattdeutsch": "Leiber’n Spatz inne Hand, wie ne Diuben uppen Doake.",
         "hochdeutsch": "Lieber einen Spatz in der Hand, als eine Taube auf dem Dach."
     },
     {
@@ -460,7 +460,7 @@ const redewendungen = [
         "hochdeutsch": "Aus der Art geschlagen."
     },
     {
-        "plattdeutsch": "Up'n Pinn trehen.",
+        "plattdeutsch": "Up’n Pinn trehen.",
         "hochdeutsch": "Gas geben, sich beeilen"
     },
     {
@@ -468,7 +468,7 @@ const redewendungen = [
         "hochdeutsch": "Kein Durchhaltevermögen"
     },
     {
-        "plattdeutsch": "Van'n Beinen dat räaßet.",
+        "plattdeutsch": "Van’n Beinen dat räaßet.",
         "hochdeutsch": "Ausruhen nach anstrengender, körperlicher Tätigkeit."
     },
     {
@@ -492,11 +492,11 @@ const redewendungen = [
         "hochdeutsch": "Wir haben alles im Griff."
     },
     {
-        "plattdeutsch": "Wi oarbert'e bian.",
+        "plattdeutsch": "Wi oarbert’e bian.",
         "hochdeutsch": "Wir arbeiten ohne Druck weiter."
     },
     {
-        "plattdeutsch": "Wi wütt 'n Hitken fillen.",
+        "plattdeutsch": "Wi wütt ’n Hitken fillen.",
         "hochdeutsch": "Wir wollen zum Vergnügen ausgehen."
     },
     {
