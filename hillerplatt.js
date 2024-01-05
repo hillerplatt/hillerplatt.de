@@ -12,7 +12,7 @@ function playAudio(name, ordner) {
 	let audio
 
 	if(ordner === 'redewendungen') {
-		audio = new Audio('audio/redewendungen/' + name + '.wav');
+		audio = new Audio('audio/redewendungen/' + name + '.flac');
 	} else {
 		audio = new Audio('audio/recorder/' + name + '.flac');
 	}
