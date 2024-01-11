@@ -240,10 +240,6 @@ const redewendungen = [
         "hochdeutsch": "Geld regiert die Welt."
     },
     {
-        "plattdeutsch": "Für’n Sack vull Geld nimmp de Welt den Heot af.",
-        "hochdeutsch": "Auf der Kippe stehen."
-    },
-    {
         "plattdeutsch": "Gümmer den Kopp innen Nacken, wenn de Haals auk dreckig es!",
         "hochdeutsch": "Er ist stolz trotz allem."
     },
