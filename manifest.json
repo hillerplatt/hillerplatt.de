@@ -1,0 +1,65 @@
+{
+  "short_name": "Hiller Platt",
+  "name": "Hiller Platt",
+  "icons": [
+    {
+      "src": "/images/icons-vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#166c4c",
+  "shortcuts": [
+    {
+      "name": "Hiller Platt",
+      "short_name": "Hiller Platt",
+      "description": "View weather information for today",
+      "url": "/",
+      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Hiller Platt Wörterbuch",
+      "short_name": "Hiller Platt",
+      "description": "View weather information for tomorrow",
+      "url": "/#woerterbuch",
+      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Hiller Platt Redewendungen",
+      "short_name": "Hiller Platt",
+      "description": "View weather information for tomorrow",
+      "url": "/#redewendungen",
+      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Hiller Platt ist ein Dialekt unter den unzähligen Varianten der Niederdeutschen Sprache. Einer Sprache, die bis vor etwa 80 Jahren noch überall in Norddeutschland auf dem Land die Alltagssprache war und die bis Ende des 16. Jahrhunderts als Handelssprache im Ostseeraum in Wort und Schrift verwendet wurde.",
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
