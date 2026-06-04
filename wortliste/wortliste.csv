@@ -17,24 +17,23 @@ de,Aarn,"Ernte, Erntezeit",hw
 ,achternanner,hintereinander,hw
 ,achterümme,hintenherum,hw
 ,af,ab,hw
-,af un an,"ab und zu, manchmal, hin und wieder",hw
-,af un teo,"ab und zu, manchmal",hw
+,afännern,abändern,hw
 ,afbaalgen,verausgaben,hw
 de,Afbidde,"Verzeihung, Entschuldigung",hw
 de,Afbidde deon,Verzeihung (um Verzeihung bitten),hw
 ,afbieten,abbeißen,hw
 ,afbloaen,abblättern,hw
 ,afbloasen (afsäggen),absagen,hw
-,afbrennen,abbrennen,hw
 ,afböagen,abbiegen,hw
+,afbrennen,abbrennen,hw
 ,afdanken,abdanken,hw
 ,afdeckeln,rügen,hw
 ,afdecken,abdecken,hw
 ,afdeon,abwinken (für belanglos erklären),hw
 ,afdisken,abräumen (Tisch),hw
-,afdröagen,abtrocknen,hw
 ,afdöppen,ablösen (Blüte und Stiel vom Obst und Gemüse entfernen),hw
 ,afdössken,abdreschen (das letzte Getreide dreschen),hw
+,afdröagen,abtrocknen,hw
 de,Afecke,Winkel (hinterste Ecke),hw
 ,affienen,abfinden,hw
 ,affillen,abpellen,hw
@@ -49,14 +48,14 @@ de,Afgrund,Abgrund,hw
 de,Afgunst,Neid,hw
 ,afgünstig,neidisch,hw
 ,afhanden,abhanden,hw
+,afhängig (afhängich),abhängig,hw
 ,afhaulen,abhalten,hw
 ,afhaulen,abhalten (ein Kind zum Wasserlassen abhalten),hw
 ,afheoen,abhauen (weglaufen),hw
 ,afhoaken,abhaken,hw
 ,afhoarken,abharken,hw
-,afhocken,abhocken (Getreidefläche wird für die Zwischenfrucht freigetragen),hw
-,afhängig (afhängich),abhängig,hw
 ,afhöarn,abhören,hw
+,afhocken,abhocken (Getreidefläche wird für die Zwischenfrucht freigetragen),hw
 ,afjachtern,abhetzen,hw
 ,afkanzeln,erniedrigen,hw
 ,afkeoen,abkauen,hw
@@ -64,10 +63,11 @@ de,Afgunst,Neid,hw
 ,afkiemen,abkeimen,hw
 ,afkloppen,abklopfen,hw
 ,afkniusen,abzweigen,hw
-,afkriegen,"abpflücken, abbekommen",hw
-,afkurm van,loskommen von,hw
 ,afköarten,abkürzen,hw
+,afkriegen,"abpflücken, abbekommen",hw
 ,afküen,"ausreden, absprechen",hw
+,afkurm van,loskommen von,hw
+,afläen,abgewöhnen,hw
 ,aflaupen,ablaufen,hw
 de,Aflegger,Ableger (Pflanze oder Mensch),hw
 ,aflicken,ablecken,hw
@@ -75,7 +75,6 @@ de,Aflegger,Ableger (Pflanze oder Mensch),hw
 ,aflihrnen,ablehnen,hw
 ,afliuen,abwarten,hw
 ,afloaen,abladen,hw
-,afläen,abgewöhnen,hw
 ,aflünsen,abgaunern,hw
 ,afmaaihen,abmähen,hw
 ,afmelken,abmelken (auslaufen der Milchproduktion bei einer Kuh),hw
@@ -91,6 +90,8 @@ de,Aflegger,Ableger (Pflanze oder Mensch),hw
 ,afroaen van,abraten von,hw
 ,afrümen,abräumen,hw
 ,afsaaien,"abschöpfen (Rahm, Fett)",hw
+,afsäggen,"absagen, abkündigen (in der Kirche)",hw
+,afsärpen,abseifen,hw
 de,Afsatz,Absatz,hw
 ,afscheiten,abschießen,hw
 ,afschiehen,abtrennen,hw
@@ -114,22 +115,21 @@ de,Afsatz,Absatz,hw
 ,afsteerben,absterben,hw
 ,afsteken,"abstechen (Heu, Stroh … abladen)",hw
 ,afstoahn,"abgestanden, verzichten auf",hw
+,afstörten,"abstoßen, abstürzen",hw
+,afsträngen,Zugstränge lösen (bei Zugtieren),hw
 ,afstriehen,"abstreiten, leugnen",hw
 ,afstrirpen,abstreifen,hw
 ,afstruppen,abstreifen (Tabak entrippen),hw
-,afsträngen,Zugstränge lösen (bei Zugtieren),hw
-,afstörten,"abstoßen, abstürzen",hw
 ,afstüsseln,abstützen (behelfsmäßig),hw
-,afsäggen,"absagen, abkündigen (in der Kirche)",hw
-,afsärpen,abseifen,hw
 ,afteiken,abzeichnen,hw
 dat,Afteiken,Abzeichen,hw
 ,aftellen,abzählen,hw
 ,aftoiben,abwarten,hw
 ,aftrehen,abschreiten,hw
+,af un an,"ab und zu, manchmal, hin und wieder",hw
+,af un teo,"ab und zu, manchmal",hw
 ,afwasken,abwaschen,hw
 ,afwisken,abwischen,hw
-,afännern,abändern,hw
 de,Aggedoage,Woche (ganze Woche),hw
 ,ahne,"drin, an",hw
 ,akkedaaien,"verhandeln, immer wieder über etwas reden",hw
@@ -143,7 +143,6 @@ de,Amerikoaner,Amerikaner,hw
 dat,Amt,"Behörde, Rathaus",hw
 uppen,Amte,im Rathaus,hw
 ,an,an,hw
-,an dem sien,wahr sein,hw
 ,anbaaien,anbieten,hw
 de,Anbeo,Anbau,hw
 ,anbeoen,anbauen,hw
@@ -151,19 +150,20 @@ de,Anbeo,Anbau,hw
 ,anbieten,anbeißen,hw
 ,anblierken,anbellen,hw
 ,anbloasen,anblasen (Signal zum Beginn der Treibjagd),hw
+,anböagen,anbiegen,hw
 ,anboiten,anheizen,hw
 ,anbrennen,anbrennen,hw
 dat,Anbrennzel,Angebranntes,hw
 ,anbucken,"anlehnen, ankuscheln",hw
-,anböagen,anbiegen,hw
 ,anbühen,anheben,hw
 ,andeinen,anbieten,hw
+,an dem sien,wahr sein,hw
 ,andeon,anreichen (Heu oder Getreide),hw
 ,andeon (sick wat andeon),"verletzen, Selbstmord",hw
+,andössken,andreschen (das erste Getreide dreschen),hw
 ,andraaihen,"andrehen, aufschwatzen",hw
 ,andrieben,antreiben,hw
 ,andröagen,antrocknen,hw
-,andössken,andreschen (das erste Getreide dreschen),hw
 ,anecken,anecken (undiplomatisches Verhalten),hw
 de,Anfang,Anfang,hw
 ,anfangen,"anfangen, beginnen",hw
@@ -175,23 +175,25 @@ de,Angehöarige,Angehörige,hw
 ,angeiten,angießen,hw
 de,Angest,Angst,hw
 de,Angesthoase,Angsthase,hw
+,ängestig (ängestich),ängstlich,hw
 ,angierm,angeben,hw
 ,angnabbeln,annagen,hw
 ,angoahn,"angehen, anfangen",hw
+,anhänglik,"anhänglich, treu",hw
 ,anhaulen,"anhalten, ermahnen",hw
 ,anheoen,"annageln, erinnern, bitten",hw
-,anhoalen,zunehmen,hw
-,anhutken,ankleiden (unpassend),hw
-,anhänglik,"anhänglich, treu",hw
 de,Anhöachte,Anhöhe,hw
+,anhoalen,zunehmen,hw
 ,anhöarn,anhören,hw
+,anhutken,ankleiden (unpassend),hw
 ,ankeoen,anknabbern,hw
 ,ankieken,ansehen,hw
 ,ankloppen,anklopfen,hw
 ,ankriegen,"anziehen, etwas in Gang setzen",hw
+,anküen,"ansprechen, aufschwatzen",hw
 ,ankurm,ankommen,hw
 ,ankurm Wierken,Woche (kommende Woche),hw
-,anküen,"ansprechen, aufschwatzen",hw
+,anläen,anlernen,hw
 ,anlaupen,anlaufen,hw
 de,Anlegger,Anleger,hw
 ,anleigen,anlügen,hw
@@ -201,7 +203,6 @@ de,Anlegger,Anleger,hw
 ,anliggen,erinnern (sich erinnern),hw
 ,anlihrnen,anlehnen,hw
 de,Anloage,Anlage,hw
-,anläen,anlernen,hw
 ,anmaaihen,anmähen,hw
 ,anmelken,vormelken (junge Kuh ans Melken gewöhnen),hw
 ,anmeten,Maßnehmen für die Maßanfertigung,hw
@@ -212,6 +213,7 @@ de,Anloage,Anlage,hw
 ,annen,"an den, an dem",hw
 ,annen Enne,"am Ende (schließlich, vielleicht)",hw
 ,annere,andere,hw
+,ännern,ändern,hw
 ,anners,anders,hw
 ,annersrümme,umgekehrt,hw
 ,annertiet,"sonst, früher",hw
@@ -222,8 +224,8 @@ de,Anloage,Anlage,hw
 ,anpacken,anfassen,hw
 ,anpierken,ankleben,hw
 ,anplanten,anpflanzen,hw
-,anpriesen,anpreisen,hw
 ,anpöahlen,anpflocken,hw
+,anpriesen,anpreisen,hw
 ,anranzen,anschnauzen,hw
 ,anrecken,anreichen,hw
 ,anreken,anrechnen,hw
@@ -231,8 +233,9 @@ de,Anloage,Anlage,hw
 ,anreopen,anrufen,hw
 ,anrieten,"anreißen, markieren",hw
 ,anroaen,empfehlen,hw
-,anroihen,anrühren,hw
 ,anröahrgen,"berühren, anrühren",hw
+,anroihen,anrühren,hw
+,ansäggen,ansagen,hw
 ,anscheiten,anschießen,hw
 ,anschiehen,Geschirr anlegen,hw
 de,Anschien,Anschein,hw
@@ -251,11 +254,10 @@ dat,Anseihn,"Ansehen, Achtung",hw
 ,ansticken,"anstecken, anzünden",hw
 ,anstiehe,anstatt,hw
 ,anstoahn,anstehen,hw
+,anstörten,anstoßen,hw
+,ansträngen,Zugstränge befestigen (bei Zugtieren),hw
 ,anstrengen,anstrengen,hw
 ,anstrieken,anstreichen,hw
-,ansträngen,Zugstränge befestigen (bei Zugtieren),hw
-,anstörten,anstoßen,hw
-,ansäggen,ansagen,hw
 ,ant (an dat),"an das, ans",hw
 ,anteihn,anziehen,hw
 ,anteiken,"anzeichnen, markieren",hw
@@ -277,6 +279,9 @@ de,Appelsaft,Apfelsaft,hw
 de,Appelstütk,Apfelrest mit Kerngehäuse und Stiel,hw
 de,April,April,hw
 de,Apteiken,Apotheke,hw
+de,Ärhn,"Erde, Boden",hw
+de,Ärmitten,Ameisen,hw
+de,Ärmittenschärper,Sonderling,hw
 de,Asken,Asche,hw
 de,Askenkassen,Aschekasten,hw
 de,Assen,Achse,hw
@@ -284,8 +289,8 @@ dat,Auge,Auge,hw
 de,August,August,hw
 ,auk,auch,hw
 ,aule,alte,hw
-dat,aule Reff,Frau (frech),hw
 de,Aulen,Eltern,hw
+dat,aule Reff,Frau (frech),hw
 de,Aulske,"Greisin, alte Frau (abfällig)",hw
 ,ault,alt,hw
 de,Aultjoahrsoabend,Silvester,hw
@@ -293,6 +298,7 @@ dat,Austerfüer,Osterfeuer,hw
 de,Austerhaaide,"Osterheide (Teil von Frotheim, der im Nordwesten an Hille grenzt)",hw
 ,Austern,Ostern,hw
 dat,Auto,Auto,hw
+de,Äxen,Axt,hw
 ,baaien,bieten,hw
 de,Baal,Ball,hw
 de,Baalg (Baalch),"Balg, Bauch",hw
@@ -308,27 +314,36 @@ de,Backelken,Primel,hw
 de,Backen,Wangen,hw
 de,Backenboart,Wangenbart,hw
 de,Backentoahn,Backenzahn,hw
+de,Bäcker,Bäcker,hw
+de,Bäckeraaie,Bäckerei,hw
 de,Backetrog (Backetroch),Backtrog,hw
 de,Backohmn,Backofen,hw
 dat,Backs,Backhaus,hw
 de,Backstein,Ziegelstein,hw
 de,Backvull,Armvoll,hw
 dat,Bad,Heilbad,hw
+,bähen,"saufen, Sau ist rauschig",hw
+de,Bähentrecker,Bärenführer,hw
 dat,Ballerkoorn,Hafer-Bohnengemisch,hw
 de,Ballerkopp,Polterer,hw
 de,Bammel,Angst,hw
 ,Bammel hämmen,Angst haben,hw
 ,bange,ängstlich,hw
 de,Bange,Angst,hw
+de,Bangeböxen,Angsthase,hw
 ,bange moaken,einschüchtern,hw
 ,bange sien,ängstlich sein,hw
-de,Bangeböxen,Angsthase,hw
 de,Bank; de Bänke,Bank,hw
 ,bannig (bannich),"sehr (viel, scharf, lange …)",hw
+,bännigen,bändigen,hw
 de,Bansen,Packraum für Getreidegarben,hw
+de,Bär,Eber,hw
+de,Bär,Bär,hw
+,bärde,beide,hw
+,bärsk,rauschiges Schwein,hw
 dat,Bass,"Baumrinde, Haut, Bast",hw
-,Bass ( in Bass kurm),Streit (in Streit geraten),hw
 ,bassen,bersten,hw
+,Bass ( in Bass kurm),Streit (in Streit geraten),hw
 de,Batzen,"Menge (viel, groß)",hw
 de,Bauhnen,Bohnen,hw
 ,baule,bald,hw
@@ -351,8 +366,8 @@ de,Bedrugg (Bedruch),Betrug,hw
 de,Bedrulje,Bedrängnis,hw
 ,bedrüüst,"betäubt, schwindelig",hw
 ,bedüüen,bedeuten,hw
-de,Beerg (Beerch); de Beerge,Berg,hw
 ,beerg-af (beerch-af),bergab,hw
+de,Beerg (Beerch); de Beerge,Berg,hw
 ,beerg-doal (beerch-doal),bergab,hw
 ,beerg-rünner (beerch-rünner),bergab,hw
 ,beerg-up (beerch-up),bergauf,hw
@@ -364,11 +379,11 @@ dat,Beffken,Beffchen (weißes Beffchen am Talar des Pastors),hw
 ,begierm,begeben,hw
 de,Begiermhert,"Begebenheit, Anwesen",hw
 ,begoabt,begabt,hw
+de,Begräfte,Grabstätte,hw
 ,begrautmiulen,begutachten,hw
 ,begriepen,begreifen,hw
 de,Begriff,Vorstellung von etwas,hw
 ,begroaben,begraben,hw
-de,Begräfte,Grabstätte,hw
 ,begrünnen,begründen,hw
 ,behaulen,behalten,hw
 ,behen,"beten, bitten",hw
@@ -384,11 +399,11 @@ de,Beistmelk,Kolostralmilch (Erstmilch nach der Geburt),hw
 ,bekieken,ansehen,hw
 ,bekinnen,bekennen,hw
 ,bekoakeln,bereden,hw
-,bekriegen,"beherrschen, beruhigen, sich umtun",hw
-,bekurm,"bekommen, vertragen (in gesundheitlicher Hinsicht)",hw
 ,beköstigen,verpflegen,hw
+,bekriegen,"beherrschen, beruhigen, sich umtun",hw
 ,beküen,besprechen,hw
 ,beküesk,"gesprächig, redselig",hw
+,bekurm,"bekommen, vertragen (in gesundheitlicher Hinsicht)",hw
 ,belaupen,"belaufen, erledigen",hw
 ,beleggen,belegen,hw
 ,beleigen,belügen,hw
@@ -407,8 +422,8 @@ de,Beleraaie,Bettelei,hw
 de,Beo,Bau,hw
 dat,Beoed,"Bord, Regal",hw
 ,beoen,bauen,hw
-dat,Beok; de Boiker,Buch,hw
 de,Beokbiener,Buchbinder,hw
+dat,Beok; de Boiker,Buch,hw
 de,Beokeckern,Bucheckern,hw
 de,Beokfink,Buchfink,hw
 de,Beokstoabe,Buchstabe,hw
@@ -429,6 +444,7 @@ de,"Berrestiehe, Bettstiehe",Bettgestell,hw
 dat,Berrestrauh,Bettstroh (anstatt Matratze),hw
 de,Bertel,Stecheisen,hw
 ,beschieten,betrügen,hw
+,besöamen,besäumen,hw
 ,besoiken,besuchen,hw
 ,besonners,besonders,hw
 ,bespriehen,bespreizen,hw
@@ -436,12 +452,11 @@ de,Bessen,Besen,hw
 de,Bessenbiener,Besenbinder,hw
 de,Bessenrieser,Besenreisig,hw
 de,Bessenstierl,Besenstiel,hw
+,bestännig (bestännich),beständig,hw
+de,Bestännigkert (Bestännichkert),Beständigkeit,hw
 ,bestellen,bestellen,hw
 ,bestimmt,bestimmt,hw
 ,bestriehen,bestreiten,hw
-,bestännig (bestännich),beständig,hw
-de,Bestännigkert (Bestännichkert),Beständigkeit,hw
-,besöamen,besäumen,hw
 ,bet,bis,hw
 de,Betand,Wichtigkeit,hw
 ,beteihn,beziehen,hw
@@ -452,8 +467,8 @@ de,Beterung,Besserung,hw
 ,betiehen,beizeiten,hw
 ,betoahlen,bezahlen,hw
 de,Betogg (Betoch),Bezug,hw
-,betuppen,betrügen,hw
 ,betügen,bezeugen,hw
+,betuppen,betrügen,hw
 ,bewassen,bewachsen,hw
 ,beweerkstelligen,hinbekommen,hw
 ,bewegen,bewegen,hw
@@ -525,8 +540,9 @@ dat,Blackglass,Tintenfass,hw
 ,blackstärt,nackt,hw
 ,blaffen,kläffen,hw
 ,blahen,"weinen, untröstlich heulen",hw
-dat,Blatt (innen Bloae),Tageszeitung (in der Tageszeitung),hw
+,blänken,"glitzern, blinken, schimmern",hw
 dat,Blatt; de Bleare,Blatt am Baum,hw
+dat,Blatt (innen Bloae),Tageszeitung (in der Tageszeitung),hw
 de,Blattlius; de Blattlüse,Blattlaus,hw
 ,blau,blau,hw
 ,blaus,nur,hw
@@ -564,12 +580,11 @@ de,Bloasebaalg (Bloasebaalch),Blasebalg,hw
 ,bloasen,blasen,hw
 de,Bloasen,Blase,hw
 dat,Bloashörn,Blashorn,hw
+,blöde,blöd,hw
 ,bloien,bluten,hw
 ,bloimerig,trüb (trübe Flüssigkeit),hw
 de,Blombe,Plombe (Zahnfüllung),hw
 ,bluchterig (bluchterich),ungestüm,hw
-,blänken,"glitzern, blinken, schimmern",hw
-,blöde,blöd,hw
 de,Boahn,Bahn,hw
 de,Boan,Beil,hw
 ,boan,baden,hw
@@ -578,13 +593,22 @@ de,Boarselkopp,"Mensch, ungeschickt",hw
 ,boarsk,barfuß,hw
 de,Boart,Bart,hw
 de,Boartlicker,"Schleimer, Speichellecker",hw
+,böase,böse,hw
+de,Böasewicht,Bösewicht,hw
 ,bockbeinig,widerspenstig,hw
 de,Boiken,Buche,hw
 ,boistern,wegjagen,hw
 ,boiten,heizen,hw
 de,Bokemührlen,Bokemühle (Hammerwerk zur Flachsbearbeitung),hw
+,bölken,schreien,hw
+de,Bölkeraaie,Geschrei,hw
+dat,Bölkewoater,Mineralwasser mit Kohlensäure,hw
+de,Bölkhaals,Schreihals,hw
+de,Bönsel,Junge (klein),hw
 ,boom,oben,hw
 ,bossen,"geborsten, aufgeplatzt",hw
+,bössen,bürsten,hw
+de,Bössen,Bürste,hw
 de,Bost; de Böste,"Brust, Euter",hw
 de,Bostkassen,Brustkasten,hw
 dat,Botter,Butterbrot,hw
@@ -596,8 +620,13 @@ dat,Bottermelksanballerßel,Buttermilchgericht mit Kartoffeln (Suppe/Eintopf),hw
 de,Bottermullen,Holzschale zum Kneten der Butter,hw
 de,Bottern,Butter,hw
 ,bottern,buttern,hw
+de,Böxen,Hose,hw
+de,Böxenschieter,"Hosenscheißer, ängstlicher Mensch",hw
+de,Böxenwulf,Junge (klein),hw
 de,Braaien,Ackerstück (sehr breit),hw
 de,Bracken,Kinder,hw
+,bräet,breit,hw
+,bräetbeinig,breitbeinig,hw
 de,Bramm,Ginster,hw
 ,brammen,husten (trocken),hw
 de,Brand,"Feuersbrunst, Vorrat an Heizmaterial, Durst (großer)",hw
@@ -605,6 +634,7 @@ de,Brandbreif,Bittbrief (sehr dringend),hw
 de,Brannewien,Branntwein,hw
 de,Brassel,"Aufgabenvielfalt, Wust",hw
 de,Brast,"Zorn, Erregung",hw
+,brästig (brästich),"breit, kräftig",hw
 dat,Braut; de Bröe,Brot,hw
 de,Brautkoorf,Brotkorb,hw
 de,Brautkossen,Brotkruste,hw
@@ -660,15 +690,18 @@ de,Broatappel,Bratapfel,hw
 de,Broatohmn,Bratofen,hw
 de,Broatpannen,Bratpfanne,hw
 de,Brocken,"Person (schwergewichtig), Sachen",hw
-de,Brummitten,Brombeeren,hw
-de,Brummkrüsel,Brummkreisel,hw
-,bräet,breit,hw
-,bräetbeinig,breitbeinig,hw
-,brästig (brästich),"breit, kräftig",hw
 de,Brügamm,Bräutigam,hw
 de,Brüggen,Brücke,hw
 ,brühen,"necken, veräppeln",hw
+de,Brummitten,Brombeeren,hw
+de,Brummkrüsel,Brummkreisel,hw
+de,Bübbitten,Blaubeeren,hw
+,bücken,bücken,hw
 de,Budding,Pudding,hw
+de,Büen,Dachboden,hw
+,bühen,heben,hw
+de,Bühl; de Bühls,Beutel,hw
+dat,bühlt Mehl,Mehl (gesiebtes Weizenmehl),hw
 de,Bullenpiersel,Ochsenziemer,hw
 de,Bullerbass,Mensch (grob und ungehobelt),hw
 de,Bullerböxen,Hose (weit),hw
@@ -681,51 +714,24 @@ de,Bult; de Bülte,grasbewachsene Stelle im sumpfigen Gelände (inselhaft),hw
 de,Bulten,Bolzen,hw
 de,Bulthütten,Behausung (baufällig),hw
 de,Bulzen,Kater,hw
+,bündken,wickeln (Windeln),hw
 de,Bunken,Erdklumpen (grobe),hw
+de,Bünsel,Rind oder Bulle (Stufe nach dem Kalb),hw
 ,bunt,"bunt, unerträglich",hw
 ,bunt moaken,"schmücken, kränzen",hw
 de,Burch,Eber (kastriert),hw
 de,Burchpiersel,Geschlechtsteil vom kastrierten Eber,hw
+de,Bürgel,Bügel,hw
+de,Bürgelkoorf,Bügelkorb,hw
 de,Burrei,Porree,hw
 ,burseln,wühlen,hw
 de,Bus,Bus,hw
 de,Busk; de Büske,"Busch, Strauch, Waldstück (klein)",hw
+de,Büssen,"Buchse, Blechdose",hw
 ,butt,schlimm,hw
 dat,Buttenne,Wurst im Dickdarm,hw
 ,butz,sofort,hw
 de,Butz,Friseur,hw
-de,Bäcker,Bäcker,hw
-de,Bäckeraaie,Bäckerei,hw
-,bähen,"saufen, Sau ist rauschig",hw
-de,Bähentrecker,Bärenführer,hw
-,bännigen,bändigen,hw
-de,Bär,Eber,hw
-de,Bär,Bär,hw
-,bärde,beide,hw
-,bärsk,rauschiges Schwein,hw
-,böase,böse,hw
-de,Böasewicht,Bösewicht,hw
-,bölken,schreien,hw
-de,Bölkeraaie,Geschrei,hw
-dat,Bölkewoater,Mineralwasser mit Kohlensäure,hw
-de,Bölkhaals,Schreihals,hw
-de,Bönsel,Junge (klein),hw
-,bössen,bürsten,hw
-de,Bössen,Bürste,hw
-de,Böxen,Hose,hw
-de,Böxenschieter,"Hosenscheißer, ängstlicher Mensch",hw
-de,Böxenwulf,Junge (klein),hw
-de,Bübbitten,Blaubeeren,hw
-,bücken,bücken,hw
-de,Büen,Dachboden,hw
-,bühen,heben,hw
-de,Bühl; de Bühls,Beutel,hw
-dat,bühlt Mehl,Mehl (gesiebtes Weizenmehl),hw
-,bündken,wickeln (Windeln),hw
-de,Bünsel,Rind oder Bulle (Stufe nach dem Kalb),hw
-de,Bürgel,Bügel,hw
-de,Bürgelkoorf,Bügelkorb,hw
-de,Büssen,"Buchse, Blechdose",hw
 dat,Chriskiend,Christkind,hw
 dat,Chriskindken,"Christkindchen, Weihnachtsgeschenk",hw
 de,Christ,Christ,hw
@@ -741,6 +747,9 @@ dat,Dackstrauh,Langstroh für Strohdächer,hw
 de,Dagg (Dach); de Doage,Tag,hw
 de,Damp,Dampf,hw
 ,dampen,dampfen,hw
+,dämpen,dämpfen,hw
+de,Dämper,Kartoffeldämpfer,hw
+,dämpig (dämpich),asthmatisch (in der Regel bei Pferden),hw
 ,danken,danken,hw
 ,danne,"fit, entwickelt",hw
 de,Dannen,"Tanne, Fichte",hw
@@ -846,14 +855,25 @@ de,Dohenwoake,Totenwache,hw
 de,Doikershund,"Mensch (arglistig, durchtrieben)",hw
 de,Dokter,Arzt,hw
 ,doktern,verarzten,hw
+de,Döllmer,"Mensch (verspielt, tollpatschig, albern)",hw
+,döllmern,"blödeln, schimpfen (lauthals)",hw
+de,Dönekens,"Anekdote, spaßige Geschichte",hw
 ,donne biehe,nahe bei,hw
 ,donnehaulen,festhalten,hw
+de,Dönner,Donner,hw
+de,Dönnerbaalken,"einfache Toilette, offene Grube mit Sitzbalken",hw
+de,Dönnerdagg (Dönnerdach),Donnerstag,hw
+de,Dönnergürte,Starkregen bei Gewitter,hw
+,dönnern,donnern,hw
+de,Dönnerschlagg (Dönnerschlach),"Donnerschlag, Mensch voller Streiche",hw
 de,Dooen,Dornen,hw
 ,doof,"doof, gefühllos",hw
 dat,Door,Tor,hw
 dat,Doorp; de Döörper,Dorf,hw
+de,Döörper,Bewohner im Ortskern,hw
 de,Dopp; de Döppe,Fingerkuppe,hw
 de,Doppelender,schweres Kalb,hw
+,döppen,untertauchen (jemanden aus Spaß untertauchen),hw
 ,dor,"dort, da",hw
 ,dorachter,dahinter,hw
 ,doran,daran,hw
@@ -861,16 +881,26 @@ de,Doppelender,schweres Kalb,hw
 ,dorfür,dafür,hw
 ,dorhenn,dahin,hw
 ,dorin,darin,hw
+,dörlk,überdreht,hw
 ,dormiehe,damit,hw
 ,dornoa,danach,hw
+de,Dörpe,Taufe,hw
+,dörpen,taufen,hw
+de,Dörpstein,Taufstein,hw
 ,dorrober,darüber,hw
-,dorrup,darauf,hw
 ,dorrümme,darum,hw
 ,dorrünner,darunter,hw
+,dorrup,darauf,hw
 ,dorteo,dazu,hw
 ,dortiergen,daneben,hw
 ,dorvan,davon,hw
 ,dorvür,davor,hw
+,dösig,begriffstutzig,hw
+de,Döskopp,"Dummkopf, Trottel",hw
+de,Dösskekerl,Maschinist und Aufseher beim Dreschen mit der Dreschmaschine,hw
+,dössken,dreschen,hw
+de,Dössker,Dreschmaschine,hw
+de,Döst,Durst,hw
 ,draaihen,drehen,hw
 de,Draaiher,"Drehmechanismus, Handkurbel",hw
 dat,Drachloaken,"Tuch (zum Tragen von Heu, Gras und Runkelblätter)",hw
@@ -893,22 +923,22 @@ dat,Driefhius,Treibhaus,hw
 de,Driefjagd,Treibjagd,hw
 ,drieste,dreist,hw
 ,drinken,trinken,hw
-de,Droaht; de Dröahe,Draht,hw
+,dröage,trocken,hw
+de,Dröagebäcker,Mensch (humorlos),hw
+,dröagen,trocknen,hw
+,dröage Schwetzken,Backpflaumen,hw
+,dröahen,drahten (Schweineschnauze mit Krampen versehen),hw
 de,Droahtbössen,Drahtbürste,hw
+de,Droaht; de Dröahe,Draht,hw
 de,Droahtirsel,Fahrrad,hw
 de,Droahtwurm,Drahtwurm,hw
 de,Droaken,Erpel (männliche Ente),hw
 ,droff,darf,hw
-de,Druffel,"Ansammlung auf engem Raum (Menschen, Tiere)",hw
-,drupp,drauf,hw
-,dröage,trocken,hw
-,dröage Schwetzken,Backpflaumen,hw
-de,Dröagebäcker,Mensch (humorlos),hw
-,dröagen,trocknen,hw
-,dröahen,drahten (Schweineschnauze mit Krampen versehen),hw
 ,drömmen,träumen,hw
 ,drücken,drücken,hw
 ,drüesken,dösen,hw
+de,Druffel,"Ansammlung auf engem Raum (Menschen, Tiere)",hw
+,drupp,drauf,hw
 ,drüppen,tropfen,hw
 de,Drüppen,Tropfen,hw
 de,Drüppenfaal,Tropfenfall (bei fehlender Dachrinne),hw
@@ -918,62 +948,33 @@ de,Drürmelpott,Bummelant,hw
 ,drürseln,dösen,hw
 dat,Drüttel,Drittel,hw
 ,dubbelt,doppelt,hw
-,dull,"doll, heftig, toll",hw
-dat,Dullhius,Irrenhaus,hw
-,dumm,dumm,hw
-,dummdrieste,dummdreist,hw
-,dummet Tügg (dummet Tüch),dummes Zeug,hw
-de,Dummhert,Dummheit,hw
-de,Dummkopp,Dummkopf,hw
-,dumpen,ersticken,hw
-,dumpig (dumpich),stickig,hw
-de,Dussel,Dummkopf,hw
-,Dussel hat,Glück gehabt,hw
-de,Dutk,Bett (eingebaut),hw
-de,Dutt,Haarknoten,hw
-dat,Dutzend,Dutzend (12 Stück),hw
-,dämpen,dämpfen,hw
-de,Dämper,Kartoffeldämpfer,hw
-,dämpig (dämpich),asthmatisch (in der Regel bei Pferden),hw
-de,Döllmer,"Mensch (verspielt, tollpatschig, albern)",hw
-,döllmern,"blödeln, schimpfen (lauthals)",hw
-de,Dönekens,"Anekdote, spaßige Geschichte",hw
-de,Dönner,Donner,hw
-de,Dönnerbaalken,"einfache Toilette, offene Grube mit Sitzbalken",hw
-de,Dönnerdagg (Dönnerdach),Donnerstag,hw
-de,Dönnergürte,Starkregen bei Gewitter,hw
-,dönnern,donnern,hw
-de,Dönnerschlagg (Dönnerschlach),"Donnerschlag, Mensch voller Streiche",hw
-,döppen,untertauchen (jemanden aus Spaß untertauchen),hw
-,dörlk,überdreht,hw
-de,Dörpe,Taufe,hw
-,dörpen,taufen,hw
-de,Dörpstein,Taufstein,hw
-,dösig,begriffstutzig,hw
-de,Döskopp,"Dummkopf, Trottel",hw
-de,Dösskekerl,Maschinist und Aufseher beim Dreschen mit der Dreschmaschine,hw
-,dössken,dreschen,hw
-de,Dössker,Dreschmaschine,hw
-de,Döst,Durst,hw
-de,Döörper,Bewohner im Ortskern,hw
 de,Dübel,Teufel,hw
 de,Dübelskroam,Teufelswerk,hw
 ,düchtig (düchtich),tüchtig,hw
 ,düen,deuten,hw
 ,düenanner,verwirrt,hw
 dat,Düenanner,Eintopf,hw
+,dull,"doll, heftig, toll",hw
+dat,Dullhius,Irrenhaus,hw
 de,Dümling,Däumling (Verbandsschutz für Finger),hw
+,dumm,dumm,hw
+,dummdrieste,dummdreist,hw
 de,Dümmerwiend,Wind aus der Richtung vom Dümmer See (Nordwestwind),hw
+,dummet Tügg (dummet Tüch),dummes Zeug,hw
+de,Dummhert,Dummheit,hw
+de,Dummkopp,Dummkopf,hw
+,dumpen,ersticken,hw
+,dumpig (dumpich),stickig,hw
 ,dünig (dünich),"dickköpfig, uneinsichtig",hw
 de,Dünkel,Stolz,hw
 ,dünne,dünn (spärlich),hw
 ,dür,"dadurch, durch, teuer",hw
-de,Dür; de Dürs,Tür,hw
 ,dürbieten,durchbeißen,hw
 de,Dürbogen,Türbogen,hw
 ,dürbreken,durchbrechen,hw
 ,dürbrennen,durchbrennen,hw
 ,dürbringen,"durchbringen, vergeuden, hindurchretten",hw
+de,Dür; de Dürs,Tür,hw
 ,dürdeilen,durchteilen,hw
 ,dürdenken,durchdenken,hw
 ,dürdraaihen,durchdrehen (Nervenzusammenbruch),hw
@@ -990,10 +991,10 @@ de,Dürgang,Durchgang,hw
 ,dürgriepen,durchgreifen,hw
 de,Dürgriff,Türgriff,hw
 ,Dürgung (geoen),Verdauung (gute),hw
+dat,Dürhäng,Türscharnier,hw
 ,dürhaulen,durchhalten,hw
 ,dürheer,durcheinander (verwirrt),hw
 ,dürhelpen,durchhelfen,hw
-dat,Dürhäng,Türscharnier,hw
 ,dürkieken,durchblicken (verstehen),hw
 de,Dürklinken,Türklinke,hw
 ,dürkriupen,durchkriechen,hw
@@ -1027,11 +1028,16 @@ de,Dürstänner,Türständer für 2-flg. Tür,hw
 de,dürwossen Speck,durchwachsener Speck,hw
 ,düsse,"diese, dieser",hw
 ,düsse Doage,dieser Tage (kürzlich),hw
+de,Dussel,Dummkopf,hw
+,Dussel hat,Glück gehabt,hw
 ,düsset,dieses,hw
 ,düster,dunkel,hw
+de,Dutk,Bett (eingebaut),hw
 ,dütsk,deutsch,hw
 ,Dütskland,Deutschland,hw
+de,Dutt,Haarknoten,hw
 ,dütt,"dies, dieses",hw
+dat,Dutzend,Dutzend (12 Stück),hw
 ,ebens,möglichst,hw
 ,echte,"echt, ehrlich",hw
 ,eck,ich,hw
@@ -1058,7 +1064,6 @@ de,Ehrfenbroaken,Äste (an denen die Erbsen hochranken können),hw
 ,eiget,verdient,hw
 de,Eiken,Eiche,hw
 de,Eikkatten,Eichhörnchen,hw
-,ein up anner,"aufeinander, immer wieder",hw
 ,einen,"einen, einem",hw
 ,einer,"einer, jemand",hw
 ,einfach,einfach,hw
@@ -1066,6 +1071,7 @@ de,Eikkatten,Eichhörnchen,hw
 ,einigermoaten,einigermaßen,hw
 ,einsoam,einsam,hw
 de,Einspänner,Einspänner,hw
+,ein up anner,"aufeinander, immer wieder",hw
 ,eis,einmal,hw
 ,elben,elf,hw
 de,Elefant,Elefant,hw
@@ -1113,10 +1119,15 @@ dat,Fachweerkhius,Fachwerkhaus,hw
 dat,Fack,Fach,hw
 ,fackeln,"zögern, zündeln",hw
 de,Fall,Fall,hw
+dat,Färld; de Färler,Feld,hw
+dat,Färldheohn,Rebhuhn,hw
+de,Färldkiertel,Essenstopf fürs Feld,hw
+de,Färldmius,Feldmaus,hw
+de,Färldwegg (Färldwech),Feldweg,hw
 dat,Fass,Dachfirst,hw
 de,Fasspannen,Firstpfanne(n),hw
-dat,Fatt; de Feete,Fass,hw
 de,Fattbiener,Fassbinder,hw
+dat,Fatt; de Feete,Fass,hw
 dat,Fattwiep,Scheuergebinde (Topfkratzer aus Heidereisig),hw
 de,Fauln,Falte,hw
 de,Febewoar,Februar,hw
@@ -1136,10 +1147,10 @@ dat,Fenster,Fenster,hw
 dat,Feoer,Futter,hw
 de,Feoermann,Fuhrmann,hw
 ,feoern,füttern,hw
-de,Feot (teo Feote); de Foite,Fuß (zu Fuß),hw
 de,Feotbank,Fußbank,hw
 dat,Feotenne,Fußende vom Bett,hw
 de,Feotlappen,Leinenlappen als Strumpfersatz,hw
+de,Feot (teo Feote); de Foite,Fuß (zu Fuß),hw
 de,Ferre,Onkel,hw
 dat,Fest,Fest,hw
 ,feste,"heftig, tüchtig",hw
@@ -1209,25 +1220,26 @@ de,Flitzebogen,Pfeil und Bogen,hw
 dat,Flitzepeh,Fahrrad,hw
 de,Flius,Schleife,hw
 de,Fliusen,"Flusen, Spinnerei",hw
-,flotten Heinrich,Durchfall,hw
-de,Flucht,Holzbügel mit kleinen Metallhaken über der Spinnradspule,hw
-de,Flucht,"Flucht, Richtung (gerade Linie)",hw
-,fludderig (fludderich),flatterhaft,hw
-de,Flunk,"Arm, Flügel",hw
-de,Flutkebrei,Kürbisgericht mit Milchreis,hw
-,flutsken,flutschen,hw
 ,flöcken,fluchen,hw
 ,flötken,pfeifen,hw
 de,Flötkepiepen,Trillerpfeife,hw
+,flotten Heinrich,Durchfall,hw
+de,Flucht,Holzbügel mit kleinen Metallhaken über der Spinnradspule,hw
+de,Flucht,"Flucht, Richtung (gerade Linie)",hw
 ,flüchten,flüchten,hw
+,fludderig (fludderich),flatterhaft,hw
+de,Flunk,"Arm, Flügel",hw
 de,Flürgel,Flügel,hw
 de,Flürter,Fließgewässer,hw
+de,Flutkebrei,Kürbisgericht mit Milchreis,hw
+,flutsken,flutschen,hw
 ,foahl,"fahl, blass",hw
 de,Foahnen,Fahne,hw
 de,Foahrkoarten,Fahrkarte,hw
 de,Foahrt,Fahrt,hw
 ,foaken,oft,hw
 de,Foarbe,Farbe,hw
+,föarig (föarich),fertig,hw
 de,Foarnken,"Farn, Farnkraut",hw
 dat,Foaselschwien,Jungschwein (nichttragend),hw
 de,Fohmt; de Föhme,Faden,hw
@@ -1235,6 +1247,7 @@ de,Fohmt; de Föhme,Faden,hw
 dat,Foiher,Fuder (Wagenladung),hw
 ,foilen,fühlen,hw
 de,Foorken,Forke,hw
+,förrern,fordern,hw
 de,Foss; de Fösse,Fuchs,hw
 dat,Fotzendaaiet,Frauenzimmer (verächtlich),hw
 ,fraaien,heiraten,hw
@@ -1266,13 +1279,13 @@ de,Frisierkemeode,Frisierkommode mit Klappspiegel,hw
 de,Froage,Frage,hw
 ,froagen,fragen,hw
 de,Froagoars,fragender Mensch (vielfragend),hw
+,fröalik,fröhlich,hw
 de,Frochen,"Achtung, Respekt",hw
 de,Froide,Freude,hw
 ,froien,freuen,hw
+,frösterig (frösterich),fröstelnd,hw
 de,Frostkürtel,frierender Mensch,hw
 dat,Frostweer,Frostwetter,hw
-,fröalik,fröhlich,hw
-,frösterig (frösterich),fröstelnd,hw
 de,Früame,Fremde,hw
 ,früamt,fremd,hw
 ,früamtgoahn,fremdgehen,hw
@@ -1282,35 +1295,28 @@ de,Fründ; de Frünne,Freund,hw
 de,Fründskopp,"Verwandtschaft, Freundschaft",hw
 de,Frünne,Verwandte,hw
 ,fucheln,fuchteln,hw
-de,Fuhr,Furche,hw
-,fulgen,folgen,hw
-dat,Fummelbrett,Scheuerbrettchen für Maurer,hw
-dat,Funnament,Fundament,hw
-,furtern,fummeln,hw
-,fusken,pfuschen,hw
-,futken,"arbeiten (unordentlich, oberflächlich)",hw
-dat,Färld; de Färler,Feld,hw
-dat,Färldheohn,Rebhuhn,hw
-de,Färldkiertel,Essenstopf fürs Feld,hw
-de,Färldmius,Feldmaus,hw
-de,Färldwegg (Färldwech),Feldweg,hw
-,föarig (föarich),fertig,hw
-,förrern,fordern,hw
 dat,Füer,Feuer,hw
 de,Füerhoaken,Feuerhaken,hw
 dat,Füerhoinken,Grille,hw
 dat,Füerlock,Brennraum des Ofens,hw
+de,Füerömmer,Wassereimer (aus Leder für Löschzwecke),hw
 de,Füerstein,Feuerstein,hw
 de,Füerstiehe,Feuerstelle,hw
 de,Füertangen,Feuerzange,hw
 de,Füerwehr,Feuerwehr,hw
 de,Füerwiehen,Befestigungsstück am Schwengel für ein drittes Pferd,hw
-de,Füerömmer,Wassereimer (aus Leder für Löschzwecke),hw
+de,Fuhr,Furche,hw
+,fulgen,folgen,hw
 ,füllen,füllen,hw
 de,Füllen,Schöpflöffel,hw
 de,Fülllierpel,Schöpfkelle,hw
+dat,Fummelbrett,Scheuerbrettchen für Maurer,hw
+dat,Funnament,Fundament,hw
 ,für,für,hw
+,furtern,fummeln,hw
 ,fürwoahr,"fürwahr, wirklich",hw
+,fusken,pfuschen,hw
+,futken,"arbeiten (unordentlich, oberflächlich)",hw
 de,Gaailbülte,Geilstellen (Kot- und Urinstellen auf Grünland durch Weidetiere),hw
 de,Gaalgen,Galgen,hw
 dat,Gaalgenstrick,Spitzbube,hw
@@ -1321,6 +1327,8 @@ de,Gaffeltangen,Ohrenkneifer,hw
 de,Ganter,Gänserich,hw
 ,ganz,ganz,hw
 ,ganz un goar,ganz und gar,hw
+dat,Gärchel,"Gaumen, Zahnfleisch",hw
+de,Gärßel,"Giersch (Unkraut, Wildsalatkräuter)",hw
 de,Gassen,Gerste,hw
 dat,Gatt,Hintern,hw
 de,Gaus; de Göase,Gans,hw
@@ -1350,9 +1358,9 @@ dat,Gedirm,Gedärm,hw
 ,geel,gelb,hw
 ,geerben,gerben,hw
 ,gefaalen,gefallen,hw
+,gefährlik,gefährlich,hw
 de,Gefoahr,Gefahr,hw
 dat,Gefoihl,Gefühl,hw
-,gefährlik,gefährlich,hw
 ,gegen,entgegen,hw
 dat,Gegendeil,Gegenteil,hw
 ,gegenenanner,gegeneinander,hw
@@ -1364,8 +1372,9 @@ de,Geist,Geist,hw
 ,geiten,gießen,hw
 de,Geitkannen,Gießkanne,hw
 dat,Gekoarkel,Gegacker,hw
-dat,Geld (mitten Gelle),Geld (mit dem Geld),hw
+dat,Gelänner,Geländer,hw
 de,Geldbühl,Geldbeutel,hw
+dat,Geld (mitten Gelle),Geld (mit dem Geld),hw
 de,Geldschien,Geldschein,hw
 de,Gelegenhert,Gelegenheit,hw
 ,gelinne,gelinde,hw
@@ -1373,7 +1382,6 @@ de,Gelegenhert,Gelegenheit,hw
 ,gellt nich,gilt nicht,hw
 dat,Geloat,Gefäß (Behälter),hw
 dat,Gelott,Gelass (kleiner Raum),hw
-dat,Gelänner,Geländer,hw
 dat,Gelühe,Geläut,hw
 de,Gemeinhert,Gemeinheit,hw
 dat,Gemoite,Gemüt,hw
@@ -1414,11 +1422,11 @@ dat,Gest,Hefe,hw
 dat,Gestrich,"Gegend, Gebiet",hw
 dat,Gesummse,Summen der Bienen (vor dem Bienenstock),hw
 ,getz,jetzt,hw
+,gewährn loaten,gewähren lassen,hw
 ,gewiernen,gewöhnen,hw
 dat,Gewierten,Gewissen,hw
 ,gewinnen (gewunnen),gewinnen (gewonnen),hw
 ,gewoahr wärn,"erfahren, gewahr werden",hw
-,gewährn loaten,gewähren lassen,hw
 ,gie,"ihr, sie",hw
 ,gierm,geben,hw
 de,Giez,Geiz,hw
@@ -1455,12 +1463,17 @@ de,Gnürterpott,Nörgler,hw
 de,Goabel,Gabel,hw
 de,Goabm,"Garbe, Garben",hw
 de,Goaen,Garten,hw
-,goahn,gehen,hw
 ,goahn,aufgehen des Hefeteiges,hw
+,goahn,gehen,hw
 ,goar,gar,hw
-,goar nich,gar nicht,hw
 dat,Goarn,Garn,hw
+,goar nich,gar nicht,hw
+de,Göarte,Grütze,hw
+de,Göbel,Göpel (Maschinenantrieb mit Muskelkraft),hw
+,göbeln,kotzen,hw
 de,Gooten,Gosse,hw
+de,Göpsen,Maßeinheit (zwei aneinanderliegende Hände voll),hw
+dat,Gössel,Gänseküken,hw
 ,gottlaus,gottlos,hw
 ,gottserbärmlik,erbärmlich (ganz und gar),hw
 dat,Graff; de Greber,Grab,hw
@@ -1468,6 +1481,10 @@ de,Graffstein,Grabstein,hw
 de,Grammen,"Grummet (zweiter Grasschnitt, getrocknet zu Heu)",hw
 de,Grappen,Fratzen,hw
 de,Grappen,komische Einfälle (wirres Zeug),hw
+dat,Gräss,Gras,hw
+de,Grässklöpper,Hagelkörner,hw
+de,Grässnurf,Grasnarbe,hw
+dat,Grässspier,Grashalm,hw
 ,graut,groß,hw
 de,Grautaulen,Großeltern,hw
 ,graute,große,hw
@@ -1506,30 +1523,19 @@ de,Groffschmett,"Grobschmied, Grobian",hw
 ,groin,grün,hw
 de,Groschen,Geldstück (10 Pfennig-Stück),hw
 dat,Gross,Gros (Maßeinheit/12 Dutzend = 144 Stück),hw
-de,Grull,Groll,hw
-de,Grund; de Grünne,Grund,hw
-dat,Grundbeok,Grundbuch,hw
-de,Grundmüen,"Fundament, Grundmauer",hw
-dat,Gruppsel,"Reste (fein, im Torf- oder Holzstall)",hw
-de,Grutt,Abfall (fein),hw
-dat,Gräss,Gras,hw
-de,Grässklöpper,Hagelkörner,hw
-de,Grässnurf,Grasnarbe,hw
-dat,Grässspier,Grashalm,hw
 de,Grötte,Größe,hw
+de,Grull,Groll,hw
+dat,Grundbeok,Grundbuch,hw
+de,Grund; de Grünne,Grund,hw
+de,Grundmüen,"Fundament, Grundmauer",hw
 ,grünnen,gründen,hw
 de,Grüppen,Abzugsgraben (klein),hw
+dat,Gruppsel,"Reste (fein, im Torf- oder Holzstall)",hw
+de,Grutt,Abfall (fein),hw
 dat,Guld,Gold,hw
 de,Guldlack,Goldlack (Blume),hw
 de,Guldschmett,Goldschmied,hw
 de,Guldwächte,Goldwaage,hw
-dat,Gärchel,"Gaumen, Zahnfleisch",hw
-de,Gärßel,"Giersch (Unkraut, Wildsalatkräuter)",hw
-de,Göarte,Grütze,hw
-de,Göbel,Göpel (Maschinenantrieb mit Muskelkraft),hw
-,göbeln,kotzen,hw
-de,Göpsen,Maßeinheit (zwei aneinanderliegende Hände voll),hw
-dat,Gössel,Gänseküken,hw
 ,gümme,immer,hw
 ,gürlen,rieseln,hw
 de,Gürlige Sorte,ertragreiche Sorte,hw
@@ -1548,8 +1554,8 @@ dat,Haalfter,Halfter (Zaum ohne Gebiss),hw
 ,haalfwossen,jugendlich,hw
 de,Haalfwossene,Jugendlicher,hw
 de,Haalm,Halm,hw
-de,Haals; de Hälse,Hals,hw
 de,Haalsafschnieher,Halsabschneider (Wucherer),hw
+de,Haals; de Hälse,Hals,hw
 dat,Haalsdeok,Halstuch,hw
 de,Haalskiehen,Halskette,hw
 dat,Haalslear,Halsleder beim Zuggeschirr,hw
@@ -1564,9 +1570,10 @@ de,Hackenrieter,Schlittschuhe mit Schraubverbindung am Absatz,hw
 de,Hacker,Hacker,hw
 dat,Hackfleisk,Hackfleisch,hw
 dat,Hacksel,Häcksel,hw
-,Hacksel straaien,Häcksel streuen (Brauch vor der Hochzeit),hw
 de,Hackselbock,Strohschneidemaschine,hw
 de,Hackselkommern,Häcksellagerraum,hw
+,Hacksel straaien,Häcksel streuen (Brauch vor der Hochzeit),hw
+,hämmen,haben,hw
 de,Hand; de Hänne,Hand,hw
 dat,Handeok,Handtuch,hw
 de,Handiulen,Handfeger,hw
@@ -1579,6 +1586,7 @@ de,Hannoiwersken,Niedersachsen (Provinz Hannover),hw
 de,Hansken,Handschuh,hw
 de,Hanswost,Hanswurst,hw
 de,Hantekassen,Akkordeon,hw
+de,Häring,Hering,hw
 ,hart,hart,hw
 de,Haspel,Haspel (Garnwinde),hw
 dat,Hauchdütsk,Hochdeutsch,hw
@@ -1604,7 +1612,6 @@ de,Heide,Heide (kein Christ),hw
 ,helle,"hell, laut, schlau",hw
 ,helpen,helfen,hw
 ,henn,hin,hw
-,henn un heer,hin und her,hw
 ,henndrieben,hintreiben,hw
 ,henndür,hindurch,hw
 ,hennfaalen,hinfallen,hw
@@ -1623,6 +1630,7 @@ de,Heide,Heide (kein Christ),hw
 ,hennleggen,hinlegen,hw
 ,hennsetten,hinsetzen,hw
 ,hennteo,hinzu,hw
+,henn un heer,hin und her,hw
 ,hennwiesen,hinweisen,hw
 ,heoen,hauen,hw
 dat,Heohn; de Hoihner,Huhn,hw
@@ -1637,9 +1645,9 @@ de,Heohnerschieten,Hühnerdreck,hw
 de,Heohnerstaal,Hühnerstall,hw
 de,Heohnerwiehm,Hühnerschlafplatz mit Sitzstangen,hw
 de,Heohnerzuppen,Hühnersuppe,hw
-de,Heot; de Hoie,Hut,hw
 ,heoßen,husten,hw
 de,Heoßen,Husten,hw
+de,Heot; de Hoie,Hut,hw
 de,Herrgott,Gott,hw
 dat,Hexenspell,"Unerkärliches, Zauberei",hw
 ,hibbelig (hibbelich),unruhig,hw
@@ -1653,8 +1661,8 @@ dat,Hiermd; de Hierme,Hemd,hw
 de,Hiermdknöape,Hemdknöpfe,hw
 de,Hiermdkroagen,Hemdkragen,hw
 de,Hiermdschlippk,Hemdzipfel,hw
-,hiesig (hiesich),einheimisch,hw
 de,Hiesige,Ortsansässige,hw
+,hiesig (hiesich),einheimisch,hw
 ,hii,linksherum (Befehl für Zugtiere),hw
 de,Himmel,Himmel,hw
 de,Himmelsziergen,Bekassine (Sumpfschnepfe),hw
@@ -1691,6 +1699,7 @@ de,Hiusupgoaben,Hausaufgaben,hw
 de,Hiut,Haut,hw
 de,Hoaber,Hafer,hw
 ,hoabhaft moaken,"habhaft machen, festnehmen",hw
+de,Höachte,Höhe,hw
 de,Hoagel,Hagel,hw
 de,Hoagelkörns,Hagelkörner,hw
 dat,Hoagelschiuer,Hagelschauer,hw
@@ -1703,19 +1712,23 @@ de,Hoaihaupen,Heuhaufen,hw
 de,Hoaken; de Hoakens,Haken,hw
 ,hoalen,holen,hw
 ,hoan,dengeln (einer Sense),hw
-dat,Hoar; de Hoare,Haar,hw
 de,Hoarbessen,Haarbesen,hw
 de,Hoarbössen,Haarbürste,hw
+dat,Hoar; de Hoare,Haar,hw
 de,Hoarfoarbe,Haarfarbe,hw
 ,hoarken,harken,hw
 de,Hoarken,Harke,hw
 de,Hoarkentienen,Harkenzinken,hw
 de,Hoarklemmen,Haarklemme,hw
 ,hoarn,haaren,hw
+,höarn,"hören, gehören",hw
+dat,Höarn; de Höarns,Horn,hw
 dat,Hoarnetz,Haarnetz,hw
+,höarpen,Heuhaufen machen,hw
 ,hoarpern,hapern,hw
 de,Hoarspangen,Haarspange,hw
 dat,Hoarspier,Haar (einzeln),hw
+,höart,gehört,hw
 de,Hoase,"Hase, Schwungpflug (von Hand geführt)",hw
 de,Hoasticken,Amboss zum Dengeln der Sense,hw
 de,Hoawk,Habicht,hw
@@ -1729,22 +1742,28 @@ de,Hoff; de Höbe (uppen Hobe),Hof (auf dem Hof),hw
 ,hoien,hüten,hw
 de,Hoiete,Gatter (kleines),hw
 de,Hoihnerwiehm,Hühnerstall mit Sitzstangen,hw
+,hökern,handeln,hw
+,hölten,"hölzern, ungeschickt",hw
+de,Hölter,Kopf,hw
 ,hopen,hoffen,hw
+de,Hörlkoorf; de Hörlköörbe,Bügelkorb,hw
 ,hott,rechtsherum (Befehl für Zugtiere),hw
 ,hottvetwass,durcheinander,hw
 dat,Huck,"Ecke, Verschlag (klein)",hw
 de,Hueraaie,Hurerei,hw
+,hügen,betteln,hw
+de,Hülpe,Hilfe,hw
 de,Hulster,Halbstarker,hw
 ,hult,halt,hw
 dat,Hult,Holz,hw
-dat,Hult (innen Hulte),Wald (im Wald),hw
-,hult moal,warte mal,hw
 de,Hultbock; de Hultböcke,"Holzbock, Zecke",hw
 dat,Hultdeil,Waldstück,hw
 de,Hultdiuben,Ringeltaube,hw
 de,Hulthaupen,Holzhaufen,hw
+dat,Hult (innen Hulte),Wald (im Wald),hw
 de,Hultkopp,Holzkopf,hw
 de,Hultlierpel,Holzlöffel,hw
+,hult moal,warte mal,hw
 de,Hultnoagel; de Hultnegel,Holznagel,hw
 de,Hultwurm,Holzwurm,hw
 de,Hulzken,Holzschuhe,hw
@@ -1754,25 +1773,12 @@ de,Hulzkenstierbel,Holzschuhstiefel,hw
 de,Hunger,Hunger,hw
 de,Hungerhoaken,Mensch (hager),hw
 de,Hungerhoarken,Stroh- oder Heuharke (große),hw
-de,Hurken,Hocke,hw
-,hämmen,haben,hw
-de,Häring,Hering,hw
-de,Höachte,Höhe,hw
-,höarn,"hören, gehören",hw
-dat,Höarn; de Höarns,Horn,hw
-,höarpen,Heuhaufen machen,hw
-,höart,gehört,hw
-,hökern,handeln,hw
-,hölten,"hölzern, ungeschickt",hw
-de,Hölter,Kopf,hw
-de,Hörlkoorf; de Hörlköörbe,Bügelkorb,hw
-,hügen,betteln,hw
-de,Hülpe,Hilfe,hw
 ,hüngerig (hüngerich),hungrig,hw
 ,hüpig (hüpich),übermäßig,hw
 ,hüppken,hüpfen,hw
 de,Hürbel,"Hügel, Hobel",hw
 de,Hürbelbank,Hobelbank,hw
+de,Hurken,Hocke,hw
 ,hüü,los (Befehl für Zugtiere),hw
 ,hüünsken,schluchzen,hw
 ,hüünskerig (hüünskerich),weinerlich,hw
@@ -1780,8 +1786,8 @@ dat,Hüüsken,Häuschen,hw
 de,Iber,Übereifer,hw
 ,iberig (iberich),übereifrig,hw
 dat,Iis,Eis,hw
-de,Iisbleomen,Eisblumen,hw
 de,Iisbär,Eisbär,hw
+de,Iisbleomen,Eisblumen,hw
 dat,Iisen,Eisen,hw
 de,Iisenboahn,Eisenbahn,hw
 ,iisig (iisich),eisig,hw
@@ -1811,34 +1817,34 @@ dat,Immevulk,Bienenvolk,hw
 ,indrürsken,eindösen,hw
 ,indusseln,einduseln,hw
 ,infaalen,einfallen,hw
+,inföhmen,einfädeln,hw
 ,infoihen,Ernte einfahren,hw
 ,infreisen,einfrieren,hw
 ,infriedigen,einzäunen,hw
-,inföhmen,einfädeln,hw
 ,ingeiten,eingießen,hw
 ,ingierm,eingeben,hw
 ,inkoken,einkochen,hw
-,inkriegen,"beruhigen, einfahren",hw
 ,inkörpen,einkaufen,hw
+,inkriegen,"beruhigen, einfahren",hw
 ,inloaen,einladen,hw
 ,inmessen,durchnässen,hw
 ,inmoaken,einmachen,hw
 ,inne,zu Hause,hw
-,inne (in de),"in der, in die",hw
+,innedutten,"entzweit, zerbrochen, kaputt",hw
 ,inne Fissen,in Ordnung,hw
 ,inne Fuhr liggen,in der Furche liegen,hw
-,inne Kiuhlen trehen,hinken,hw
-,inne Richte,in gerader Richtung,hw
-,inne Schiermskeraaie,in der Dämmerung,hw
-,inne Tunnen trehen,in die Tonne treten,hw
-,innedutten,"entzweit, zerbrochen, kaputt",hw
 dat,Innefuhrpeerd,"Pferd (rechts im Gespann, das in der Furche geht)",hw
 ,innehoien,einhüten (Haus hüten),hw
+,inne (in de),"in der, in die",hw
+,inne Kiuhlen trehen,hinken,hw
 ,innemoite,entgegen,hw
 ,innemoitekurm,entgegenkommen,hw
 ,innen,"in den, in dem, im",hw
 ,innen Dürbogen,Deelenvorraum (offen),hw
+,inne Richte,in gerader Richtung,hw
+,inne Schiermskeraaie,in der Dämmerung,hw
 ,innessen,einnisten,hw
+,inne Tunnen trehen,in die Tonne treten,hw
 ,innicken,einnicken,hw
 ,innierm,einnehmen,hw
 ,inpacken,einpacken,hw
@@ -1852,6 +1858,8 @@ dat,Innefuhrpeerd,"Pferd (rechts im Gespann, das in der Furche geht)",hw
 ,inroihen,einrühren,hw
 ,inrümen,einräumen,hw
 ,insacken,einsacken,hw
+,insäggen,überzeugen,hw
+,insärpen,einseifen,hw
 de,Inschlagg (Inschlach),Schussgarn beim Weben,hw
 ,inschloan,einschlagen,hw
 ,inschloapen,"einschlafen, entschlafen",hw
@@ -1861,6 +1869,7 @@ de,Inschlagg (Inschlach),Schussgarn beim Weben,hw
 ,insoarken,einsargen,hw
 de,Insoat,Einsaat,hw
 ,insoiken,sortieren (Kartoffeln),hw
+,insölten,einsalzen,hw
 ,insperrn,einsperren,hw
 ,inspringen,einspringen (schnell helfen),hw
 ,instanne,"imstande (gut entwickelte Person), fähig",hw
@@ -1869,12 +1878,9 @@ de,Insoat,Einsaat,hw
 ,instippen,einstippen,hw
 ,instoahn,einstehen,hw
 ,insutken,einsauen,hw
-,insäggen,überzeugen,hw
-,insärpen,einseifen,hw
-,insölten,einsalzen,hw
-,int (in dat),ins (in das),hw
 ,intappen,einzapfen,hw
 ,inteihn,einziehen,hw
+,int (in dat),ins (in das),hw
 ,intiusken,eintauschen,hw
 ,intrechtern,eintrichtern,hw
 ,intrehen,eintreten,hw
@@ -1902,7 +1908,6 @@ de,Iulenspaaigel,Eulenspiegel,hw
 ,Iuse,Unsrige (Familienanhörige),hw
 ,iusereiner,unsereiner,hw
 ,iust,unser,hw
-,"iut, iute",aus,hw
 ,iutbacken,ausbacken,hw
 ,iutbeoen,ausbauen,hw
 ,iutbetern,ausbessern,hw
@@ -1911,23 +1916,23 @@ de,Iulenspaaigel,Eulenspiegel,hw
 ,iutblieben,ausbleiben,hw
 ,iutbloaihen,ausblühen,hw
 ,iutbloien,ausbluten,hw
-,iutbottern,ausgeschlagen (z. B. Achslager),hw
-,iutbreken,ausbrechen,hw
-,iutbrähen,ausbreiten,hw
-de,Iutbund,Taugenichts,hw
 ,iutbössen,"ausbürsten, weglaufen",hw
+,iutbottern,ausgeschlagen (z. B. Achslager),hw
+,iutbrähen,ausbreiten,hw
+,iutbreken,ausbrechen,hw
+de,Iutbund,Taugenichts,hw
 ,iutdeilen,austeilen,hw
 ,iutdenken,ausdenken,hw
 ,iutdeon,spendieren,hw
 de,Iutdiuer,Ausdauer,hw
+,iutdöppen,"aushülsen (Erbsen, Bohnen)",hw
+,iutdössken,ausdreschen,hw
 ,iutdraaihen,ausdrehen,hw
 ,iutdregen,austragen,hw
 ,iutdrieben,austreiben,hw
 ,iutdrinken,austrinken,hw
 ,iutdröagen,austrocknen,hw
 ,iutdrücken,ausdrücken,hw
-,iutdöppen,"aushülsen (Erbsen, Bohnen)",hw
-,iutdössken,ausdreschen,hw
 ,iuten,aus dem,hw
 ,iutenanner,auseinander,hw
 ,iuteneine,getrennt,hw
@@ -1945,13 +1950,14 @@ de,Iutflugg; de Iutflüge,Ausflug,hw
 ,iutgierm,ausgeben,hw
 ,iutgoahn,ausgehen,hw
 ,iutgroaben,ausgraben,hw
-de,Iutguss,Ausguss,hw
 ,iutgürlen,herausrieseln,hw
+de,Iutguss,Ausguss,hw
 de,Iuthang,Aushang,hw
 ,iuthaulen,aushalten,hw
 ,iutheilen,ausheilen,hw
 ,iuthoalen,ausholen,hw
 ,iuthöarn,aushorchen,hw
+,"iut, iute",aus,hw
 ,iutjuckeln,ausleiern,hw
 ,iutkieken,auswählen,hw
 ,iutkielen,ausschlagen,hw
@@ -1964,13 +1970,13 @@ de,Iuthang,Aushang,hw
 ,iutkroamen,auskramen,hw
 ,iutküen,aussprechen,hw
 ,iutlachen,auslachen,hw
+,iutlährnen,ausleihen,hw
+de,Iutlänner,Ausländer,hw
 ,iutlappen,aussaufen,hw
 ,iutleggen,auslegen,hw
 ,iutlicken,auslecken,hw
 ,iutlierpeln,auslöffeln,hw
 ,iutliuken,herausziehen,hw
-,iutlährnen,ausleihen,hw
-de,Iutlänner,Ausländer,hw
 de,Iutlöarper,Ausläufer (Ableger),hw
 ,iutlöasen,herauslösen,hw
 ,iutlösken,auslöschen,hw
@@ -1997,6 +2003,7 @@ de,Iutschlagg (Iutschlach),Ausschlag,hw
 ,iutsiedeln,aussiedeln,hw
 ,iutsierben,aussieben,hw
 ,iutsitten,aussitzen,hw
+,iutsöhnen,versöhnen,hw
 ,iutsoiken,aussuchen,hw
 ,iutspaaien,ausspucken,hw
 ,iutsteerben,aussterben,hw
@@ -2005,7 +2012,6 @@ de,Iutschlagg (Iutschlach),Ausschlag,hw
 ,iutstoppen,ausstopfen,hw
 ,iutstörten,ausstoßen,hw
 de,Iutstüer,Aussteuer,hw
-,iutsöhnen,versöhnen,hw
 ,iutteihn,ausziehen,hw
 de,Iutteihnedisk,Ausziehtisch,hw
 ,iutteiken,auszeichnen,hw
@@ -2053,11 +2059,11 @@ de,Joahrkeoken,Lebkuchen vom Jahrmarkt,hw
 de,Joahrmoark,Jahrmarkt,hw
 de,Jucht,Prügel,hw
 ,juckeln,herumfahren,hw
+,jüjacken,hin- und herbewegen (ohne rechtes Weiterkommen),hw
 de,Juli,Juli,hw
 de,Junge,"Sohn, Junge",hw
 de,Juni,Juni,hw
 de,Juppen,Herrenjacke,hw
-,jüjacken,hin- und herbewegen (ohne rechtes Weiterkommen),hw
 de,Jürk,Juckreiz,hw
 ,jürken,jucken,hw
 ,kaalben,kalben,hw
@@ -2071,6 +2077,7 @@ de,Kaalkohmn,Kalkofen,hw
 de,Kabacke,Haus (verfallen),hw
 de,Kabbelaaie,Streiterei (freundschaftlich),hw
 ,kabbeln,streiten (freundschaftlich),hw
+,käbbeln,streiten (freundschaftlich),hw
 de,Kachelohmn,Kachelofen,hw
 dat,Kaff,Spreu (die beim Korn dreschen anfällt),hw
 de,Kaffe,Kaffee,hw
@@ -2088,6 +2095,7 @@ dat,Kammrad,Zahnrad aus Holz,hw
 de,Kanter,Kantor (Organist),hw
 de,Kanthoaken,Kanthaken (Stange mit Eisenhaken zum Bewegen von Baumstämmen),hw
 dat,Kanthult,Kantholz,hw
+de,Käse,Käse,hw
 de,Kasse,"Kasse, Geldinstitut",hw
 ,katrente goahn,"fliehen, abhauen",hw
 de,Katte,Katze,hw
@@ -2125,11 +2133,11 @@ dat,Keokenbleck,Kuchenblech,hw
 de,Keokenploaten,Kuchenblech,hw
 de,Kerl,Mann,hw
 de,Kerls,Männer,hw
+dat,Ketäakelken,Eichhörnchen,hw
 ,ketaulsk,katholisch,hw
 ,ketaulsk,"verkehrt, undurchsichtig, fremd (diskriminierend)",hw
 dat,Keterkelken,Eichhörnchen,hw
 de,Ketuffel,Kartoffel,hw
-dat,Ketäakelken,Eichhörnchen,hw
 de,Kiehen,Kette,hw
 dat,Kiehenlett,Kettenglied,hw
 ,kieken,"gucken, schauen",hw
@@ -2162,10 +2170,15 @@ de,Kiusen,"Backenzahn, Scharte im Werkzeug",hw
 de,Kiusenbreker,Zahnarzt,hw
 ,klaaien,"klettern, kratzen, kritzeln",hw
 de,Klaaieraaie,Schmiererei (im Schulheft),hw
+de,Kläärbürgel,Kleiderbügel,hw
+dat,Kläärschapp,Kleiderschrank,hw
 ,klabasterig (klabasterich),hektisch,hw
 ,klabastern,hasten,hw
+,kläen,kleiden,hw
 ,klamüsern,"zerlegen, sortieren",hw
 de,Klapprekner,Laptop,hw
+,klärben,kleben,hw
+dat,Klärd,Kleid,hw
 de,Klasse,Klasse,hw
 de,Klatten,Haare (verfilzt),hw
 de,Klaut,Hoden (Einzahl),hw
@@ -2188,25 +2201,20 @@ de,Kliuten,Erdklumpen,hw
 de,Kliutentreher,Bauer (scherzhaft),hw
 de,Kloaber,Klee,hw
 ,kloar,klar,hw
+de,Klöarben,Klöben,hw
 ,kloarmoaken,erklären,hw
+de,Klöäte,Hoden (Mehrzahl),hw
 dat,Klobenmest,Schälmesser,hw
 de,Klocken,"Glocke, Glocken",hw
 de,Klopphingst,Hengst (analog zum Binneneber),hw
 ,kloterig (kloterich),kaputt,hw
 de,Klucke,Bruthenne,hw
 ,klucksk,brutbereit,hw
-dat,Klumpsoat,Stoppelrübensamen,hw
-,klunstern,"hinfallen, polterndes Hinfallen",hw
-,kläen,kleiden,hw
-,klärben,kleben,hw
-dat,Klärd,Kleid,hw
-de,Kläärbürgel,Kleiderbügel,hw
-dat,Kläärschapp,Kleiderschrank,hw
-de,Klöarben,Klöben,hw
-de,Klöäte,Hoden (Mehrzahl),hw
 de,Klümpe,"Grießklöße, Mehlklöße",hw
 dat,Klümpken,Bonbons,hw
+dat,Klumpsoat,Stoppelrübensamen,hw
 de,Klüngelpott,Trödelfritze,hw
+,klunstern,"hinfallen, polterndes Hinfallen",hw
 dat,Klürtergeld,Kleingeld,hw
 ,klürterig (klürterich),klapperig (krank),hw
 de,Klürtern,Kotbrocken am Tierfell (besonders bei Kühen),hw
@@ -2214,11 +2222,11 @@ de,Klürtern,Kotbrocken am Tierfell (besonders bei Kühen),hw
 ,klüütken,werfen mit Erdklumpen oder Steinchen,hw
 ,knaaien,knien,hw
 de,Knaail,Kaneel (Zimt),hw
-dat,Knai; de Knaaie,Knie,hw
 de,Knaibiulen,Kniekehle,hw
+dat,Knai; de Knaaie,Knie,hw
 de,Knail,Zimt,hw
-de,Knaischieben,Kniescheibe,hw
 ,knaisärlen,Kniefessel (bei einer Kuh einen Strick von den Hörnern zum Knie binden),hw
+de,Knaischieben,Kniescheibe,hw
 ,knappe,"knapp, eng, kaum",hw
 ,knappen,knacken,hw
 de,Knaup,Knopf,hw
@@ -2256,24 +2264,34 @@ de,Kohlflachenwoagen,Kastenwagen,hw
 de,Koihe,Kühe,hw
 ,koken,kochen,hw
 de,Kokmeschinen,Küchenherd,hw
+,kölpen,rülpsen,hw
 dat,Kommerfack,Zimmer in der hinteren Giebelseite,hw
 de,Konfematzieon,Konfirmation,hw
 dat,Konfiefken,Seilschaft,hw
+de,König,König,hw
+de,Königin,Königin,hw
 dat,Kooen,"Getreide, Getreidekorn",hw
 de,Kooen,Korn (alkoholisches Getränk),hw
 de,Kooenbleomen,Kornblumen,hw
+dat,Kööksel,Eintopf,hw
 de,Koorf,Korb,hw
+,köörfken,flechten (Weidenkörbe),hw
+de,Köörfker,Korbflechter,hw
 de,Koorfpullen,Korbflasche,hw
 de,Kopp; de Köppe,Kopf,hw
 de,Koppelbaum,Querstück aus Eisen (an der Deichsel für Zweispänner),hw
+,köppen,köpfen,hw
+dat,Köppken,Tasse,hw
 dat,Koppküssen,Kopfkissen,hw
 ,koppsober,kopfüber (mit dem Kopf voran),hw
 dat,Koppweih,Kopfschmerzen,hw
+,körpen,kaufen,hw
 ,kort,kurz,hw
 ,kossen,kosten,hw
 de,Kossen,Kruste,hw
 ,kputt,kaputt,hw
 de,Krach,Krach,hw
+de,Kräcken,Türverschluss (drehbares Querholz),hw
 ,krank,krank,hw
 de,Krankhert,Krankheit,hw
 de,Krassen,Handgerät zum Kämmen von Rohwolle,hw
@@ -2303,9 +2321,8 @@ de,Kroiger,Gastwirt,hw
 de,Kroinen,Kraniche,hw
 de,Kruck,Quergriff am Spatenstiel,hw
 de,Krummheoer,Queraxt (diente zum Behauen von Sparren und Balken an der Oberseite),hw
-de,Krummstock,Querholz zum Aufhängen eines geschlachteten Schweines,hw
 de,Krummstänner,Schrägbalken im Fachwerk,hw
-de,Kräcken,Türverschluss (drehbares Querholz),hw
+de,Krummstock,Querholz zum Aufhängen eines geschlachteten Schweines,hw
 de,Krüpers,Buschbohnen,hw
 de,Krüppen,"Futtertrog, Krippe",hw
 de,Krüsel,Kreisel,hw
@@ -2314,63 +2331,69 @@ de,Krüselwiend,Windhose (schwach),hw
 ,krüsselig (krüsselich),geschwächt und hinfällig,hw
 dat,Krüüß,"Rücken, Wirbelsäule",hw
 dat,Krüüß,Kreuz,hw
+,küen,"reden, sprechen",hw
+de,Küeraaie,"Gerede, Gerücht",hw
 de,Kuffer,"Koffer, Holztruhe mit gewölbtem Deckel",hw
+de,Külle,Kälte,hw
 ,kumm,komm,hw
 de,Kump,Schüssel,hw
 de,Kumst,Weißkohl,hw
 de,Kumsthürbel,Kohlhobel,hw
 de,Kunne,"Kunde, Kenntnis",hw
-,kuntant,"munter, gesund",hw
-,kurm (kamm),kommen (kam),hw
-de,Kutsken,Kutsche,hw
-de,Kutskwoagen,Kutschwagen,hw
-de,Kuttosse,Kuh (flapsig),hw
-,käbbeln,streiten (freundschaftlich),hw
-de,Käse,Käse,hw
-,kölpen,rülpsen,hw
-de,König,König,hw
-de,Königin,Königin,hw
-,köppen,köpfen,hw
-dat,Köppken,Tasse,hw
-,körpen,kaufen,hw
-dat,Kööksel,Eintopf,hw
-,köörfken,flechten (Weidenkörbe),hw
-de,Köörfker,Korbflechter,hw
-,küen,"reden, sprechen",hw
-de,Küeraaie,"Gerede, Gerücht",hw
-de,Külle,Kälte,hw
 ,künnig (künnich),sachkundig (erfahren),hw
 ,künnt,könnt,hw
+,kuntant,"munter, gesund",hw
 de,Kürken,Küche,hw
 dat,Kürkendeok,Küchentuch,hw
 de,Kürkendisk,Küchentisch,hw
 dat,Kürkenschapp,Küchenschrank,hw
 de,Kürkensteohl,Küchenstuhl,hw
+,kurm (kamm),kommen (kam),hw
 ,kürnen,können,hw
+dat,Kürßel,Gerede,hw
 de,Kürtel,Köttel,hw
 ,kürteln,koten von Kotklümpchen,hw
-dat,Kürßel,Gerede,hw
 dat,Küssen,Kissen,hw
 de,Küssenbetogg (Küssenbetoch),Kissenbezug,hw
+de,Kutsken,Kutsche,hw
+de,Kutskwoagen,Kutschwagen,hw
+de,Kuttosse,Kuh (flapsig),hw
 ,laaien,leiten (zügeln),hw
 de,Laaien,Leine,hw
 ,labberig (labberich),fade (geschmacklos),hw
 ,lachen,lachen,hw
 ,lacke,"locker, lose, ertraglos (taube Ähren oder Nüsse)",hw
+,läen,lernen,hw
+de,Läerjunge,Lehrling (Auszubildender),hw
+de,Läertiet,Lehrzeit,hw
 ,laff,dünn (z. B. Kaffee),hw
-dat,Land (uppen Lanne),"Land, Acker",hw
+de,Lährm,Lehm,hw
+de,Lährmkiuhlen,Lehmkuhle,hw
+,lährnen,leihen,hw
+dat,Lämmken,Lämmlein,hw
 de,Landstroate,Landstraße,hw
+dat,Land (uppen Lanne),"Land, Acker",hw
 ,lang,lang,hw
+de,Längde,Länge,hw
 ,lange,lange,hw
 ,langen,reichen,hw
+,längen,länger werden,hw
 ,langes,entlang,hw
 ,langeskieken,"entlangsehen, verstehen",hw
 ,langeskurm,"entlangkommen, auskommen",hw
+,längest,längst,hw
 de,Langewiele,Langeweile,hw
 ,langsoam,langsam,hw
 ,langwielig (langwielich),langweilig,hw
 de,Langwoagen,Verbindungsstück zur Verlängerung eines Ackerwagens,hw
+de,Länneraaien,"Ländereien, Grundbesitz",hw
 ,lappen,trinken,hw
+dat,Lärd,Leid,hw
+dat,Lärge,das Böse,hw
+de,Lärge,der Böse,hw
+,lärge,schlimm,hw
+,Lärges,Schlimmes,hw
+de,Lärghert (Lärchhert),Schlechtigkeit,hw
 de,Latüchen,Laterne,hw
 dat,Lauf,Laub,hw
 de,Lauhn,Lohn,hw
@@ -2428,7 +2451,6 @@ dat,Liefken,Leibchen (Mieder),hw
 de,Lieftiet,"Altenteil, Ruhestand",hw
 dat,Liefweih,Bauchschmerzen,hw
 ,liehen,"leiden, zulassen, gern haben",hw
-dat,Liek (noan Lieke),Beerdigung (zur Beerdigung),hw
 dat,Liekdörn,Hühnerauge,hw
 ,lieke,gerade,hw
 ,lieke ault,gleichaltrig,hw
@@ -2437,6 +2459,7 @@ dat,Liekdörn,Hühnerauge,hw
 de,Liekenbitter,Leichenbitter,hw
 de,Liekenwoagen,Leichenwagen,hw
 dat,Liekloaken,Leichentuch,hw
+dat,Liek (noan Lieke),Beerdigung (zur Beerdigung),hw
 de,Liem,Leim,hw
 ,liemen,leimen,hw
 de,Liempott,Leimtopf,hw
@@ -2445,8 +2468,8 @@ de,Lien,Lein (Flachs),hw
 dat,Lienen,Leinen,hw
 de,Liengen,Leine,hw
 de,Liengen,Linie,hw
-dat,Liensoat,Leinsamen,hw
 dat,Lienölge,Leinöl,hw
+dat,Liensoat,Leinsamen,hw
 de,Lierbedoage,Ereignis (mit vielen Menschen),hw
 de,Lierbedoage,"Umstand (aufwändig, übertrieben)",hw
 de,Lierbedoage,Lebenszeit,hw
@@ -2479,6 +2502,7 @@ de,Liusebummel,Kind (das Läuse hat),hw
 de,Liusemähln,Melde (Unkraut),hw
 ,liuter,"lauter, nur",hw
 ,liuthaals,lauthals,hw
+dat,Löabecken,Feldlerche,hw
 de,Loaden,"Laden, Geschäft",hw
 de,Loadendeiner,Verkäufer,hw
 de,Loaen,"Schublade, Lade",hw
@@ -2486,49 +2510,27 @@ de,Loage,Lage,hw
 dat,Loager,Lager,hw
 ,loahm,lahm,hw
 ,loahmen,lahmen,hw
+,löahnen,löhnen,hw
 de,Loake,Lake,hw
 dat,Loaken,Laken,hw
+,löan,"löten, saufen",hw
+,löapsk,läufig (z.B. bei Hunden),hw
+de,Löarper,Läufer,hw
 ,loate,spät,hw
 ,loaten,lassen,hw
 dat,Lock,"Loch, Talsenke, Gefängnis",hw
 dat,Loff,Lob,hw
+de,Löffte,Verlobung,hw
 ,loie,träge,hw
 ,loien,weinen (ausdauernd),hw
 de,Lokus,Toilette,hw
-de,Lucht,Lampe,hw
-de,Luchtort,Seitenausgang im alten Bauernhaus (Bereich davor),hw
-de,Luft,Luft,hw
-de,Lussen,Lust,hw
-,lussenlaus,lustlos,hw
-,lutt,"klingt, lautet",hw
-de,Lutten,"Geläut, Klang",hw
-,läen,lernen,hw
-de,Läerjunge,Lehrling (Auszubildender),hw
-de,Läertiet,Lehrzeit,hw
-de,Lährm,Lehm,hw
-de,Lährmkiuhlen,Lehmkuhle,hw
-,lährnen,leihen,hw
-dat,Lämmken,Lämmlein,hw
-de,Längde,Länge,hw
-,längen,länger werden,hw
-,längest,längst,hw
-de,Länneraaien,"Ländereien, Grundbesitz",hw
-dat,Lärd,Leid,hw
-dat,Lärge,das Böse,hw
-de,Lärge,der Böse,hw
-,lärge,schlimm,hw
-,Lärges,Schlimmes,hw
-de,Lärghert (Lärchhert),Schlechtigkeit,hw
-dat,Löabecken,Feldlerche,hw
-,löahnen,löhnen,hw
-,löan,"löten, saufen",hw
-,löapsk,läufig (z.B. bei Hunden),hw
-de,Löarper,Läufer,hw
-de,Löffte,Verlobung,hw
 dat,Löskeblatt,Löschblatt,hw
 ,lösken,löschen,hw
 ,lüchen,leuchten,hw
 de,Lüchen,Leuchte,hw
+de,Lucht,Lampe,hw
+de,Luchtort,Seitenausgang im alten Bauernhaus (Bereich davor),hw
+de,Luft,Luft,hw
 de,"Lügbühl, de Lürgenbühl",Lügner (verlogener Mensch),hw
 de,Lühe,Leute,hw
 ,lühen,läuten,hw
@@ -2537,7 +2539,9 @@ de,Lüning,Spatz oder Sperling,hw
 de,Lürgen,Lügen,hw
 dat,Lürgeniis,Eis mit Hohlräumen (nichttragend),hw
 de,Lüse,Läuse,hw
+de,Lussen,Lust,hw
 ,lüssen,wundern,hw
+,lussenlaus,lustlos,hw
 ,lütk,klein,hw
 ,lütke,kleine,hw
 dat,Lütke,Mädchen (klein),hw
@@ -2545,6 +2549,8 @@ de,Lütke,Junge (klein),hw
 ,lütken,gebären,hw
 ,lütker Knaup,Junge (klein),hw
 ,Lütkes (wat Lütkes),Neugeborenes,hw
+,lutt,"klingt, lautet",hw
+de,Lutten,"Geläut, Klang",hw
 de,Maai,Mai,hw
 de,Maaibaum,Maibaum,hw
 dat,Maaigroin,Birkengrün zu Pfingsten,hw
@@ -2556,13 +2562,19 @@ de,Maairegen,Mairegen (gut für die Saat),hw
 ,maaistendeils,größtenteils,hw
 de,Maaitiet,Frühjahr,hw
 ,magg (mach),mag,hw
+,mähr,mehr,hw
+,mährere,mehrere,hw
 de,Mama,Mama,hw
 ,man,"man, nur",hw
-,man teo,los (anfeuern),hw
 ,mannicheiner,"mehrere, einige, viele",hw
 ,mannichmoal,manchmal,hw
+dat,Männken,männliches Tier,hw
 ,Manschetten hämmen,Respekt haben,hw
 de,Manschettenknaup,Manschettenknopf,hw
+,man teo,los (anfeuern),hw
+,märßen,mästen,hw
+dat,Märßeschwien,Mastschwein,hw
+de,März,März,hw
 de,Masken,Masche,hw
 de,Maskendroaht,Maschendraht,hw
 de,Matten,Matte,hw
@@ -2572,14 +2584,14 @@ de,Melessen,Zipperlein,hw
 de,Melk,Milch,hw
 ,melk,milchgebend,hw
 ,Melk dürsaaien,Milch filtern,hw
-,melk wern,kalben,hw
 de,Melkebock,Melkschemel,hw
 ,melken,melken,hw
 de,Melkkannen,Milchkanne,hw
 de,Melkkommern,Milchkammer,hw
+de,Melkömmer,Milcheimer,hw
 de,Melkpott,Milchtopf,hw
 de,Melkstroate,Milchstraße,hw
-de,Melkömmer,Milcheimer,hw
+,melk wern,kalben,hw
 ,mellen,melden,hw
 de,Meniuten,Minute,hw
 de,Meode,"Mode, Sitte",hw
@@ -2675,50 +2687,45 @@ de,Moark,Markt,hw
 dat,Moark,Mark (Knochenmark),hw
 de,Moark,DM (Deutsche Mark),hw
 dat,Moate,Maß,hw
+,möche,möchte,hw
 ,mohen,morgen,hw
 de,Mohen,Morgen,hw
 ,moie,müde,hw
 de,Moime,Mutter,hw
+de,Möller,Müller,hw
 de,Monat,Monat,hw
 dat,Moss,Moos,hw
-de,Muen,Morast,hw
-dat,Mulkenschapp,Milchschrank mit Klappe,hw
-de,Mulkeraaie,Molkerei,hw
-de,Mund,Mund,hw
-,mundsmoate,mundgerecht,hw
-,mundvull,bisschen,hw
-de,Murken,Knopfakkordeon,hw
-de,Musick,Musik,hw
-de,Mutte,Mutter,hw
-de,Mutten,Matsch,hw
-de,Mutz,Pfeife (kurz),hw
-,mähr,mehr,hw
-,mährere,mehrere,hw
-dat,Männken,männliches Tier,hw
-de,März,März,hw
-,märßen,mästen,hw
-dat,Märßeschwien,Mastschwein,hw
-,möche,möchte,hw
-de,Möller,Müller,hw
 de,Möttke,Matsch,hw
 ,müe,morsch,hw
+de,Muen,Morast,hw
 ,müen,mauern,hw
 de,Müen,Mauer,hw
 dat,Müerweerk,Mauerwerk,hw
 de,Müggen,Mücken,hw
 de,Mührlen,Mühle,hw
 de,Mührlendiek,Mühlenteich,hw
-de,Mührlenflürgel,Mühlenflügel,hw
 dat,Mührlenfärld,Mühlenfeld,hw
+de,Mührlenflürgel,Mühlenflügel,hw
 dat,Mührlenrad,Mühlrad,hw
+dat,Mulkenschapp,Milchschrank mit Klappe,hw
+de,Mulkeraaie,Molkerei,hw
+de,Mund,Mund,hw
+,mundsmoate,mundgerecht,hw
+,mundvull,bisschen,hw
 ,"mürgen (magg, möche)","mögen (mag, möchte)",hw
+de,Murken,Knopfakkordeon,hw
 de,Mürker,Maurer,hw
 ,mürten,müssen,hw
+de,Musick,Musik,hw
 de,Müssen,Mütze,hw
+de,Mutte,Mutter,hw
+de,Mutten,Matsch,hw
+de,Mutz,Pfeife (kurz),hw
 ,müülsk,mürrisch,hw
-,naaie Stoobm,Wohnzimmer für den Besuch,ab
+,nä,nein,ab
 ,naaien,neuen,ab
 ,naaien (eine naaien),hauen,ab
+,naaie Stoobm,Wohnzimmer für den Besuch,ab
 ,naaiet,neues,ab
 ,naaihen,nähen,ab
 dat,Naaihgoarn,Nähgarn,ab
@@ -2737,19 +2744,21 @@ de,Nachtschloapenstiet,Schlafenszeit,ab
 de,Nachtsteohl,Toilettenstuhl,ab
 de,Nacken,Nacken,ab
 de,Naffel,Bauchnabel,ab
-,"nait, naaie","neu, neue",ab
 ,naitmelken (Keoh),frischmelkend (Kuh),ab
 ,naitmoidsk,neumodisch,ab
-,naitschierig,neugierig,ab
+,"nait, naaie","neu, neue",ab
+,naitschierig,neugierig,hw
 ,naitschierig (naitschierig),neugierig,ab
+,nämlich,nämlich,ab
 de,Nammdagg (Nammdach),Nachmittag,ab
 dat,Napp,Napf,ab
 de,Nask,Dose,ab
 ,natt,nass,ab
+de,Nätte,Nässe,ab
 ,nattkault,nasskalt,ab
 ,natürlich,natürlich,ab
 ,nau,noch,ab
-,naugroa,"mittlerweile, inzwischen",ab
+,naugroa,"mittlerweile, inzwischen",hw
 ,naumoal,nochmal,ab
 de,Naut,Not,ab
 de,Nautgroschen,Notgroschen,ab
@@ -2762,8 +2771,8 @@ de,Nesen,Nase,ab
 dat,Nesenlock,Nasenloch,ab
 dat,Nest,Nest,ab
 ,nich,nicht,ab
-,nich woar︖,nicht wahr︖,ab
-,niches,"nicht einmal, gar kein, gar nicht",ab
+,niches,"nicht einmal, gar kein, gar nicht",hw
+,nich woar︖,nicht wahr︖,hw
 ,nickköppen,nicken,ab
 ,nie,nie,ab
 de,Niehen,Niere,ab
@@ -2779,7 +2788,6 @@ de,Niertel,Nessel,ab
 ,niu,nun,ab
 ,nix,nichts,ab
 ,noa,"nach, zu",ab
-,noa un noa,"nach und nach, allmählich",ab
 de,Noaber,Nachbar,ab
 de,Noaberskopp,Nachbarschaft,ab
 ,noadenken,nachdenken,ab
@@ -2788,6 +2796,9 @@ de,Noaberskopp,Nachbarschaft,ab
 de,Noageburt,Nachgeburt,ab
 de,Noagel; de Negel,Nagel,ab
 de,Noagelschmett,Nagelschmied,ab
+,nöagen,bedrängen (intensives Bitten),ab
+,nöager,näher,ab
+de,Nöagesten,nahe Verwandte,ab
 ,noagierm,nachgeben,ab
 ,noah,nah,ab
 ,noahe,nahe,ab
@@ -2804,30 +2815,25 @@ de,Noame,Name,ab
 ,noamhaft moaken,namhaft machen,ab
 de,Noarben,Narbe,ab
 de,Noaricht,Nachricht,ab
+,nöarig (nöarich),"nötig, notwendig",ab
+,noasäggen,"nachsagen, verleumden",ab
 ,noaseihn,"nachsehen, verprügeln",ab
 dat,Noaseihn,Enttäuschung,ab
 dat,Noaspell,Nachspiel,ab
-,noasäggen,"nachsagen, verleumden",ab
+,noa un noa,"nach und nach, allmählich",ab
 ,noavetellen,nacherzählen,ab
+,nöchtern,nüchtern,ab
 ,noisterig (noisterich),zornig,ab
-de,Nott; de Nürte,"Nuss, Nüsse",ab
+,nömms,"keiner, niemand",ab
 de,Nottbaum,Nussbaum,ab
 de,Nottbusk,Haselnussstrauch,ab
+de,Nott; de Nürte,"Nuss, Nüsse",ab
 de,Nottschoalen,Nussschale(n),ab
 de,November,November,ab
 de,Nuck,Groll,ab
-,nur,nur,ab
-,nä,nein,ab
-,nämlich,nämlich,ab
-de,Nätte,Nässe,ab
-,nöagen,bedrängen (intensives Bitten),ab
-,nöager,näher,ab
-de,Nöagesten,nahe Verwandte,ab
-,nöarig (nöarich),"nötig, notwendig",ab
-,nöchtern,nüchtern,ab
-,nömms,"keiner, niemand",ab
 de,Nücke,Macken oder Eigenarten in der Persönlichkeit,ab
 ,nücken,knoten,ab
+,nur,nur,ab
 ,nüssken,stoßen (hinterhältig einen kleinen Hieb verpassen),ab
 ,nütte,nützlich,ab
 ,oabe,ab,ab
@@ -2872,45 +2878,64 @@ dat,Oberhiermd,Oberhemd,ab
 ,oberloaten,überlassen,ab
 ,obernierm,übernehmen,ab
 ,oberschiersk,überjährig,ab
-,oberschlobbern,bekleckern,ab
+,oberschlobbern,bekleckern,hw
 ,oberschnappen,überschnappen,ab
 ,obersetten,übersetzen,ab
 ,oberstrieken,überstreichen,ab
 ,oberstülpen,überstülpen,ab
 ,oberteihn,überziehen,ab
-,obertorrern,verlieren (unachtsam),ab
+,obertorrern,verlieren (unachtsam),hw
 ,obertügen,überzeugen,ab
 ,oberull,überall,ab
 ,oberweggseihn (oberwechseihn),darüber hinwegsehen,ab
 ,oberwittken,überweißen,ab
 dat,Oberwoater,Oberwasser,ab
 ,och,ach,ab
-,oh Gäste,Hilfe (Ausdruck des Erstaunens),ab
 de,Ohen,Ohren,ab
+,oh Gäste,Hilfe (Ausdruck des Erstaunens),ab
 de,Ohmn,Ofen,ab
 de,Ohmndür,Ofentür,ab
 de,Ohmnklappen,Ofenklappe,ab
 dat,Ohmnlock,Ofenloch,ab
 de,Ohmnringe,Ofenringe,ab
 dat,Ohmnrohr,Ofenrohr,ab
+,öhn,"ihn, ihm",ab
 ,ohne,ohne,ab
+,öhne,seine,ab
 dat,Ohr,Ohr,ab
+,öhr,ihr,ab
+,öhre,ihre,ab
+,öhrt,ihres,ab
 dat,Oiber,Ufer,ab
 dat,Oiber,"Steg in der Torfkuhle, Menge (große)",ab
 ,oilen,wühlen,ab
 de,Oisen,Ösen,ab
-dat,Oisken,Scheide,ab
+dat,Oisken,Scheide,hw
 de,Oktober,Oktober,ab
+dat,Ölge,Öl,ab
+de,Ölgemührlen,Ölmühle,ab
+de,Ölgepullen,Ölflasche,ab
+de,Ölgesoat,Rübsamen,ab
+dat,Öller,Alter,hw
+de,Öllern,Eltern,ab
+de,Ölste,Ältester,ab
 de,Oma,Oma,ab
+de,Ömmer,Eimer,ab
 ,onnink,ordentlich,ab
+dat,Ööfken,Pflaumenart (klein und rund),ab
 de,Oort,Ort,ab
 de,Oortstein,Ortstein (verfestigte Bodenschicht),ab
 de,Opa,Opa,ab
 ,open,offen,ab
 de,Openoars,Mensch (der die Tür offen lässt),ab
 ,orre,oder,ab
+de,Örtel,Orgel,ab
+de,Örtelbüen,Orgelempore,ab
+,örteln,orgeln,ab
+de,Örtelspierler,Orgelspieler,ab
 ,oss,als,ab
 de,Osse,Ochse,ab
+,össen,"malochen, schuften",ab
 ,paalken,spielen mit dem Ball,ab
 ,packen,"fangen, fassen, packen",ab
 de,Packen,Bündel,ab
@@ -2929,6 +2954,7 @@ dat,Pannkeokendeil,Grundstücksbezeichnung (Sahnestück),ab
 de,Panzen,Kinder,ab
 de,Papa,Papa,ab
 de,Pappe,Pappe,ab
+,pärken,petzen,ab
 ,passen,passen,ab
 ,passig (passich),passend,ab
 de,Patt,Pfad,ab
@@ -2954,7 +2980,7 @@ de,Peiatz,Hanswurst,ab
 dat,Pekeet,Paket,ab
 dat,Pekeit,Paket,ab
 de,Pendoalen,Pedale,ab
-de,Pennelpleog,Pendelpflug,ab
+de,Pennelpleog,Pendelpflug,hw
 de,Penning,Pfennig,ab
 de,Penongen,Pfingstrosen,ab
 de,Penongenhürbel,weißer Hügel in Mindenerwald,ab
@@ -2984,7 +3010,7 @@ de,Pierk,Innerstes,ab
 ,pierkerig (pierkerich),klebrig,ab
 dat,Pierksel,Klebemasse,ab
 de,Pierper,Pfeffer,ab
-,pierperig,"pfefferig, gepfeffert",ab
+,pierperig,"pfefferig, gepfeffert",hw
 ,pierperig (pierperich),pfeffrig,ab
 de,Pierpermührlen,Pfeffermühle,ab
 de,Pierpernürte,Pfeffernüsse,ab
@@ -3008,16 +3034,21 @@ de,Pisse,Urin,ab
 ,pissen,urinieren,ab
 de,Pisspott,Nachttopf,ab
 de,Pittmann,Penis,ab
-de,Piuter,Truthahn,ab
 de,Piußbacken,Pausbacken,ab
 de,Piuße,"Puste, Atem",ab
 ,piußen,pusten,ab
+de,Piuter,Truthahn,ab
+,pläästern,regnen (stark),ab
 de,Placken,"Fleck, Feldstück (klein)",ab
 de,Plackeraaie,Quälerei,ab
+,pläckerig küen,reden (hochgestochen),ab
+,pläckerig (pläckerich),fleckig,ab
 ,pladdern,regnen (stark),ab
 de,Plaggen,Sode (Grassode),ab
 ,planten,pflanzen,ab
 de,Planten,Pflanze,ab
+de,Plänter,Pflanzstock,ab
+de,Plänters,Pflanzkartoffeln,ab
 de,Plantespoan,Pflanzspaten,ab
 de,Plantketuffel,Pflanzkartoffel,ab
 de,Plass,Platz,ab
@@ -3026,14 +3057,17 @@ de,Plass,Platz,ab
 ,plattdütsk,plattdeutsch,ab
 dat,Plattdütsk,Plattdeutsch,ab
 de,Platten,"Platte, Kopf",ab
+,plätten,bügeln,ab
 de,Plattfeot,Plattfuß,ab
+dat,Plättisen,Bügeleisen,ab
 ,plattoars,sitzen auf dem Hosenboden,ab
 de,Plattschiuten,Schaufel,ab
 de,Plattschüppen,Schaufel,ab
+de,Plätzen,"Plätzchen, Kekse",ab
 de,Plege,Pflege,ab
 ,plegen,pflegen,ab
-de,Pleog (Pleoch),Pflug,ab
 dat,Pleogisen,Pflugschar,ab
+de,Pleog (Pleoch),Pflug,ab
 de,Pleogstärt,Haltegriffe mit Holmen (dient der Pflugführung beim handgeführten Pflug),ab
 de,Pleogstärt,Pflugsterz,ab
 de,Plieten,Verletzung (klein),ab
@@ -3041,6 +3075,7 @@ de,Pliumen,Pflaumen,ab
 de,Pliumenbaum,Pflaumenbaum,ab
 de,Ploage,"Plage, Magen- Darmerkrankung",ab
 de,Ploagegeist,Plagegeist,ab
+,plöahen,verschütten,ab
 de,Ploan,Plan,ab
 de,Ploane,Plane,ab
 dat,Ploaster,Pflaster,ab
@@ -3049,17 +3084,8 @@ de,Ploaten,Plate,ab
 de,Ploatenkeoken,Blechkuchen,ab
 de,Plocken,Stückchen,ab
 ,ploigen,pflügen,ab
-de,Pluck,"Pflock, Holznagel, Mensch (klein und rund)",ab
-,pläckerig (pläckerich),fleckig,ab
-,pläckerig küen,reden (hochgestochen),ab
-de,Plänter,Pflanzstock,ab
-de,Plänters,Pflanzkartoffeln,ab
-,plätten,bügeln,ab
-dat,Plättisen,Bügeleisen,ab
-de,Plätzen,"Plätzchen, Kekse",ab
-,pläästern,regnen (stark),ab
-,plöahen,verschütten,ab
 de,Plörre,Getränk (wässrig und fad),ab
+de,Pluck,"Pflock, Holznagel, Mensch (klein und rund)",ab
 dat,Plückefett,Fettgewebe vom Schwein (gepflückt),ab
 ,plücken,pflücken,ab
 de,Plüggen,"Holzstifte (klein, zur Befestigung einer Schuhlaufsohle)",ab
@@ -3067,8 +3093,9 @@ de,Plüh,Anstand,ab
 de,Plünnemelk,Dickmilch,ab
 de,Plünnen,"Kleidung (abgelegt und herumliegend), Windel(n)",ab
 de,Plünnenloaden,Textilgeschäft,ab
-,plünnern,plündern,ab
+,plünnern,plündern,hw
 de,Poahl; de Pöahle,Pfahl,ab
+,pöahlen,pfählen,ab
 ,poahlrisk,kerzengerade,ab
 de,Poapst,Papst,ab
 ,poar,paar,ab
@@ -3080,12 +3107,18 @@ de,Poater,Schleuderegge,ab
 de,Pogge; de Poggen,"Frosch, Frösche",ab
 de,Poggenfiller,Messer (stumpf),ab
 de,Poggensteohl,Pilz,ab
+dat,Pökelfleisk,Pökelfleisch,hw
+de,Pölter,Nachthemd,ab
+de,Pöppel,Pappel,ab
 dat,Poppier,Papier,ab
 de,Poppiere,Dokumente,ab
 de,Post,Post,ab
 de,Pott; de Pötte,Topf,ab
 dat,Potthius,"Torfstapel (in dem der Torf trocknen konnte - 6 Stück, zwei lang, zwei quer, zwei lang)",ab
+dat,Pöttkegeschirr,"Töpferware, Geschirr aus Ton",hw
 de,Pottkeoken,Topfkuchen,ab
+de,Pöttker,Töpfer,hw
+de,Pöttkeßel,Ton- und Porzellanscherben,hw
 de,Pottkieker,Topfgucker,ab
 de,Pottlappen,Topflappen,ab
 de,Pottlicker,Topfauslecker,ab
@@ -3105,56 +3138,48 @@ de,Proimken,Priem (Kautabak),ab
 de,Proppen,"Pfropfen, Korken",ab
 ,proppenfull,"vollgestopft, übervoll",ab
 ,propper,"sauber, ordentlich, wohlgenährt",ab
+,prötken,"angeben, prahlen",ab
+de,Prötker,Angeber,ab
 de,Prott,Redeschwall (großes Wort),ab
 ,prrr,stopp (bei Pferden),ab
 de,Prull,Traube,ab
 de,Prullneegelken,Bartnelken,ab
+,prünen,unordentlich nähen,ab
 de,Prurk,Lebewesen (klein),ab
 ,prurken,bohren (mit den Fingern),ab
 de,Prurkeraaie,"Kleinarbeit (mühsam), Landwirtschaft (kleine), Pfuscherei",ab
-,prötken,"angeben, prahlen",ab
-de,Prötker,Angeber,ab
-,prünen,unordentlich nähen,ab
 ,prüssen,niesen,ab
 de,Prütt,Kaffeesatz,ab
 de,Puckel,Rücken,ab
 ,pucken,schlagen (Herz),ab
 dat,Pucken,Wickelbund bei Säuglingen,ab
+de,Püel,Federkissen als Unterlage für die Kopfkissen (lang und schmal),ab
 de,Pull,Baumkrone,ab
 de,Pullacken,Polen (Bevölkerung),ab
 de,Pullen,Flasche(n),ab
 dat,Pullhult,Baumkronengeäst,ab
+,pülsken,planschen,ab
 ,pultern,poltern,ab
 de,Pulteroabend,Polterabend,ab
 dat,Pulwer,Pulver,ab
+de,Pümpel,Holzpfahl,ab
 de,Pumpen,Pumpe,ab
 de,Pumpenschwengel,Pumpenschwengel,ab
 dat,Pund,Pfund,ab
 dat,Pundstücke; de Punkstücke,Gewichtsstück,ab
 de,Punken,Sack voll Korn oder Mehl,ab
 de,Punkt,Punkt,ab
+dat,Püppken,Püppchen,ab
 de,Puppm,Puppe,ab
 de,Puppmwoagen,Puppenwagen,ab
 de,Puschen,Hausschuhe,ab
 de,Pusken,Hausschuhe,ab
 ,putken,trippeln,ab
 de,Puttappel,Bratapfel,ab
-,putzen,putzen,ab
-,pärken,petzen,ab
-,pöahlen,pfählen,ab
-dat,Pökelfleisk,Pökelfleisch,ab
-de,Pölter,Nachthemd,ab
-de,Pöppel,Pappel,ab
-dat,Pöttkegeschirr,"Töpferware, Geschirr aus Ton",ab
-de,Pöttker,Töpfer,ab
-de,Pöttkeßel,Ton- und Porzellanscherben,ab
-de,Püel,Federkissen als Unterlage für die Kopfkissen (lang und schmal),ab
-,pülsken,planschen,ab
-de,Pümpel,Holzpfahl,ab
-dat,Püppken,Püppchen,ab
 de,Pütten,Pfütze,ab
-,püttken,"spielen mit Wasser, verschütten von Flüssigkeit Füssigkeit verschütten",ab
-,püttken,trinken (Alkohol),ab
+,püttken,"spielen mit Wasser, verschütten von Flüssigkeit Füssigkeit verschütten",hw
+,püttken,trinken (Alkohol),hw
+,putzen,putzen,ab
 ,püüsken,zündeln (mit Feuer spielen),ab
 de,Püüster,"Schrotflinte, Gewehr",ab
 de,Quaalm,Qualm,ab
@@ -3164,6 +3189,8 @@ de,Quackelaaie,Unentschlossenheit,ab
 de,Quadderaaie,Geschwätz,ab
 de,Quadderkopp,Quatschkopf,ab
 ,quaddern,schwatzen,ab
+,quäken,schreien,ab
+,quäkerig (quäkerich),nörgelich,ab
 de,Quanten,Füße (groß),ab
 ,quatsken,Gehgeräusche im Matsch,ab
 ,quatskenatt,klatschnass,ab
@@ -3182,9 +3209,9 @@ de,Quirkstärt,Lebewesen (klein und mickrig),ab
 ,quittengeel,quittengelb,ab
 de,Quittunge,Quittung,ab
 ,quutsken,Gehgeräusche bei nassen Füßen,ab
-,quäken,schreien,ab
-,quäkerig (quäkerich),nörgelich,ab
 ,raaihen,reihen (vorläufig nähen),ab
+dat,Räap,Seil (dick und lang),ab
+,räaßen,ausruhen,ab
 ,rabbeln,sabbeln,ab
 de,Rackefatt,Arbeiter (besonders eifrig),ab
 ,racken,scharren,ab
@@ -3276,12 +3303,12 @@ de,Riesebessen,Besen aus Reisigzweigen (zum Hof kehren),ab
 de,Rieteraaie,"Umbauarbeiten, Gelenkschmerzen",ab
 dat,Rietpeerd,Reitpferd,ab
 ,rin,"hinein, herein",ab
-,rinbottern,reinbuttern,ab
 ,rinbössen,reinpoltern,ab
+,rinbottern,reinbuttern,ab
 dat,Rindfleisk,Rindfleisch,ab
 dat,Rindlear,Rindleder,ab
-dat,Rindveih,Rindvieh,ab
 ,rindössken,reindreschen,ab
+dat,Rindveih,Rindvieh,ab
 ,rinfegen,hineinfegen,ab
 de,Ring,Ring,ab
 ,ringoahn,hineingehen,ab
@@ -3289,8 +3316,8 @@ de,Ring,Ring,ab
 ,rinheoen,reinhauen,ab
 ,rinkieken,"hineinschauen, vorbeikommen",ab
 ,rinkloppen,hineinschlagen,ab
-,rinkurm,hereinkommen,ab
 ,rinküen,hineinreden,ab
+,rinkurm,hereinkommen,ab
 ,rinlasken,trinken und essen (gierig),ab
 ,rinlaupen,hereinlaufen,ab
 de,Rinner,Rinder,ab
@@ -3301,11 +3328,11 @@ de,Rinnerbroaen,Rinderbraten,ab
 ,rinschloan,"hineinschlagen, essen (gierig)",ab
 ,risk,"aufrecht, gerade, steil",ab
 ,risk dür,gerade durch,ab
+,risken,aufrichten,ab
+,riske Schiuten,Spaten,ab
 ,risk iut,zielstrebig,ab
 ,risk up,gerade hoch,ab
 ,risk wegg (risk wech),unmissverständlich,ab
-,riske Schiuten,Spaten,ab
-,risken,aufrichten,ab
 de,Riuhe,Ruhe,ab
 ,riuhen,ruhen,ab
 ,riuken,riechen,ab
@@ -3330,8 +3357,14 @@ de,Riuten,Fensterscheibe,ab
 ,riutschmieten,"rausschmeißen, herauswerfen",ab
 ,riutstellen,"herausstellen, betonen",ab
 ,roaen,raten,ab
+,röagen,bewegen,ab
+de,Röakekommern,Räucherkammer,ab
 ,roaken,schaffen,ab
+,röaken,räuchern,ab
+dat,Röakeschapp,Räucherschrank,ab
+de,Röakewiehm,Lattengerüst zum Räuchern und Trocknen auf der Bauerndeele,ab
 de,Roat,Rat,ab
+de,Röatekiuhlen,Rötekuhle (zum Wässern des Flachses),ab
 dat,Roathius,Rathaus,ab
 ,rober,rüber,ab
 de,Rock,Rock,ab
@@ -3340,17 +3373,40 @@ de,Roggenbleomen,Kornblume,ab
 dat,Roggenbraut,Roggenbrot,ab
 dat,Roggenfärld,Roggenfeld,ab
 dat,Roggenwief,Kornmuhme (Korngeist),ab
+de,Röhen,Röhre,ab
 de,Roibe,Stoppelrübe,ab
 dat,Roibesoat,Rübensaat,ab
 dat,Roießel,"Rührei, Blödsinn",ab
 ,roihen,rühren,ab
 de,Romen,Kruste auf der Wunde,ab
 de,Rotthacken,Wiedehopfhacke,ab
-de,Ruckoas,unruhiger Mensch,ab
+,röttlick,rötlich,ab
+de,Ruckoas,unruhiger Mensch,hw
 ,ruckoasen,sitzen (unruhig),ab
+de,Rügge,Rücken,ab
+de,Rüggenweihdoage,Rückenschmerzen,ab
+de,Rüggestrang,Kotelettstrang,ab
+de,Rühe,Hund,ab
+,rühen,mausern,ab
+de,Rühenbleomen,Hundskamille,ab
 dat,Rullbrett,"Rollbrett, Holzbrett zur Zigarrenherstellung",ab
 ,rullen,rollen,ab
 de,Rullen,Rolle,ab
+,rümme,herum,ab
+,rümmebölken,herumschreien,ab
+,rümmedöllmern,"schimpfen, stänkern",ab
+,rümmefutken,arbeiten (oberflächlich),ab
+,rümmelungern,herumstreunen,ab
+,rümmenüssken,herumklüngeln,ab
+,rümmeroaken,herumwälzen,ab
+,rümmerutken,unsauber arbeiten,ab
+,rümmesiusängeln,herumfeiern (immer unterwegs sein),ab
+,rümmespalkoren,"herumtoben, lärmen",hw
+,rümmespecken,herumschnüffeln,ab
+,rümmespoiken,herumgeistern,ab
+,rümmestoahn,herumstehen,ab
+,rümmesüen,saufen (tagelang),ab
+,rümmesürlen,herumschleppen,ab
 ,rumooen,rumoren,ab
 ,rumstern,krachen (dumpfes Geräusch),ab
 ,rund,rund,ab
@@ -3363,60 +3419,29 @@ de,Runkel,Runkel,ab
 de,Runkelbleere,Runkelblätter,ab
 de,Runkelkiuhlen,Runkelkuhle,ab
 dat,Runkellauf,Runkelblätter,ab
+,rünner,herunter,ab
+,rünnerfaalen,herunterfallen,ab
 ,rupp,herauf,ab
 ,ruppdössken,draufschlagen,ab
 ,ruppen,rupfen,ab
 ,ruppkurm,"heraufkommen, darauf kommen",ab
 ,rupplasken,draufschlagen (maßlos),ab
+,rüserig (rüserich),unruhig,ab
 dat,Rusk,Binse,ab
 de,Russen,Gitterrost einer Feuerstelle oder Fußabtreter,ab
 de,Rust,Rost,ab
+de,Rüstbaum,Gerüstbaum,ab
+de,Rüstbreere,Gerüstbretter,ab
 ,rusterig (rusterich),rostig,ab
 ,rustern,rosten,ab
+dat,Rüsthult,Gerüstholz,ab
+de,Rüstkiehen,Gerüstkette,ab
+de,Rüstlöker,Gerüstlöcher im Mauerwerk,ab
 de,Rutk,"Kümmerer (in der Entwicklung zurückgebliebenes Tier), Mensch (ungepflegt)",ab
 ,rutken,arbeiten (unsorgfältig),ab
 ,rutkerig (rutkerich),ungepflegt,ab
 ,rutsken,rutschen,ab
 de,Rutsken,Rutsche,ab
-dat,Räap,Seil (dick und lang),ab
-,räaßen,ausruhen,ab
-,röagen,bewegen,ab
-de,Röakekommern,Räucherkammer,ab
-,röaken,räuchern,ab
-dat,Röakeschapp,Räucherschrank,ab
-de,Röakewiehm,Lattengerüst zum Räuchern und Trocknen auf der Bauerndeele,ab
-de,Röatekiuhlen,Rötekuhle (zum Wässern des Flachses),ab
-de,Röhen,Röhre,ab
-,röttlick,rötlich,ab
-de,Rügge,Rücken,ab
-de,Rüggenweihdoage,Rückenschmerzen,ab
-de,Rüggestrang,Kotelettstrang,ab
-de,Rühe,Hund,ab
-,rühen,mausern,ab
-de,Rühenbleomen,Hundskamille,ab
-,rümme,herum,ab
-,rümmebölken,herumschreien,ab
-,rümmedöllmern,"schimpfen, stänkern",ab
-,rümmefutken,arbeiten (oberflächlich),ab
-,rümmelungern,herumstreunen,ab
-,rümmenüssken,herumklüngeln,ab
-,rümmeroaken,herumwälzen,ab
-,rümmerutken,unsauber arbeiten,ab
-,rümmesiusängeln,herumfeiern (immer unterwegs sein),ab
-,rümmespalkoren,"herumtoben, lärmen",ab
-,rümmespecken,herumschnüffeln,ab
-,rümmespoiken,herumgeistern,ab
-,rümmestoahn,herumstehen,ab
-,rümmesüen,saufen (tagelang),ab
-,rümmesürlen,herumschleppen,ab
-,rünner,herunter,ab
-,rünnerfaalen,herunterfallen,ab
-,rüserig (rüserich),unruhig,ab
-de,Rüstbaum,Gerüstbaum,ab
-de,Rüstbreere,Gerüstbretter,ab
-dat,Rüsthult,Gerüstholz,ab
-de,Rüstkiehen,Gerüstkette,ab
-de,Rüstlöker,Gerüstlöcher im Mauerwerk,ab
 de,Rüümte,Weite,ab
 ,saachte,"leise, vorsichtig, langsam",ab
 dat,Saaiefatt,Säbehälter,ab
@@ -3437,12 +3462,15 @@ de,Sabbelaaie,Geschwätz,ab
 de,Sackkoaen,Sackkarre,ab
 de,Sackschörten,Sackschürze,ab
 ,sackvull,Maßeinheit (ein Sack voll …),ab
+dat,Säel,"Seil, Strohhalme zum Binden der Korngarben",ab
+,säggen,sagen,ab
 de,Sammler,Drainagerohr (großer Durchmesser),ab
 de,Sand,Sand,ab
 de,Sandhaupen,Sandhaufen,ab
 de,Sandkassen,Sandkasten,ab
 dat,Sandpoppier,Schmiergelpapier,ab
 ,sannig (sannich),sandig,ab
+de,Särpen,Seife,ab
 ,satt,satt,ab
 de,Satz,Satz,ab
 ,sau,so,ab
@@ -3460,9 +3488,14 @@ de,Sautkring,Brunnenring,ab
 ,sauvull,so voll,ab
 ,sauwatt,sowas,ab
 ,sauwiet,soweit,ab
+de,Schähen,Schere,ab
 ,schall,soll,hw
 de,Schanne,Schande,ab
 dat,Schapp,Schrank,ab
+de,Schärdießen,Einspännerdeichsel,ab
+de,Schärper,Schäfer,ab
+de,Schärperkoahen,Schäferkarre,hw
+de,Schärtel,Scheitel,ab
 ,schasken,rausschmeißen (aus einer Position entlassen),ab
 de,Schateken,Plunder (alte Sachen),ab
 ,schatten,Brauchtum (von einem Hochzeitszug Geschenke erbitten),ab
@@ -3497,9 +3530,9 @@ de,Scheoster,Schuster,ab
 ,scheostert,arbeiten (oberflächlich),ab
 de,Schesee,Straße,ab
 ,schicken,"schicken, senden",ab
-de,Schieben,Scheibe,ab
+de,Schieben,Scheibe,hw
 de,Schiebenstand,Schießstand,ab
-,schiehen,durchscheuern,ab
+,schiehen,durchscheuern,hw
 de,Schien,Schein,ab
 ,schienen,scheinen,ab
 de,Schiermskeraaie,Dämmerung,ab
@@ -3525,12 +3558,14 @@ dat,Schiuer,Schauer,ab
 dat,Schiuer,Regenschauer,ab
 de,Schiuer,Unterstand als Wetterschutz,ab
 de,Schiufiut,Mensch (der ausgenutzt wird),ab
-de,Schiufkoahen,Schubkarre,ab
+de,Schiufkoahen,Schubkarre,hw
 de,Schium,Schaum,ab
 de,Schiumkellen,Schaumkelle,ab
 de,Schiuten,Schaufel,ab
 ,schlaaie,stumpf (Zähne),ab
 de,Schlaaier,Schleier,ab
+de,Schlächter,Schlachter,ab
+de,Schlächteraaie,Schlachterei,ab
 de,Schlackerschnei,Schnee (wässrig),ab
 de,Schlagg (Schlach),Schlag,ab
 ,Schlangenoart eggen,schlangenförmig eggen,ab
@@ -3569,24 +3604,22 @@ de,Schlittscheoh,Schlittschuh,ab
 de,Schliuken,Rachen,ab
 ,schliuten,schließen,ab
 ,schloan,"schlagen, geschlagen",ab
-de,Schloapdreck,Schlafsand (Eingetrocknete Augensekrete in den inneren Augenwinkeln am Morgen),ab
+de,Schloapdreck,Schlafsand (Eingetrocknete Augensekrete in den inneren Augenwinkeln am Morgen),hw
 ,schloapen,schlafen,ab
 de,Schloapmüssen,Schlafmütze,ab
 ,schlobbern,schlabbern,ab
 ,schlodderig (schlodderich),unordentlich,ab
 de,Schlonten,"Sachen (minderwertige oder heruntergekommene Maschinen, Werkzeuge, Kleidung, Gegenstände usw.)",ab
 de,Schlonz,unordentlicher Mensch,ab
-,schlonzig,"unordentlich, oberflächlich, lieblos gemacht",ab
+,schlonzig,"unordentlich, oberflächlich, lieblos gemacht",hw
 dat,Schlott,Türschloss,ab
 de,Schluck,Schnaps,ab
 de,Schluckpullen,Schnapsflasche,ab
-de,Schluppäsen,"Pflaumen (kleine, gelbe)",ab
-de,Schlächter,Schlachter,ab
-de,Schlächteraaie,Schlachterei,ab
 de,Schlüngel,Schlingel,ab
 de,Schlüngelbank,Sitzbank (vornehmlich für Kinder),ab
 de,Schlünze,Flocken in der Milch (von einer Euterentzündung),ab
 de,Schlünze,Auswurf (gelb),ab
+de,Schluppäsen,"Pflaumen (kleine, gelbe)",ab
 ,schlürhen,schlüren,ab
 de,Schlürke,Mund voll,ab
 de,Schlürschluck,Abschiedsschnaps,ab
@@ -3614,14 +3647,14 @@ dat,Schmiehefüer,Schmiedefeuer,ab
 ,schmiehen,schmieden,ab
 ,schmieten,werfen,ab
 ,schmirroages,mittags,ab
+,schmöaken,rauchen,ab
+de,Schmöakepiepen,Tabakpfeife,ab
 ,schmohens,morgens,ab
 ,schmohens freoh,frühmorgens,ab
 ,schmoihe,"sämig, schleimig reden",ab
 de,Schmu,Betrug,ab
 de,Schmulln,Wellfleisch,ab
-,schmöaken,rauchen,ab
-de,Schmöakepiepen,Tabakpfeife,ab
-de,Schmüse,"Erzählungen (seltsam, witzig)",ab
+de,Schmüse,"Erzählungen (seltsam, witzig)",hw
 ,schnaaien,schneien,ab
 ,schnachts,nachts,ab
 ,schnasseln,betrinken,ab
@@ -3653,27 +3686,28 @@ de,Schnitker,Schnitzer,ab
 ,schniuben,"schnäuzen, schnaufen",ab
 de,Schniuten,Schnauze,ab
 de,Schniutenhürbel,Mundharmonika,ab
-de,Schniutenpulli,"Mund-, Nasenschutz gegen Infektionen",ab
+de,Schniutenpulli,"Mund-, Nasenschutz gegen Infektionen",hw
 dat,Schniutweerk,Mundwerk,ab
 de,Schnoabel,Schnabel,ab
 ,schnoaihen,"schnorren, zündeln, verschmoren (Elektrik)",ab
 dat,Schnoieband,Schnürsenkel,ab
 ,schnoien,schnüren,ab
-,schnurhen,schnurren,ab
-,schnurken,schnarchen,ab
-de,Schnurrkatten,"Kinderspielzeug (aus einem Zwirnsfaden und einem großen Knopf), Frau (umgarnend), Katze (mit Wohlbehagen)",ab
-,schnurterig (schnurterich),schmutzig,ab
 de,Schnöppen,Schnupfen,ab
 de,Schnöppenlicker,Person (bei der der Schnupfen aus der Nase hängt und abgeleckt wird),ab
 de,Schnöppenpatt,Schnupfenspur,ab
 de,Schnöppentrogg (Schnöppentroch),Person mit ständig laufender Nase,ab
 de,Schnösel,altkluger Jugendlicher,ab
+,schnurhen,schnurren,ab
+,schnurken,schnarchen,ab
+de,Schnurrkatten,"Kinderspielzeug (aus einem Zwirnsfaden und einem großen Knopf), Frau (umgarnend), Katze (mit Wohlbehagen)",ab
+,schnurterig (schnurterich),schmutzig,ab
 de,Schnüsk,Schnauze,ab
-dat,Schoabeßel,Abgeschabtes,ab
-de,Schoadn,Schaden,ab
+dat,Schoabeßel,Abgeschabtes,hw
+de,Schoadn,Schaden,hw
 de,Schoal,Schal,ab
 dat,Schoalbrett,Schalbrett,ab
 de,Schoalen,Schale(n),ab
+,schöane,schöne,ab
 dat,Schoap,Schaf,ab
 de,Schoapstaal,Schafstall,ab
 dat,Schoar,Pflugschar,ab
@@ -3690,12 +3724,20 @@ de,Schoppen,Schuppen,ab
 de,Schoppendeel,Schuppendurchfahrt,ab
 de,Schoppendür,Schuppentür,ab
 dat,Schoppk,Bund (Stroh oder Heu),ab
+dat,Schöppsel,Schuppen mit Schleppdach (klein),ab
+de,Schörten,Schürze,ab
 ,schoss,sollst,ab
 ,schoss seihn,sollst sehen,ab
 de,Schosstein,Schornstein,ab
 de,Schossteinfeger,Schornsteinfeger,ab
+de,Schöttel,Schüssel,ab
+dat,Schöttelbeoed,Tellerbord,ab
 ,schraaien,schreien,ab
 de,Schraaihaals,Schreihals,ab
+de,Schräem,Griebenschmalz,ab
+de,Schräempott,Schmalztopf,ab
+de,Schräempott,Lippenherpes,ab
+de,Schräemschieter,Mensch (klein),ab
 ,schrappen,schaben,ab
 ,schrapperig (schrapperich),raffgierig,ab
 dat,Schrappsel,Abgeschabtes,ab
@@ -3709,7 +3751,7 @@ dat,Schriefsel,"Schriftstück, Schrieb, Text",ab
 de,Schriefstoben,Schreibstube,ab
 ,schrienen (et schrinnt),brennen von Hautwunden,ab
 de,Schrift,Schrift,ab
-dat,Schrinnsel,Geronnenes,ab
+dat,Schrinnsel,Geronnenes,hw
 ,schriuben,schrauben,ab
 de,Schriuben,Schraube,ab
 de,Schriubenschlürtel,Schraubenschlüssel,ab
@@ -3717,23 +3759,38 @@ de,Schriufstock,Schraubstock,ab
 ,schroaien,versengen,ab
 de,Schrullen,Falten im Gesicht,ab
 ,schrumpeln,schrumpfen,ab
-,schruppen,schrubben (mit dem Schrubber),ab
-de,Schräem,Griebenschmalz,ab
-de,Schräempott,Schmalztopf,ab
-de,Schräempott,Lippenherpes,ab
-de,Schräemschieter,Mensch (klein),ab
+,schruppen,schrubben (mit dem Schrubber),hw
 de,Schucht,Vogelscheuche,ab
 ,schuen,rutschen (gleiten),ab
+,schüen,scheuern,ab
+de,Schüen,Scheune,ab
+dat,Schüht,Bretter vorne und hinten am Kasten-Ackerwagen,ab
 dat,Schullerblatt,Schulterblatt,ab
 de,Schullern,Schulter,ab
+de,Schülligkert (Schüllichkert),Schuldigkeit,ab
+,schüllig (schüllich),schuldig,ab
+,schümen,schäumen,ab
 ,schuppen,"schubsen, stoßen",ab
+de,Schüppen,Schaufel,ab
+,Schüppen teihn,schmollen,hw
+,schüppken,"schubsen, stoßen",ab
 dat,Schuppsel,Frau (schlecht angezogen),ab
-de,Schusseligkert,Unaufmerksamkeit,ab
-de,Schwaalm,Schwalben,ab
+de,Schürbössen,Scheuerbürste,ab
+dat,Schürbrett,Handbrett (Maurerwerkzeug),ab
+de,Schürken,Babymimik (unbewusst),ab
+,schürköppen,Kopfschütteln,ab
+de,Schürte,Schuss (Wachstum),ab
+dat,Schüssel,Kuhgatter im Stall,ab
+de,Schusseligkert,Unaufmerksamkeit,hw
+,schüttkern,schießen (zum Spaß),ab
+de,Schwaalm,Schwalben,hw
 ,schwaat,schwarz,ab
 ,schwack,schwach,ab
 de,Schwamm,Schwamm,ab
 ,schwanke,schnell,ab
+de,Schwärt,Schweiß,ab
+,schwärten,schwitzen,ab
+de,Schwärtfoite,Schweißfüße,ab
 dat,Schwattbraut,Schwarzbrot,ab
 de,Schwattbrautskossen,Schwarzbrotkruste,ab
 ,schwattbunt,schwarzbunt (Kühe),ab
@@ -3741,7 +3798,7 @@ de,Schwattdoorn,Schlehe,ab
 de,Schwattdreoßel,Schwarzdrossel,ab
 ,schwattken,schwärzen,ab
 de,Schwattwottel,Schwarzwurzel,ab
-de,Schwebelsticken,Streichhölzer,ab
+de,Schwebelsticken,Streichhölzer,hw
 de,Schween,"Geschwür, Furunkel",ab
 ,schwemmen,schwimmen,ab
 de,Schwengel,Schwengel,ab
@@ -3776,36 +3833,7 @@ de,Schwoarm,"Schwarm, Wasserdampf",ab
 ,schwoigen,schwer atmen,ab
 ,schwucken,schwappen (hin und her),ab
 de,Schwungpleog,Pflug (handgeführt mit einem Stützrad),ab
-de,Schwärt,Schweiß,ab
-,schwärten,schwitzen,ab
-de,Schwärtfoite,Schweißfüße,ab
 de,Schwürpen,Peitsche,ab
-de,Schähen,Schere,ab
-de,Schärdießen,Einspännerdeichsel,ab
-de,Schärper,Schäfer,ab
-de,Schärperkoahen,Schäferkarre,ab
-de,Schärtel,Scheitel,ab
-,schöane,schöne,ab
-dat,Schöppsel,Schuppen mit Schleppdach (klein),ab
-de,Schörten,Schürze,ab
-de,Schöttel,Schüssel,ab
-dat,Schöttelbeoed,Tellerbord,ab
-,schüen,scheuern,ab
-de,Schüen,Scheune,ab
-dat,Schüht,Bretter vorne und hinten am Kasten-Ackerwagen,ab
-,schüllig (schüllich),schuldig,ab
-de,Schülligkert (Schüllichkert),Schuldigkeit,ab
-,schümen,schäumen,ab
-de,Schüppen,Schaufel,ab
-,Schüppen teihn,schmollen,ab
-,schüppken,"schubsen, stoßen",ab
-dat,Schürbrett,Handbrett (Maurerwerkzeug),ab
-de,Schürbössen,Scheuerbürste,ab
-de,Schürken,Babymimik (unbewusst),ab
-,schürköppen,Kopfschütteln,ab
-de,Schürte,Schuss (Wachstum),ab
-dat,Schüssel,Kuhgatter im Stall,ab
-,schüttkern,schießen (zum Spaß),ab
 ,se,sie,ab
 de,See,See,ab
 ,sei,sie,ab
@@ -3861,43 +3889,55 @@ de,Sittegaus,Besucherin (die übermäßig lange bleibt),ab
 ,sitten,sitzen,ab
 ,siuer,sauer,ab
 de,Siuerbühl,"Schweinegehacktes mit Roggenmehl vermischt (angesäuert, als Beigabe zum Eintopf)",ab
-de,Siuernkaul,Sauerkraut,ab
-de,Siuernkaulspott,Sauerkrauttopf aus Ton,ab
+de,Siuernkaul,Sauerkraut,hw
+de,Siuernkaulspott,Sauerkrauttopf aus Ton,hw
 ,siugen,saugen,ab
 ,siupen,saufen,ab
 de,Siupstängel,Säufer,ab
-,Sius un Brius,Saus und Braus,ab
 ,siusen,sausen,ab
 ,siusengeln,herumlungern,ab
+,Sius un Brius,Saus und Braus,ab
 de,Soagebock,Sägebock,ab
 ,soagen,sägen,ab
 de,Soagen,Säge,ab
 de,Soagespoine,Sägespäne,ab
 de,Soake,Sache,ab
 de,Soake,Sache,ab
+de,Söameraaien,Sämereien,ab
 dat,Soarg,Sarg,ab
 de,Soargnoagel,Sargnagel (Zigarette),ab
 de,Soat,Saat,ab
 de,Soatketuffel,Saatkartoffel,ab
+de,Söcken,Socken,ab
 ,soiken,suchen,ab
 ,soite,süß,ab
 de,Soiten,"Likör, Kuss",ab
 de,Soitigkert (Soitichkert),Süßigkeit,ab
+dat,Sölt,Salz,ab
+,sölte,salzig,hw
 de,Sommer,Sommer,ab
 de,Sommerdagg (Sommerdach),Sommertag,ab
 ,sommerdoages,sommertags,ab
 de,Sommerroggen,Sommerroggen,ab
+de,Sönndagg (Sönndach),Sonntag,ab
+dat,Sönndoageseten,Sonntagsessen,ab
+de,Sönndoageshaals,Luftröhre,ab
 ,sonnerboar,sonderbar,ab
 ,sonnerlick,sonderlich,ab
 ,sonnern,sondern,ab
+de,Sööle,Salzlakenbehältnis,ab
+de,Sööle,Salzlake (zum Pökeln),ab
 de,Soorgen,Sorgen,ab
 de,Soorgensteohl,Ohrensessel,ab
+dat,Sörpekaalf,Kalb (ganz jung),ab
+,sörpen,tränken,ab
 ,spaaien,spucken,ab
 de,Spaaigel,Spiegel,ab
 ,spalkoen,toben,ab
 de,Spangen,"Spange, Querverbindung im Dachstuhl",ab
 dat,Spann,Dachsparrenpaar,ab
 de,Spannsoagen,Säge mit Spannschnur,ab
+de,Spärken,Speiche,ab
 ,speckeliehen,spekulieren,ab
 de,Speckschwoaen,Speckschwarte,ab
 de,Specksiehen,Speckseite (vor allem vom Schwein),ab
@@ -3960,7 +4000,8 @@ dat,Spoiksel,Spuk,ab
 ,spoilen,spülen,ab
 de,Spoilstein,Spülstein,ab
 dat,Spoilwoater,Spülwasser,ab
-de,Sport,Sport,ab
+de,Sport,Sport,hw
+,spöttsk,"spöttisch, gering",ab
 de,Spraaien,Stare,ab
 ,spreken,sprechen,ab
 de,Spricker,Reisig zum Feuer anzünden,ab
@@ -3973,16 +4014,15 @@ de,Sproake,Sprache,ab
 de,Sprützen,Spitze,ab
 dat,Sprützenhius,"Spritzenhaus (Feuerwehrgerätehaus), Arrestzelle",ab
 de,Spucht,Mensch (schmächtig),ab
-de,Spuhen,Spuren,ab
-,spuhen,gehorchen,ab
-de,Spärken,Speiche,ab
-,spöttsk,"spöttisch, gering",ab
 ,spüen,spüren,ab
+de,Spuhen,Spuren,hw
+,spuhen,gehorchen,hw
 de,Staal,Stall,ab
 de,Staaldür,Stalltür,ab
 de,Staalhoasen,Kaninchen,ab
 de,Staallucht,Stalllaterne,ab
-de,Stadt,Stadt,ab
+,stäbig,"stabil, stämmig",ab
+de,Stadt,Stadt,hw
 de,Stadt; de Stehe,Stadt,ab
 dat,Stammenne,Flaschenhals,ab
 dat,Stammhius,Stammhaus,ab
@@ -3994,7 +4034,14 @@ dat,Standweer,Hochdruckwetterlage (beständig),ab
 de,Stangen,Stange,ab
 de,Stangen,"Schwein (jung, kein Ferkel)",ab
 de,Stangenknail,Zimtstange,ab
+de,Stänkeraaie,Stänkerei,ab
 dat,Stankett,Staketenzaun,ab
+de,Stänner,Ständer,ab
+,stännern,herumstehen,ab
+dat,Stännerweerk,Fachwerk,ab
+,stännig (stännich),ständig,ab
+de,Stärt; de Stäre,Schwanz,ab
+de,Stärtreimen,Schwanzriemen (Pferdegeschirr),ab
 de,Statiuer,Statur,ab
 de,Steckroibe,Steckrübe,ab
 de,Steckroibenscheole,landwirtschaftliche Fachschule,ab
@@ -4003,8 +4050,8 @@ dat,Steekiisen,Stecheisen,ab
 dat,Steerbenswoort,Sterbenswort,ab
 dat,Steffkiend,Stiefkind,ab
 de,Steffmoime,Stiefmutter,ab
-de,Steffvoar,Stiefvater,ab
 de,Stefföllern,Stiefeltern,ab
+de,Steffvoar,Stiefvater,ab
 de,Stein,Stein,ab
 ,steken,stechen,ab
 ,stellen,stellen,ab
@@ -4039,8 +4086,8 @@ de,Stillenfreidagg (Stillenfreidach),Karfreitag,ab
 ,stillken,heimlich,ab
 de,Stillkenbieter,Wadenbeißer,ab
 ,stimmen,stimmen,ab
-,stinken (stünk),stinken (stank),ab
 ,stinkenfiul,stinkfaul,ab
+,stinken (stünk),stinken (stank),ab
 de,Stinkeraaie,Stinkerei,ab
 ,stippen,"nieseln, tunken",ab
 de,Stippen,"Pickel, Punkt (kleiner Fleck)",ab
@@ -4071,11 +4118,15 @@ de,Stockneegelken,Stocknelken,ab
 ,stockstiebe,stocksteif,ab
 dat,Stockweerk,Stockwerk,ab
 de,Stoff,"Staub, Stoff",ab
-de,Stoffbaalen,Stoffballen,ab
+de,Stoffbaalen,Stoffballen,hw
+de,Stökel,Schürhaken,ab
+,stökeln,"stochern, aufwiegeln, anstoßen",ab
 de,Stoobm,Stube (Wohnzimmer),ab
 de,Stoppekoorf,Korb mit Stopfsachen,ab
+de,Stöppel,Stoppel,ab
 ,stoppen,stopfen,ab
 de,Stoppnoartel,Stopfnadel,ab
+,störten,stoßen,ab
 ,stramme,"stramm, volltrunken",ab
 ,strammen,"ziehender Schmerz, einschnüren (zu enge Kleidung)",ab
 de,Stratz,Spritzer,ab
@@ -4112,13 +4163,19 @@ de,Stroate,Straße,ab
 de,Stroatengroaben,Straßengraben,ab
 de,Stroatenoarberter,Straßenarbeiter,ab
 de,Stroten,Speiseröhre,ab
+,strükeln,straucheln,ab
 ,strullen,"urinieren, Flüssigkeit läuft im Strahl",ab
 dat,Strumpband,Strumpfband,ab
-de,"Strunk, Strünke",der Strunk,ab
-,strunzen,angeben,ab
-,strükeln,straucheln,ab
 de,Strümpe,Strümpfe,ab
-de,Studierte,Akademiker,ab
+de,"Strunk, Strünke",der Strunk,hw
+,strunzen,angeben,ab
+dat,Stücke,"Stück, Ackerstück",ab
+de,Studierte,Akademiker,hw
+dat,Stüer,Steuer (Lenkvorrichtung),ab
+de,Stüer,Steuer (Finanzabgaben),ab
+de,Stüern,Steuern (Finanzabgaben),ab
+,stührnen,stöhnen,ab
+de,Stülpen,Deckel,ab
 ,stulte,stolz,ab
 ,stump,stumpf,ab
 de,Stump,Stumpf,ab
@@ -4126,50 +4183,15 @@ de,Stunne,Stunde,ab
 de,Sturmhoaken,Sturmhaken,ab
 de,Sturmliuken,Sturmluke,ab
 de,Sturmlüchen,Petroleumlampe,ab
-de,Stutz (uppen Stutz),Augenblick (sofort),ab
-,stäbig,"stabil, stämmig",ab
-de,Stänkeraaie,Stänkerei,ab
-de,Stänner,Ständer,ab
-,stännern,herumstehen,ab
-dat,Stännerweerk,Fachwerk,ab
-,stännig (stännich),ständig,ab
-de,Stärt; de Stäre,Schwanz,ab
-de,Stärtreimen,Schwanzriemen (Pferdegeschirr),ab
-de,Stökel,Schürhaken,ab
-,stökeln,"stochern, aufwiegeln, anstoßen",ab
-de,Stöppel,Stoppel,ab
-,störten,stoßen,ab
-dat,Stücke,"Stück, Ackerstück",ab
-dat,Stüer,Steuer (Lenkvorrichtung),ab
-de,Stüer,Steuer (Finanzabgaben),ab
-de,Stüern,Steuern (Finanzabgaben),ab
-,stührnen,stöhnen,ab
-de,Stülpen,Deckel,ab
 dat,Stürnzel,Neugeborenengeschenk,ab
 de,Stürterbock,Stotterer (abfällig),ab
 ,stürtern,stottern,ab
 de,Stüssel,Stütze,ab
 ,stüsseln,"abstützen (behelfsmäßig), stapeln (unordentlich)",ab
 de,Stütk,Schwanzwurzel (bei Geflügel),ab
+de,Stutz (uppen Stutz),Augenblick (sofort),ab
 de,Subbelaaie,Schnitt (mit stumpfem Messer oder Säge),ab
 ,subbeln,schneiden (mit stumpfem Messer),ab
-de,Sump,Sumpf,ab
-dat,Sutken,Schmierfink,ab
-,szau,so,ab
-dat,Säel,"Seil, Strohhalme zum Binden der Korngarben",ab
-,säggen,sagen,ab
-de,Särpen,Seife,ab
-de,Söameraaien,Sämereien,ab
-de,Söcken,Socken,ab
-dat,Sölt,Salz,ab
-,sölte,salzig,ab
-de,Sönndagg (Sönndach),Sonntag,ab
-dat,Sönndoageseten,Sonntagsessen,ab
-de,Sönndoageshaals,Luftröhre,ab
-dat,Sörpekaalf,Kalb (ganz jung),ab
-,sörpen,tränken,ab
-de,Sööle,Salzlakenbehältnis,ab
-de,Sööle,Salzlake (zum Pökeln),ab
 ,süen,säuern,ab
 de,Süger,Drainagerohr (kleiner Durchmesser),ab
 de,Süke,Seuche,ab
@@ -4182,6 +4204,7 @@ de,Sülte,Sülze,ab
 ,sümen,säumen,ab
 ,sümms,"selber, selbst",ab
 ,sümmsbacken,selbstgebacken,ab
+de,Sump,Sumpf,ab
 de,Sünne,"Sonne, Sünde",ab
 dat,Sünnekindken,Marienkäfer (oder auch komischer Mensch),ab
 de,Sünnematen,Martinstag,ab
@@ -4195,6 +4218,8 @@ dat,Sürgeschwien,Schwein (weiblich),ab
 ,sürlk,"verdorben (Lebensmittel), säuerlich",ab
 ,süss,"früher, sonst",ab
 dat,Süster,Schwester,ab
+dat,Sutken,Schmierfink,ab
+,szau,so,ab
 ,taalfoitken,"zappeln mit Beinen (hilflos, ohne Bodenberührung)",ab
 de,Taalg,Talg,ab
 de,Taalgen,Zweig,ab
@@ -4206,10 +4231,12 @@ de,Tadder,Zittern,ab
 ,tamm,zahm,ab
 ,tamm moaken,zähmen,ab
 de,Tante,Tante,ab
+de,Tänte,Tand,ab
 ,tappen,zapfen,ab
 de,Tappen,Zapfen,ab
 dat,Tappenlock,Zapfenloch (im Fachwerk),ab
 ,tapziehen,tapezieren,ab
+de,Tärnen,Zeh,ab
 de,Taske,Frau (zickig),ab
 de,Tasken,Tasche,ab
 dat,Taskendeok,Taschentuch,ab
@@ -4233,27 +4260,19 @@ de,Teilierpel,Teelöffel,ab
 dat,Teisierbe,Teesieb,ab
 ,tellen,zählen,ab
 de,Teller,Teller,ab
-,Teller vull,Teller voll,ab
 dat,Tellerbeoed,Tellerbord,ab
 dat,Tellerschapp,Tellerschrank,ab
-dat,Telt,Zelt,ab
-,telten,zelten,ab
+,Teller vull,Teller voll,ab
+dat,Telt,Zelt,hw
+,telten,zelten,hw
 de,Tenöster,"Tornister, Schulranzen, Persönlichkeit (mit Ecken und Kanten)",ab
 ,teo,"zügig, zu",ab
-,teo bunt,unerträglich,ab
-,teo Enne,"zu Ende, Schluss",ab
-,teo kort,zu kurz,ab
-,teo korte kurm,"zu kurz kommen, benachteiligen",ab
-,teo Liebe,zu Leibe,ab
-,teo loate,zu spät,ab
-,teo teo,zügig,ab
-,teo tweien,zu zweit,ab
-,teo vierl,zu viel,ab
 ,teoaaist,zuerst,ab
 ,teoballern,"verschlämmt (Acker), zuknallen",ab
 ,teobienen,zubinden,ab
 ,teobottern,zubuttern,ab
 ,teobringen,zubringen,ab
+,teo bunt,unerträglich,ab
 de,Teodecke,Zudecke,ab
 ,teodecken,zudecken,ab
 ,teodeon,"anreichen (Heu oder Korngarben), zutun",ab
@@ -4262,13 +4281,14 @@ dat,Teodeon,Zutun,ab
 ,teodrepen,zutreffen,ab
 ,teodrücken,zudrücken,ab
 ,teoe,"zu, geschlossen",ab
+,teo Enne,"zu Ende, Schluss",ab
 de,Teofall,Zufall,ab
+,teofällig (teofällich),zufällig,ab
 ,teofeoern,zufüttern,ab
 de,Teoflucht,Zuflucht,ab
 ,teofreisen,zufrieren,ab
 ,teofreten,zufressen,ab
 ,teofriehe,zufrieden,ab
-,teofällig (teofällich),zufällig,ab
 de,Teogang,Zugang,ab
 ,teogange,"zugange, aktiv",ab
 ,teogeoe,zugute,ab
@@ -4278,7 +4298,7 @@ de,Teogang,Zugang,ab
 ,teogriepen,zugreifen,ab
 ,teogrunne,zugrunde,ab
 ,teogürlen,zurieseln,ab
-,teohanten,"beizeiten, rechtzeitig",ab
+,teohanten,"beizeiten, rechtzeitig",hw
 ,teohaupe,zusammen,ab
 ,teohaupebienen,zusammenbinden,ab
 ,teohaupeküen,verkuppeln,ab
@@ -4296,21 +4316,25 @@ de,Teogang,Zugang,ab
 ,teoknörpen,zuknöpfen,ab
 ,teokoken,zukochen,ab
 ,teokoppe stiegen,zu Kopfe steigen,ab
+,teo kort,zu kurz,ab
+,teo korte kurm,"zu kurz kommen, benachteiligen",ab
 ,teoküen,zureden,ab
+,teoläen,dazulernen,ab
 ,teolaupen,zulaufen,ab
 ,teoleggen,zulegen,ab
 ,teoleibe,zuliebe,ab
 ,teolest,zuletzt,ab
+,teo Liebe,zu Leibe,ab
+,teo loate,zu spät,ab
 ,teoloaten,"zulassen, erlauben",ab
 ,teolustern,zuhören,ab
-,teoläen,dazulernen,ab
 ,teomeote,zumute,ab
 ,teomeoten,zumuten,ab
 ,teominnest,zumindest,ab
 ,teomoaken,zumachen,ab
 ,teomüen,zumauern,ab
+,teonaaien,zunähen,hw
 ,teon annern,zum anderen,ab
-,teonaaien,zunähen,ab
 ,teonichte moaken,vernichten,ab
 ,teonierm,zunehmen,ab
 ,teooilen,Überblick verlieren,ab
@@ -4325,6 +4349,7 @@ de,Teogang,Zugang,ab
 ,teoreopen,zurufen,ab
 ,teorichen,zurichten,ab
 ,teoroaen,zuraten,ab
+,teosäggen,zusagen,ab
 ,teoschanne,zuschanden,ab
 ,teoscheostern,zuschustern,ab
 ,teoschicken,zuschicken,ab
@@ -4341,25 +4366,27 @@ de,Teoschlagghommer (Teoschlachhommer),Vorschlaghammer (beim Schmied und Auktion
 ,teospierlen,zuspielen,ab
 de,Teostand,Zustand,ab
 ,teostanne,zustande,ab
+,teostännig (teostännich),zuständig,ab
 ,teosteken,"zustechen, zustecken",ab
 ,teostimmen,zustimmen,ab
 ,teostoahn,"zustehen, aussehen",ab
 ,teostoppen,zustopfen,ab
-,teostännig (teostännich),zuständig,ab
 ,teostörten,zustoßen,ab
-,teosäggen,zusagen,ab
 ,teoteihn,zuziehen,ab
+,teo teo,zügig,ab
 ,teoteosetten,zuzusetzen (nichts zuzusetzen),ab
 ,teotreoen,zutrauen,ab
+,teo tweien,zu zweit,ab
 ,teoulleraaist,zuallererst,ab
 ,teoullerlest,zuallerletzt,ab
 ,teovedeinen,dazuverdienen,ab
 ,teovelässig,zuverlässig,ab
 de,Teovesicht,Zuversicht,ab
 dat,Teovetreoen,Zuvertrauen,ab
+,teo vierl,zu viel,ab
 de,Teowass,"Zuwachs, Nachwuchs",ab
 ,teowassen,zuwachsen,ab
-,teowielen,zuweilen,ab
+,teowielen,zuweilen,hw
 ,teowiernen,"zuwider, widerwärtig",ab
 ,teowossen,zugewachsen,ab
 ,ticken,stoßen (leicht),ab
@@ -4382,7 +4409,7 @@ de,Tietvedrief,Zeitvertreib,ab
 de,Tiffen,Hund (klein),ab
 de,Timmerlühe,Zimmerleute,ab
 de,Timmermann,Zimmermann,ab
-de,Timmermannsbielen,Zimmermannsbeil mit abgewinkeltem Stiel (diente zum seitlichen Behauen von Sparren und Balken) abgewinkeltem Stiel.,ab
+de,Timmermannsbielen,Zimmermannsbeil mit abgewinkeltem Stiel (diente zum seitlichen Behauen von Sparren und Balken) abgewinkeltem Stiel.,hw
 ,timmern,zimmern,ab
 de,Timmerplass,Zimmerplatz,ab
 de,Timpen,"Ecke, Spitze, Zipfel",ab
@@ -4410,29 +4437,32 @@ de,Toahnpiene,Zahnschmerzen,ab
 dat,Toahnrad,Zahnrad,ab
 de,Toahnwottel,Zahnwurzel,ab
 ,toahr,zäh,ab
+,töamen,zäumen,ab
 ,tocken,locken,ab
-de,Togg (Toch),Zug,ab
+de,Töge,"Unsinn, Unarten",ab
 de,Toggbank (Tochbank),Ziehbank (Werkbank zum Festklemmen von Holz),ab
 dat,Togggeschirr (Tochgeschirr),Zuggeschirr,ab
-de,Togghoarken (Tochhoaken),Holzharke mit langen Zinken zum Garben ziehen,ab
+de,Togghoarken (Tochhoaken),Holzharke mit langen Zinken zum Garben ziehen,hw
 dat,Toggiisen (Tochiisen),Zugeisen,ab
 dat,Toggmest (Tochmest),Ziehmesser,ab
 dat,Toggräap (Tochräap),Zugseil beim Gespann,ab
+de,Togg (Toch),Zug,ab
 ,toiben,warten,ab
+,töllig (töllich),zöllig,ab
 de,Tommen,Kleiderhaken,ab
 de,Tonten,"Kinder (abfällig), Haare (lang)",ab
 de,Toorf,Torf,ab
-,Toorf ringen,Torf ringen (Torfstücke ringförmig zum Trocknen aufstapeln),ab
-,Toorf steken,Torf stechen,ab
 de,Toorfkassen,Torfkiste,ab
 de,Toorfkiuhlen,Torfkuhle,ab
 dat,Toorfmest,Torfmesser,ab
 de,Toorfmull,Torfmull,ab
 de,Toorfplass,Torfplatz,ab
 de,Toorfring (4 Potthüser),Torfring (24 Torfstücke ringförmig zum Kegel aufgestapelt),ab
+,Toorf ringen,Torf ringen (Torfstücke ringförmig zum Trocknen aufstapeln),ab
 de,Toorfspoan,Torfspaten,ab
 de,Toorfstaal,Torflager,ab
-de,Toorn,Turm,ab
+,Toorf steken,Torf stechen,ab
+de,Toorn,Turm,hw
 de,Torrer,"Verwirrung, Streit",ab
 ,torrerig (torrerich),verheddern,ab
 ,torrern,verstreuen,ab
@@ -4469,15 +4499,13 @@ de,Troaen,Wagenradspuren (tiefe),ab
 de,Troan,Tran,ab
 ,troanen,tränen,ab
 de,Troanen,Tränen,ab
-de,Trogg (Troch),Trog,ab
-de,Tropp,"Trupp, Gruppe, Herde, Rudel",ab
-,trotzdem,trotzdem,ab
-de,Trummel,Trommel,ab
-,trummeln,trommeln,ab
 ,tröasten,trösten,ab
 de,Tröate,Tröte,ab
 ,tröaten,tröten,ab
 de,Tröateraaie,Tröterei,ab
+de,Trogg (Troch),Trog,ab
+de,Tropp,"Trupp, Gruppe, Herde, Rudel",ab
+,trotzdem,trotzdem,ab
 de,Trüen,Futterschöpfkelle,ab
 ,trügge,zurück,ab
 ,trüggebieten,"zurückbeißen, antworten (scharf)",ab
@@ -4508,24 +4536,41 @@ de,Trüen,Futterschöpfkelle,ab
 ,trüggeteihn,zurückziehen,ab
 de,Trüggewegg (Trüggewech),"Rückweg, Heimweg",ab
 ,trüggewiesen,zurückweisen,ab
+de,Trummel,Trommel,ab
+,trummeln,trommeln,ab
 de,Tucht,"Zucht, Gegend (einsam und ablegen)",ab
+,tüchten,züchten,ab
 dat,Tuchthius,Zuchthaus,ab
 dat,Tuchtschwien,Zuchtschwein,ab
 de,Tuck,"Stoß, Augenblick",ab
 de,Tucken,"Kleinigkeit (Maß, Zeit, Entfernung usw.)",ab
 de,Tucksache,Augenblickssache,ab
 ,tuckschullern,Schulterzucken,ab
-dat,Tull,Zoll,ab
-de,Tullstock,Zollstock,ab
+,tüddelig (tüddelich),verwirrt,ab
+de,Tüge,Zeuge,ab
+,tügen,zeugen,ab
+,tülken,pinkeln (bei kleinen Kindern),ab
+dat,Tull,Zoll,hw
+de,Tüllen,Spitze für Zigarren oder Spritzbeutel,ab
+de,Tullstock,Zollstock,hw
 de,Tungen,Zunge,ab
 de,Tungenbreker,Zungenbrecher,ab
 de,Tungenschlagg (Tungenschlach),Zungenschlag,ab
 de,Tunnen,Tonne,ab
 de,Tunnenwulf,Mensch (dick und ungepflegt),ab
 dat,Tuppen,Wanne,ab
+de,Türgel,Zügel,ab
+,türgeln,zügeln,ab
 ,turken,"gelingen, rauchen",ab
 ,turnen,turnen,ab
 de,Turteldiuben,"Taubenart, Liebespärchen",ab
+,tüsken,zwischen,ab
+,tüskendür,zwischendurch,ab
+,tüskenküen,dazwischenreden,ab
+,tüskensteken,einmischen,ab
+de,Tüskentiet,Zwischenzeit,ab
+de,Tüügbössen (Tüüchbössen),Kleiderbürste,ab
+dat,Tüüg (Tüüch),"Kleidung, Zeug",ab
 ,twaaie,"entzweit, zerbrochen, kaputt",ab
 ,twaaiebreken,zerbrechen,ab
 ,twaaiedrücken,kaputtdrücken,ab
@@ -4536,6 +4581,8 @@ de,Turteldiuben,"Taubenart, Liebespärchen",ab
 ,twaaieschniehen,kaputtschneiden,ab
 de,Twang,Zwang,ab
 ,twangswiese,zwangsweise,ab
+de,Twärnt,Zwirn,ab
+de,Twärntsfohmt,Zwirnsfaden,ab
 ,twass,quer,ab
 ,twassaf,querab,ab
 de,Twassbroaken,"Quertreiber, Seitentrieb",ab
@@ -4543,14 +4590,14 @@ de,Twasskopp,Querkopf,ab
 ,twassköppig (twassköppich),querköpfig,ab
 ,twassober,querüber,ab
 de,Twassriergel,Querriegel (Kämpfer),ab
-de,Twasstroate,Querstraße,ab
-,"twei, tweie",zwei,ab
+de,Twasstroate,Querstraße,hw
 ,tweibeinig (tweibeinich),zweibeinig,ab
 ,tweimoal,zweimal,ab
 ,tweischlöaperiget Berre,Doppelbett,ab
 de,Tweispänner,Gespann mit zwei Zugtieren,ab
 ,tweispännig eten,essen mit Messer und Gabel,ab
 ,tweistöckig (tweistöckich),zweistöckig,ab
+,"twei, tweie",zwei,ab
 de,Twieback,Zwieback,ab
 de,Twieg (Twiech),Zweig,ab
 ,twillen,gabeln,ab
@@ -4558,36 +4605,16 @@ de,Twillen,"Astgabel, Gummiflitsche",ab
 de,Twillinge,Zwillinge,ab
 ,twingen,zwingen,ab
 de,Twingen,Schraubzwinge,ab
-de,Twärnt,Zwirn,ab
-de,Twärntsfohmt,Zwirnsfaden,ab
-de,Tänte,Tand,ab
-de,Tärnen,Zeh,ab
-,töamen,zäumen,ab
-de,Töge,"Unsinn, Unarten",ab
-,töllig (töllich),zöllig,ab
-,tüchten,züchten,ab
-,tüddelig (tüddelich),verwirrt,ab
-de,Tüge,Zeuge,ab
-,tügen,zeugen,ab
-,tülken,pinkeln (bei kleinen Kindern),ab
-de,Tüllen,Spitze für Zigarren oder Spritzbeutel,ab
-de,Türgel,Zügel,ab
-,türgeln,zügeln,ab
-,tüsken,zwischen,ab
-,tüskendür,zwischendurch,ab
-,tüskenküen,dazwischenreden,ab
-,tüskensteken,einmischen,ab
-de,Tüskentiet,Zwischenzeit,ab
-dat,Tüüg (Tüüch),"Kleidung, Zeug",ab
-de,Tüügbössen (Tüüchbössen),Kleiderbürste,ab
+,üben,üben,ab
+de,Übunge,Übung,ab
 ,ull,"schon, bereits",ab
-,ull wier,schon wieder,ab
+,ullärne,alleine,ab
 de,Ulldagg (Ulldach),Alltag,ab
 ,ulldoages,alltags,ab
 dat,Ulldoagestüüg (Ulldoagestüüch),Alltagskleidung,ab
 ,ulle,alle,ab
-,ulle Doage,alle Tage,ab
 ,ullebeste,allerbeste,ab
+,ulle Doage,alle Tage,ab
 ,ullehand,allerhand,ab
 ,ullehaupe,alle zusammen,ab
 ,ulleleste,allerletzte,ab
@@ -4597,12 +4624,73 @@ dat,Ulldoagestüüg (Ulldoagestüüch),Alltagskleidung,ab
 ,ullhante,"manchmal, hin und wieder",ab
 ,ullteo,allzu,ab
 ,ullteovierl,allzu viel,ab
-,ullärne,alleine,ab
+,ull wier,schon wieder,ab
+,ümme,um,ab
+,ümmebäarn,umrauschen (bei Sauen),ab
+,ümmebienen,umbinden,ab
+,ümmebloaen,umblättern,ab
+,ümmeböagen,umbiegen,ab
+,ümmeböcken,"umbocken (Ziege oder Schaf), Meinung ändern",ab
+,ümmebreken,umbrechen,ab
+,ümmebringen,umbringen,ab
+,ümmebullen,umbullen (bei Rindern),ab
+,ümmebündken,wechseln von Windeln,ab
+,ümmedenken,umdenken,ab
+,ümmedeon,"umtun, bekehren, ändern",ab
+,ümmedörpen,umtaufen,ab
+,ümmedraaihen,umdrehen,ab
+,ümmedregen,umtragen,ab
+,ümmefaalen,umfallen,ab
+,ümmefoaten,umfassen,ab
+,ümmefoihen,umfahren,ab
+,ümmefüllen,umfüllen,ab
+de,Ümmegang,Umgang (miteinander),ab
+,ümmegeiten,umgießen,ab
+,ümmegoahn,"behandeln (Umgang), umgehen",ab
+,ümmegroaben,umgraben,ab
+de,Ümmehang,Umhang,ab
+,ümmehangen,umhängen,ab
+,ümmehenn,umhin,ab
+,ümmehöapen,umschichten (von Heuhaufen bei unbeständiger Witterung),ab
+,ümmehöarn,"umhören, erkundigen",ab
+,ümmehocken,Getreidegarben neu zum Trocknen aufstellen,ab
+,ümmekieken,umsehen,ab
+,ümmekippen,umkippen,ab
+,ümmeknicken,umknicken,ab
+,ümmekrempeln,umkrempeln,ab
+,ümmekurm,umkommen,ab
+de,Ümmeleitunge,Umleitung,ab
+,ümmemeten,messen (erneut vermessen),ab
+,ümmepiußen,umpusten,ab
+,ümmeploigen,umpflügen,ab
+,ümmeracken,umstoßen (unachtsam),ab
+,ümmeroaken,umwerfen,ab
+,ümmeroihen,umrühren,ab
+,ümmesau,umso,ab
+,ümmeschichtig (ümmeschichtich),abwechselnd,ab
+de,Ümmeschlagg,"Umschlag, Umsatz",ab
+,ümmeschmieten,umwerfen,ab
+,ümmeschwenken,umschwenken,ab
+,ümmesetten,umsetzen,ab
+,ümmesöamen,umsäumen,ab
+,ümmesoiken,sortieren,ab
+,ümmespringen,umspringen,ab
+de,Ümmestand; de Ümmestänne,Umstand,ab
+,ümmeständlich,umständlich,ab
+de,Ümmestänne,Schwangerschaft,ab
+,ümmestiegen,umsteigen,ab
+,ümmestülpen,umstülpen,ab
+,ümmesüss,umsonst,ab
+,ümmeteihn,umziehen,ab
+,ümmeteo,herum,ab
+,ümmetiusken,umtauschen,ab
+de,Ümmewegg (Ümmewech),Umweg,ab
+,ümmewesseln,umwechseln,ab
 ,un,und,ab
+,unbännig (unbännich),unbändig,ab
 ,unbehulpen,unbeholfen,ab
 ,unbesoorget,unbesorgt,ab
 ,unbestännig (unbestännich),unbeständig,ab
-,unbännig (unbännich),unbändig,ab
 ,undankboar,undankbar,ab
 ,undütlig (undütlich),undeutlich,ab
 ,ungedüllig (ungedüllich),ungeduldig,ab
@@ -4616,6 +4704,53 @@ de,Unkel,Onkel,ab
 ,unkloar,unklar,ab
 ,unlente,"unvernünftig, unverschämt",ab
 de,Unminske,Unmensch,ab
+,ünnen,unten,ab
+,ünner,unter,ab
+,ünnerbienen,unterbinden,ab
+,ünnerboiten,einheizen,ab
+de,Ünnerböxen,Unterhose,ab
+,ünnerbreken,unterbrechen,ab
+,ünnerdeilen,unterteilen,ab
+,ünnerdiuken,untertauchen,ab
+,ünnerdrücken,unterdrücken,ab
+,ünnerdür,untendurch,ab
+de,Ünnererdsken,Lebewesen (im Erdboden lebend),ab
+,ünnerfüünsk,hinterhältig,ab
+de,Ünnergang,Untergang,ab
+,ünnergoahn,"untergehen, sinken",ab
+,ünnerhaulen,unterhalten,ab
+,ünnerheer,unterher,ab
+dat,Ünnerhiermd,Unterhemd,ab
+dat,Ünnerkinn,Doppelkinn,ab
+,ünnerkriupen,unterkriechen,ab
+,ünnerkurm,unterkommen,ab
+dat,Ünnerlief,Unterleib,ab
+de,Ünnerloage,"Unterlage, Bodenbretter vom Ackerwagen",ab
+,ünnernanner,untereinander,ab
+,ünnernierm,unternehmen,ab
+de,Ünneroffizier,Unteroffizier,ab
+,ünnerploigen,unterpflügen,ab
+,ünnerrichen,unterrichten,ab
+de,Ünnerricht,Unterricht,ab
+de,Ünnerrock,Unterrock,ab
+de,Ünnersatz,Untersatz,ab
+,ünnerschaaien,unterscheiden,ab
+de,Ünnerscheid,Unterschied,ab
+,ünnerschloan,unterschlagen,ab
+,ünnerschrieben,unterschreiben,ab
+de,Ünnerschrift,Unterschrift,ab
+,ünnersedt,untersetzt,ab
+,ünnersoiken,untersuchen,ab
+,ünnerste,untere,ab
+,ünnerstoahn,"unterstehen, wagen",ab
+,ünnerstrieken,unterstreichen,ab
+,ünnerstüsseln,abstützen (provisorisch),ab
+,ünnerstützen,unterstützen,ab
+de,Ünnertassen,Untertasse,ab
+,ünnerteihn,unterziehen,ab
+,ünnerteo,"darunter, unterhalb",ab
+de,Ünnerwäske,Unterwäsche,ab
+,ünnerweges,unterwegs,ab
 dat,Unneweer,Unwetter,ab
 ,unnöarig (unnöarich),unnötig,ab
 ,unnütte,unnütz,ab
@@ -4629,12 +4764,6 @@ dat,Untüüg (Untüüch),Ungeziefer,ab
 ,unvestännig (unvestännich),"unverständig, bewustlos",ab
 dat,Unweer,Unwetter,ab
 ,up,auf,ab
-,up iut sien,darauf aus sein,ab
-,up sick hämmen,bedeuten,ab
-,up Trillitt,auf Achse (zum Vergnügen),ab
-,up ulle Fälle,"auf jeden Fall, unbedingt",ab
-,up un af,auf und ab,ab
-,up un doal,"auf und nieder, rauf und runter",ab
 ,upbassen,aufplatzen,ab
 ,upbeoen,aufbauen,ab
 ,upbewoahen,aufbewahren,ab
@@ -4653,15 +4782,15 @@ dat,Unweer,Unwetter,ab
 ,updisken,auftischen,ab
 ,updiuken,auftauchen,ab
 de,Updoat,Tauwetter,ab
+,updönnern,"aufgetakelt, herausputzen (übertrieben), aufbrezeln",ab
 ,updraaihen,aufdrehen,ab
 de,Updragg (Updrach),Auftrag,ab
+,updrängen,aufdrängen,ab
 ,updregen,auftragen,ab
 ,updrieben,auftreiben,ab
-,updrängen,aufdrängen,ab
 ,updrülken,aufwickeln (Haare auf Lockenwickler drehen),ab
 ,updullen,aufquellen,ab
 ,updunsen,aufgedunsen,ab
-,updönnern,"aufgetakelt, herausputzen (übertrieben), aufbrezeln",ab
 de,Upenthault,Aufenthalt,ab
 ,upeten,aufessen,ab
 ,upfaalen,auffallen,ab
@@ -4671,10 +4800,10 @@ de,Upfoahrt,Auffahrt,ab
 ,upfoarten,auffassen,ab
 ,upfoihen,auffahren,ab
 ,upfoorken,Kartoffeln mit der Forke aus dem Erdboden holen,ab
+,upförrern,auffordern,ab
 ,upfreisen,hochfrieren (sich durch Frost heben),ab
 ,upfreten,auffressen,ab
 ,upfrisken,auffrischen,ab
-,upförrern,auffordern,ab
 ,upfüllen,auffüllen,ab
 ,upgeiten,aufgießen,ab
 ,upgierm,aufgeben,ab
@@ -4683,19 +4812,20 @@ de,Upgoabe,Aufgabe,ab
 ,upgoahn,aufgehen,ab
 ,uphaalsen,aufhalsen,ab
 ,uphangen,"aufhängen, erhängen (Selbstmord)",ab
+dat,Uphängsel,Schlaufe zum Aufhängen,ab
 ,uphaulen,aufhalten,ab
 ,uphegen,aufbewahren,ab
 ,uphelpen,aufhelfen,ab
 ,uphenn goahn,"vergangen (Zeit), verbraucht (Zeit)",ab
 ,uphissen,aufhetzen,ab
 ,uphiulen,aufheulen,ab
-dat,Uphängsel,Schlaufe zum Aufhängen,ab
 ,uphöarn,aufhören,ab
 ,"uphörpen, uphüpen",aufhäufen,ab
+,up iut sien,darauf aus sein,ab
 ,upjoagen,aufjagen,ab
 ,upklaaien,herausbuddeln von Kartoffeln,ab
-,upkloarn,aufklaren,ab
 ,upklärn,aufklären,ab
+,upkloarn,aufklaren,ab
 ,upknörpen,aufknöpfen,ab
 ,upknüppen,aufknoten,ab
 ,upkoken,aufkochen,ab
@@ -4718,11 +4848,11 @@ de,Uploage,Auflage,ab
 de,Upniermer,Aufnehmer,ab
 ,uppassen,aufpassen,ab
 ,uppe,"auf, auf der, auf die",ab
-,uppe sien,auf sein,ab
 ,uppeblieben,aufbleiben,ab
 dat,Uppehandpeerd,Pferd (links im Gespann),ab
 ,uppen,"auf dem, auf den",ab
 ,uppenanner,aufeinander,ab
+,uppe sien,auf sein,ab
 ,uppiußen,aufpusten,ab
 ,uppliustern,aufplustern,ab
 ,uppumpen,aufpumpen,ab
@@ -4736,6 +4866,7 @@ de,Upregunge,Aufregung,ab
 ,uprücken,aufrücken,ab
 ,uprümen,aufräumen,ab
 ,uprüsten,aufrüsten,ab
+,upsäggen,aufsagen,ab
 de,Upsatz,Aufsatz,ab
 ,upschiuben,aufschieben,ab
 ,upschliuten,aufschließen,ab
@@ -4745,28 +4876,33 @@ de,Upsatz,Aufsatz,ab
 ,upschrieben,aufschreiben,ab
 ,upschüchtern,aufscheuchen,ab
 ,upschütten,aufschütteln,ab
+,up sick hämmen,bedeuten,ab
 ,upsiugen,aufsaugen,ab
 ,upsoiken,aufsuchen,ab
 ,upsperrn,aufsperren,ab
 ,upsteken,aufstechen,ab
 ,upstellen,aufstellen,ab
 ,upsteoen,aufstauen,ab
-,upstierns,"gegenwärtig, jetzt, nun",ab
+,upstierns,"gegenwärtig, jetzt, nun",hw
 ,upstoahn,aufstehen,ab
 ,upstoapeln,aufstapeln,ab
 ,upstokeln,"aufstacheln, aufhetzen",ab
-,upstund (upstunds),"zurzeit, jetzt, heutzutage",ab
 ,upstörten,aufstoßen,ab
-,upsäggen,aufsagen,ab
-,upt (up dat),auf das,ab
+,upstund (upstunds),"zurzeit, jetzt, heutzutage",ab
 ,upteihn,aufziehen,ab
 ,uptellen,aufzählen,ab
 ,uptiergen,dagegen,ab
 ,uptoakeln,auftakeln,ab
-,uptrehen,auftreten,ab
-,uptrumpfen,auftrumpfen,ab
 ,uptöamen,aufzäumen,ab
+,uptrehen,auftreten,ab
+,up Trillitt,auf Achse (zum Vergnügen),ab
+,uptrumpfen,auftrumpfen,ab
+,upt (up dat),auf das,ab
+,up ulle Fälle,"auf jeden Fall, unbedingt",ab
+,up un af,auf und ab,ab
+,up un doal,"auf und nieder, rauf und runter",ab
 de,Upwand,Aufwand,ab
+,upwännig (upwännich),aufwändig,ab
 de,Upwaskelappen,Abwaschlappen,ab
 ,upwasken,abwaschen,ab
 dat,Upwaskewoater,Abwaschwasser,ab
@@ -4778,35 +4914,39 @@ dat,Upweermsel,Aufgewärmtes (Essen),ab
 ,upwellen,"blanchieren, aufwellen",ab
 ,upwiesen,aufweisen,ab
 ,upwoilen,aufwühlen,ab
-,upwännig (upwännich),aufwändig,ab
 ,urault,uralt,ab
-,urboar,urbar,ab
 de,Urbär,Eber mit je einem Hoden innen und außen,ab
+,ürbel,übel,ab
+de,Ürbelkert,Übelkeit,ab
+,urboar,urbar,ab
 dat,Urdeil,Urteil,ab
 ,urdeilen,urteilen,ab
 ,uren,unordentlich leben,ab
 de,Urkel,Ferkel (zurückgeblieben),ab
 dat,Urksel,Abfall (feiner Abfall beim Dreschen von Holz oder Torf),ab
+de,Uröllern,Ureltern,ab
 ,urseln,rieseln,ab
 dat,Urßel,Abfall beim Dreschen,ab
-de,Uröllern,Ureltern,ab
 ,us,uns,ab
+de,Üßen,Kröte,ab
 ,vaaieeckig (vaaieeckich),viereckig,ab
 ,vaaiespännig,vierspännig,ab
 ,van,von,ab
-,van af,"entfernen, entledigen, los lassen, vergessen",ab
+,van af,"entfernen, entledigen, los lassen, vergessen",hw
 ,van dor,von da,ab
 ,van dor an,"von da an, seitdem",ab
-,van dür,aufbrechen,ab
+,van dür,aufbrechen,hw
+,vannenanner,voneinander,ab
+,vannen (van den),"vom, von dem",ab
+,vanne (van de),"von der, von den",ab
 ,van niu an,von nun an,ab
 ,van sümms,von selbst,ab
 ,van Tiet teo Tiet,von Zeit zu Zeit,ab
 ,van wieten,von weitem,ab
-,vanne (van de),"von der, von den",ab
-,vannen (van den),"vom, von dem",ab
-,vannenanner,voneinander,ab
 de,Varre,Taufpate(in),ab
 de,Vatte,Vater,ab
+,veännern,verändern,ab
+,veäppeln,"verulken, foppen",ab
 ,vebaaien,verbieten,ab
 ,vebaast,geschockt,ab
 ,veballern,verprassen,ab
@@ -4823,9 +4963,10 @@ de,Veband,Verband,ab
 ,vebiulen,verbeulen,ab
 ,veblieben,verbleiben,ab
 ,vebloaihen,verblühen,ab
-,vebloien,verbluten,ab
 ,veblöden,verblöden,ab
-,veboagen,verborgen,ab
+,vebloien,verbluten,ab
+,veboagen,verborgen,hw
+,veböagen,verbiegen,ab
 ,veboarseln,verlegen (Dinge),ab
 ,vebohen,verboten,ab
 ,vebohrt,verbohrt,ab
@@ -4837,13 +4978,12 @@ de,Vebriuk,Verbrauch,ab
 ,vebriuken,verbrauchen,ab
 ,vebroaen,verbraten,ab
 ,vebroken,verbrochen,ab
-,vebummeln,verbummeln,ab
-,veböagen,verbiegen,ab
 ,vebühen,verheben,ab
+,vebummeln,verbummeln,ab
 ,vebürgen,verbürgen,ab
 de,Vedacht,Verdacht,ab
 ,vedaddert,verdattert,ab
-,vedann,"inzwischen, zwischenzeitlich",ab
+,vedann,"inzwischen, zwischenzeitlich",hw
 ,vedauen,verdauen,ab
 ,vedeerben,verderben,ab
 de,Vedeerf,"Verderb, Vergänglichkeit",ab
@@ -4852,7 +4992,9 @@ de,Vedeerf,"Verderb, Vergänglichkeit",ab
 ,vedenken,"verdenken, verübeln",ab
 ,vedenne,"vorher, ab",ab
 ,vedeon,"vertun, irren",ab
-,vedoamelt,"verzärtelt, verwöhnt, verspielt (Katzen, die ""vedoamelt"" sind, mausen nicht, sind lebensuntüchtig)",ab
+,vedoamelt,"verzärtelt, verwöhnt, verspielt (Katzen, die ""vedoamelt"" sind, mausen nicht, sind lebensuntüchtig)",hw
+,vedönnern,verdonnern (verurteilen),ab
+,vedösten,verdursten,ab
 ,vedraaihen,verdrehen,ab
 de,Vedragg (Vedrach),Vertrag,ab
 ,vedregen,vertragen,ab
@@ -4862,10 +5004,8 @@ de,Vedragg (Vedrach),Vertrag,ab
 ,vedrömmeln,"verschlafen, vergessen, verpassen",ab
 ,vedrücken,verdrücken,ab
 ,vedubbeln,verdoppeln,ab
-,vedummdübeln,verulken (für dumm verkaufen),ab
-,vedönnern,verdonnern (verurteilen),ab
-,vedösten,verdursten,ab
 ,vedübeln,verteufeln,ab
+,vedummdübeln,verulken (für dumm verkaufen),ab
 ,vedüstern,verdunkeln,ab
 ,vedütlichen,verdeutlichen,ab
 ,vedütsken,verdeutschen (energisch zurechtweisen),ab
@@ -4911,9 +5051,9 @@ dat,Vehaulen,Verhalten,ab
 ,vehelpen,verhelfen,ab
 ,vehinnern,verhindern,ab
 ,vehoalen,erholen,ab
-,vehungern,verhungern,ab
 dat,Vehöar,Verhör,ab
 ,vehöarn,verhören,ab
+,vehungern,verhungern,ab
 dat,Veih,Vieh,ab
 de,Veihdokter,Tierarzt,ab
 de,Veihkörper,Viehhändler,ab
@@ -4922,16 +5062,17 @@ de,Veihlierpel,Schöpfkelle für Viehfutter,ab
 de,Veihmoark,Viehmarkt,ab
 de,Veihstaal,Viehstall,ab
 ,vejoagen,"verjagen, erschrecken",ab
-,vejuckeln,verprassen,ab
 ,vejöahrt,verjährt,ab
+,vejuckeln,verprassen,ab
+,vekährt,"verkehrt, falsch",ab
 ,vekehen,verkehren,ab
 de,Vekehr,Verkehr,ab
 ,vekieken,"verlieben, vergucken, versehen (täuschen)",ab
 ,vekitten,verkitten,ab
+,vekläen,verkleiden,ab
 ,vekloamt,"erkaltet, erfroren",ab
 ,vekloien,verfärben (Gesicht),ab
 ,vekloppen,verkloppen,ab
-,vekläen,verkleiden,ab
 ,veklüngeln,"verlegen, verlieren",ab
 ,veklürtern,"erklären, verklickern",ab
 ,veknacken,"verknacken, verknacksen",ab
@@ -4941,16 +5082,18 @@ de,Vekehr,Verkehr,ab
 ,veknüücheln,zerknittern,ab
 ,vekohlen,verkohlen,ab
 ,vekoken,verkochen,ab
-,vekriupen,verkriechen,ab
-,vekrüen,verkrauten,ab
-,vekurm,verkommen,ab
-,vekährt,"verkehrt, falsch",ab
 ,vekörpen,verkaufen,ab
 ,veköstigen,verköstigen,ab
+,vekriupen,verkriechen,ab
+,vekrüen,verkrauten,ab
 ,veküen,versprechen,ab
 ,vekülgen,erkälten,ab
+,vekurm,verkommen,ab
+,veläen,verlernen,ab
+,velährnen,verleihen,ab
 ,velangen,verlangen,ab
 dat,Velangen,"Verlangen, Sehnsucht",ab
+,velängern,verlängern,ab
 ,velaupen,verlaufen,ab
 ,velegen,verlegen (verschämt),ab
 de,Velegenhert,Verlegenheit,ab
@@ -4965,28 +5108,25 @@ de,Veloat,Verlass,ab
 ,velohen,verloren,ab
 ,velopp,verläuft,ab
 ,velustern,verhören,ab
-,veläen,verlernen,ab
-,velährnen,verleihen,ab
-,velängern,verlängern,ab
 ,velüstig (velüstich),verloren gehen,ab
+,vemärhen,vermehren,ab
 ,vemasseln,vermasseln,ab
 ,vemeten,vermessen,ab
 ,vemirragg (vemirrach),heute Mittag,ab
 ,vemissen,vermissen,ab
 ,vemoahnen,ermahnen,ab
 ,vemoaken,"vermachen, vererben",ab
+,vemöbeln,"vermöbeln, verprügeln",ab
 ,vemohen,heute Morgen,ab
 ,vemoien,ermüden,ab
 ,vemuckt,tatsächlich,ab
 ,vemuckt naumoal,verflixt nochmal,ab
-,vemärhen,vermehren,ab
-,vemöbeln,"vermöbeln, verprügeln",ab
 ,"venaahen, venaahen hämmen, venaahen kriegen",verulken,ab
 ,venacht,heute Nacht,ab
-,venahen,veräppeln,ab
+,venahen,veräppeln,hw
 ,venammdagg (venammdach),heute Nachmittag,ab
-,vendagg,"ans Licht, zu Tage bringen",ab
-,vendagg kurm,ans Licht gekommen,ab
+,vendagg,"ans Licht, zu Tage bringen",hw
+,vendagg kurm,ans Licht gekommen,hw
 ,vendoage,heute,ab
 ,venient,entzündet,ab
 ,venoabend,heute Abend,ab
@@ -5001,13 +5141,13 @@ de,Veputz,Verputz,ab
 ,vereken,verrechnen,ab
 ,veriut,voraus,ab
 ,veroaen,verraten,ab
+,veröaken,verräuchern,ab
 de,Versk,Vers,ab
+,verückt,verrückt,ab
+de,Verückte,Verrückter,ab
 ,verungenaaien,ruinieren,ab
 ,verupp,voraus (aufwärts),ab
 ,verustern,verrosten,ab
-,veröaken,verräuchern,ab
-,verückt,verrückt,ab
-de,Verückte,Verrückter,ab
 ,vesacken,versacken,ab
 ,vesammeln,versammeln,ab
 ,vescheemt,verschämt,ab
@@ -5017,7 +5157,7 @@ de,Verückte,Verrückter,ab
 ,veschlonzen,verschludern,ab
 ,veschlüen,verlegen (Gegenstand),ab
 ,veschmachen,verschmachten,ab
-,veschmieten,verwerfen,ab
+,veschmieten,verwerfen,hw
 ,veschnaaien,verschneien,ab
 ,veschoalen,verschalen,ab
 ,veschwiegen,verschwiegen,ab
@@ -5028,6 +5168,7 @@ de,Vesienen,Besuch,ab
 ,vesiupen,"versaufen, ertrinken",ab
 ,vesohlen,versohlen,ab
 ,vesoiken,versuchen,ab
+,vesölten,versalzen,ab
 ,vesoorgen,versorgen,ab
 ,vesperrn,versperren,ab
 ,vespierlen,verspielen,ab
@@ -5036,7 +5177,6 @@ de,Vestand,Verstand,ab
 ,vesteken,verstecken,ab
 ,vestiuken,verstauchen,ab
 ,vestoahn,verstehen,ab
-,vesölten,versalzen,ab
 ,vesülbern,versilbern (zu Geld machen),ab
 ,vesümen,versäumen,ab
 ,vesünnigen,versündigen,ab
@@ -5052,7 +5192,9 @@ dat,Vetellsel,"Erzählung, Geschichte (Erzählung)",ab
 ,vetrehen,vertreten,ab
 ,vetwass,"verquer, ungelegen",ab
 ,veunglücken,verunglücken,ab
+,veürbeln,verübeln,ab
 ,veurdeilen,verurteilen,ab
+,vewämsen,verprügeln,ab
 ,vewasken,verwaschen,ab
 ,vewassen,verwachsen,ab
 ,vewegen,verwegen,ab
@@ -5064,16 +5206,13 @@ dat,Vetellsel,"Erzählung, Geschichte (Erzählung)",ab
 ,vewittken,verschwenden,ab
 ,vewoahen,verwahren,ab
 ,vewunnern,verwundern,ab
-,vewämsen,verprügeln,ab
 ,vewünsken,verwünschen,ab
 ,vezichen,verzichten,ab
-,veännern,verändern,ab
-,veäppeln,"verulken, foppen",ab
-,veürbeln,verübeln,ab
 ,vierl,viel,ab
 de,Vigeline,Geige,ab
 de,Vigelinenstrieker,Geiger,ab
 de,Voar,Vater,ab
+dat,Vörtel,Viertel,ab
 dat,Vulk,Volk,ab
 ,vull,voll,ab
 de,Vullboart,Vollbart,ab
@@ -5088,22 +5227,21 @@ de,Vullmacht,Vollmacht,ab
 ,vullschieten,vollscheißen,ab
 ,vullschlabbern,vollkleckern,ab
 ,vullstännig (vullstännich),vollständig,ab
-de,Vurgel,Vogel,ab
-de,Vurgelbiehen,Vogelbeeren (Eberesche),ab
-de,Vurgelbiuer,Vogelkäfig,ab
-de,Vurgelschieten,Vogelscheiße,ab
-dat,Vörtel,Viertel,ab
 ,vündoage,heute,ab
-,vünter,vorhin,ab
+,vünter,vorhin,hw
 ,vür,vor,ab
 ,vüran,voran,ab
 ,vürbestellen,vorbestellen,ab
 ,vürchte,vorherige,ab
 ,vürdoal,vorher,ab
+de,Vurgel,Vogel,ab
+de,Vurgelbiehen,Vogelbeeren (Eberesche),ab
+de,Vurgelbiuer,Vogelkäfig,ab
+de,Vurgelschieten,Vogelscheiße,ab
 ,vürgistern,vorgestern,ab
 ,vürheer,vorher,ab
 ,vürheerschniehen,"abschneiden (Scheiben von Wurst, Käse, Brot usw.)",ab
-,vürknörpen,"vorknöpfen, maßregeln",ab
+,vürknörpen,"vorknöpfen, maßregeln",hw
 ,vürkurm,vorkommen,ab
 ,vürmoaken,"vormachen, Theater spielen",ab
 ,vürne,vorne,ab
@@ -5115,23 +5253,29 @@ de,Waaide,Weide,ab
 ,waaien,jäten von Unkraut,ab
 de,Waaihemührlen,Windfege (Gerät zur Reinigung von Getreide und Saatgut),ab
 ,waaihen,wehen,ab
+de,Wääske,Frau (alte Tante),ab
 ,wabbelig (wabbelich),wabbelig,ab
 ,wach,wach,ab
 ,wach blieben,wach bleiben,ab
-,wach sien,wach sein,ab
-,wach wern,aufwachen,ab
 dat,Wachsdeok,Wachstuch,ab
+,wach sien,wach sein,ab
+de,Wächte,Waage,ab
+,wach wern,aufwachen,ab
 ,wacke,"schön, gesund",ab
+,wägen,wiegen (Kind schaukeln),ab
+de,Wägen,Kinderwiege für Säuglinge,ab
 ,wall,wohl (Verwendung in Fragesätzen),ab
 ,wall (wutt diu wall heerkurm),wohl (Bekräftigung einer Aufforderung),ab
 de,Walnott; de Walnürte,Walnuss,ab
 de,Walnottsbaum,Walnussbaum,ab
 ,walten,walzen,ab
 de,Walten,Walze,ab
+,wältern,wälzen,ab
 de,Wand; de Wänne,Wand,ab
 ,wanken,besuchen (gegenseitig),ab
 ,wann,wann,ab
 ,warnen,warnen,ab
+de,Wäske,Wäsche,ab
 de,Waskelappen,Waschlappen,ab
 ,wasken,waschen,ab
 de,Waskkürken,Waschküche,ab
@@ -5158,12 +5302,11 @@ de,Weermte,Wärme,ab
 de,Weert,Wert,ab
 ,wege,weg,ab
 ,wegen,"wegen, wiegen",ab
-,wegg (wech),"her, weg",ab
-de,Wegg; de Wege,Weg,ab
 ,weggblieben (wechblieben),wegbleiben,ab
 ,weggbloasen (wechbloasen),wegblasen,ab
 ,weggbringen (wechbringen),wegbringen,ab
 ,weggdeon (wechdeon),weggeben,ab
+de,Wegg; de Wege,Weg,ab
 ,weggdrieben (wechdrieben),wegtreiben,ab
 ,weggfleigen (wechfleigen),wegfliegen,ab
 ,weggfleiten (wechfleiten),wegfließen,ab
@@ -5193,6 +5336,7 @@ de,Wegg; de Wege,Weg,ab
 ,weggsteken (wechsteken),wegstecken,ab
 ,weggsturm (wechsturm),verstorben,ab
 ,weggteihn (wechteihn),wegziehen,ab
+,wegg (wech),"her, weg",ab
 ,weih,weh,ab
 ,weihdeon,"verletzen, wehtun",ab
 de,Weihdoage,Schmerzen,ab
@@ -5215,8 +5359,8 @@ de,Wenk,Wink,ab
 ,wer,wer,ab
 ,werd,"wird, werden",ab
 ,wern,werden,ab
-,wernig (wernich),wenig,ab
 ,wernigstens (wernichstens),wenigstens,ab
+,wernig (wernich),wenig,ab
 de,Werre,Wette,ab
 de,Wessel,Wechsel,ab
 dat,Wesselgeld,Wechselgeld,ab
@@ -5269,8 +5413,8 @@ de,Wienpullen,Weinflasche,ab
 ,wier,wieder,ab
 ,wierbringen,wiederbringen,ab
 ,wierfienen,wiederfinden,ab
-,wierhoalen,wiederholen,ab
 ,wierhämmen,wiederhaben,ab
+,wierhoalen,wiederholen,ab
 de,Wierhülpe,Gegenleistung,ab
 de,Wierken,Woche,ab
 dat,Wierkenberre,Wochenbett,ab
@@ -5283,10 +5427,10 @@ dat,Wierkenwief,Wöchnerin,ab
 ,wiermeln,wimmeln,ab
 de,Wiermelstärt,Zappelphilipp,ab
 ,wiernen,gewöhnen,ab
+,wiersäggen,"petzen, wiedersagen",ab
 de,Wiersebaum,Bindebaum für Heu- und Strohwagen,ab
 ,wierseihn,wiedersehen,ab
 de,Wierser,Weser,ab
-,wiersäggen,"petzen, wiedersagen",ab
 ,wierten,wissen,ab
 dat,Wierwoort; de Wierwööre,Widerwort,ab
 ,wiesau,wieso,ab
@@ -5326,7 +5470,6 @@ de,Wittschnüsk,Hauttyp (blass),ab
 dat,Wittsel,Eiweiß,ab
 de,Wiut,Wut,ab
 ,wo,wo,ab
-,wo foaken,wie oft,ab
 de,Woaben,Honigwaben,ab
 de,Woagen,Wagen,ab
 de,Woagendießen,Woagendeichsel,ab
@@ -5358,6 +5501,7 @@ dat,Wockenblatt,Pappband mit Spruch und Verzierungen am Flachswickel (beim Spinn
 de,Wockenstock,Stock für Flachswickel,ab
 ,wodenne,woher,ab
 ,wodür,wodurch,ab
+,wo foaken,wie oft,ab
 ,wofür,wofür,ab
 ,woheer,woher,ab
 ,wohenn,wohin,ab
@@ -5367,12 +5511,19 @@ de,Woiler,Wühler (Schwerstarbeiter),ab
 ,woiste,"grobschlächtig, wüst",ab
 ,womiehe,womit,ab
 ,wonaaie,wann,ab
+dat,Wöörbeok,Wörterbuch,ab
 dat,Woort; de Wööre,Wort,ab
+dat,Wöpkenbraut,"Wurstbrot (Kugel aus Schweineblut, Roggenschrot, Speckwürfel, wenig Schweinefleisch und Gewürze)",ab
 ,woran,woran,ab
 ,worober,worüber,ab
-,worupp,worauf,ab
 ,worümme,warum,ab
+,worupp,worauf,ab
+,wössen,wursten (Fleischverarbeitung),ab
 de,Wost; de Wöste,Wurst,ab
+de,Wöstefinger,Wurstfinger,ab
+de,Wöstefissen,Wurstbindfaden,ab
+de,Wöstekiertel,Wurstkessel,ab
+de,Wöstestock,Stock zum Wurst aufhängen,ab
 de,Wostschieben,Wurstscheibe,ab
 ,woteo,wozu,ab
 de,Wottel,"Möhre, Wurzel",ab
@@ -5386,6 +5537,7 @@ de,Wulkenbruch,Wolkenbruch,ab
 ,wullacken,malochen,ab
 dat,Wulldeok,Wolltuch,ab
 de,Wulle,Wolle,ab
+,wüllen,Gestricktes aus Wolle,ab
 dat,Wullgoarn,Wollgarn,ab
 dat,Wullgräss,Wollgras,ab
 dat,Wullkleoen,Wollknäuel,ab
@@ -5396,45 +5548,31 @@ dat,Wunner,Wunder,ab
 ,wunnerboar,wunderbar,ab
 ,wunnerlick,wunderlich,ab
 ,wunnern,wundern,ab
-,Wunners wat,Besonderheit (etwas ganz Besonderes),ab
+,Wunners wat,Besonderheit (etwas ganz Besonderes),hw
 dat,Wunnerweerk,Wunderwerk,ab
-de,Wunsk,Wunsch,ab
-,wuppen,heben (schwer),ab
-de,Wurm; de Würmer,Wurm,ab
-,wurmsteeks,wurmstichig,ab
-,wurnen,wohnen,ab
-,wutt,willst,ab
-,wutte (wutt diu),willst du,ab
-,wutte wall … (wutt diu wall …),willst du wohl …,ab
-de,Wächte,Waage,ab
-,wägen,wiegen (Kind schaukeln),ab
-de,Wägen,Kinderwiege für Säuglinge,ab
-,wältern,wälzen,ab
-de,Wäske,Wäsche,ab
-de,Wääske,Frau (alte Tante),ab
-dat,Wöpkenbraut,"Wurstbrot (Kugel aus Schweineblut, Roggenschrot, Speckwürfel, wenig Schweinefleisch und Gewürze)",ab
-,wössen,wursten (Fleischverarbeitung),ab
-de,Wöstefinger,Wurstfinger,ab
-de,Wöstefissen,Wurstbindfaden,ab
-de,Wöstekiertel,Wurstkessel,ab
-de,Wöstestock,Stock zum Wurst aufhängen,ab
-dat,Wöörbeok,Wörterbuch,ab
-,wüllen,Gestricktes aus Wolle,ab
+de,Wunsk,Wunsch,hw
 ,wünsken,wünschen,ab
 ,wünskensweert,wünschenswert,ab
+,wuppen,heben (schwer),ab
 de,Wüppen,Wippe,ab
 ,wüppen,wippen,ab
 ,würken,weben,ab
 de,Würker,Weber,ab
 de,Würkesteohl,Webstuhl,ab
 dat,Würksel,Gewebtes,ab
+de,Wurm; de Würmer,Wurm,ab
+,wurmsteeks,wurmstichig,ab
+,wurnen,wohnen,ab
+,wutt,willst,ab
+,wutte wall … (wutt diu wall …),willst du wohl …,ab
+,wutte (wutt diu),willst du,ab
 ,zackenaaien,rennen,ab
 dat,Zapp,"Zuckerrübensirup, Rübenkraut",ab
-dat,Zappbraut,Brot (süß) mit Rosinen und Rübenkrautaufstrich und Kaffee gebacken,ab
+dat,Zappbraut,Brot (süß) mit Rosinen und Rübenkrautaufstrich und Kaffee gebacken,hw
 de,Zappedeus,Kopf,ab
 ,zappen,"schwatzen, bluten (heftig)",ab
 ,zappendüster,"dunkel (extrem), aussichtslos",ab
-de,Zappkeoken,Lebkuchen mit Rübenkraut gebacken,ab
+de,Zappkeoken,Lebkuchen mit Rübenkraut gebacken,hw
 de,Zegaarn,"Zigarre, Rüge",ab
 de,Zegaarndisk,Zigarrentisch,ab
 de,Zegaarnfebriek,Zigarrenfabrik,ab
@@ -5464,12 +5602,14 @@ de,Zitreonen,Zitrone,ab
 de,Ziuken,Hund (klein),ab
 de,Zoahl; de Zoahlen,Zahl,ab
 de,Zossen,"Pferd (altes, ungepflegtes)",ab
+,zü,"so, siehe",ab
 de,Zuckerfisk,Bonbon,ab
 de,Zuckerkeoken,Zuckerkuchen,ab
 de,Zuckerroibe,Zuckerrübe,ab
-de,Zugg (Zuch),"Antrieb (innerer), Durchzug, Eisenbahn",ab
 de,Zuggsaalben (Zuchsaalben),Zugsalbe,ab
 de,Zuggvürgel (Zuchvürgel),Zugvögel,ab
+de,Zugg (Zuch),"Antrieb (innerer), Durchzug, Eisenbahn",ab
+,züpken,nippen,ab
 de,Zuppen,Suppe,ab
 dat,Zuppenfleisk,Suppenfleisch,ab
 dat,Zuppenheohn,Suppenhuhn,ab
@@ -5477,143 +5617,3 @@ dat,Zuppenkriut,Suppenkraut,ab
 de,Zuppenlierpel,Suppenlöffel,ab
 de,Zuppenpott,Suppentopf,ab
 de,Zuppenschöttel,Suppenschüssel,ab
-,zü,"so, siehe",ab
-,züpken,nippen,ab
-,ängestig (ängestich),ängstlich,hw
-,ännern,ändern,hw
-de,Ärhn,"Erde, Boden",hw
-de,Ärmitten,Ameisen,hw
-de,Ärmittenschärper,Sonderling,hw
-de,Äxen,Axt,hw
-,öhn,"ihn, ihm",ab
-,öhne,seine,ab
-,öhr,ihr,ab
-,öhre,ihre,ab
-,öhrt,ihres,ab
-dat,Ölge,Öl,ab
-de,Ölgemührlen,Ölmühle,ab
-de,Ölgepullen,Ölflasche,ab
-de,Ölgesoat,Rübsamen,ab
-dat,Öller,Alter,ab
-de,Öllern,Eltern,ab
-de,Ölste,Ältester,ab
-de,Ömmer,Eimer,ab
-de,Örtel,Orgel,ab
-de,Örtelbüen,Orgelempore,ab
-,örteln,orgeln,ab
-de,Örtelspierler,Orgelspieler,ab
-,össen,"malochen, schuften",ab
-dat,Ööfken,Pflaumenart (klein und rund),ab
-,üben,üben,ab
-de,Übunge,Übung,ab
-,ümme,um,ab
-,ümmebienen,umbinden,ab
-,ümmebloaen,umblättern,ab
-,ümmebreken,umbrechen,ab
-,ümmebringen,umbringen,ab
-,ümmebullen,umbullen (bei Rindern),ab
-,ümmebäarn,umrauschen (bei Sauen),ab
-,ümmeböagen,umbiegen,ab
-,ümmeböcken,"umbocken (Ziege oder Schaf), Meinung ändern",ab
-,ümmebündken,wechseln von Windeln,ab
-,ümmedenken,umdenken,ab
-,ümmedeon,"umtun, bekehren, ändern",ab
-,ümmedraaihen,umdrehen,ab
-,ümmedregen,umtragen,ab
-,ümmedörpen,umtaufen,ab
-,ümmefaalen,umfallen,ab
-,ümmefoaten,umfassen,ab
-,ümmefoihen,umfahren,ab
-,ümmefüllen,umfüllen,ab
-de,Ümmegang,Umgang (miteinander),ab
-,ümmegeiten,umgießen,ab
-,ümmegoahn,"behandeln (Umgang), umgehen",ab
-,ümmegroaben,umgraben,ab
-de,Ümmehang,Umhang,ab
-,ümmehangen,umhängen,ab
-,ümmehenn,umhin,ab
-,ümmehocken,Getreidegarben neu zum Trocknen aufstellen,ab
-,ümmehöapen,umschichten (von Heuhaufen bei unbeständiger Witterung),ab
-,ümmehöarn,"umhören, erkundigen",ab
-,ümmekieken,umsehen,ab
-,ümmekippen,umkippen,ab
-,ümmeknicken,umknicken,ab
-,ümmekrempeln,umkrempeln,ab
-,ümmekurm,umkommen,ab
-de,Ümmeleitunge,Umleitung,ab
-,ümmemeten,messen (erneut vermessen),ab
-,ümmepiußen,umpusten,ab
-,ümmeploigen,umpflügen,ab
-,ümmeracken,umstoßen (unachtsam),ab
-,ümmeroaken,umwerfen,ab
-,ümmeroihen,umrühren,ab
-,ümmesau,umso,ab
-,ümmeschichtig (ümmeschichtich),abwechselnd,ab
-de,Ümmeschlagg,"Umschlag, Umsatz",ab
-,ümmeschmieten,umwerfen,ab
-,ümmeschwenken,umschwenken,ab
-,ümmesetten,umsetzen,ab
-,ümmesoiken,sortieren,ab
-,ümmespringen,umspringen,ab
-de,Ümmestand; de Ümmestänne,Umstand,ab
-,ümmestiegen,umsteigen,ab
-,ümmeständlich,umständlich,ab
-de,Ümmestänne,Schwangerschaft,ab
-,ümmestülpen,umstülpen,ab
-,ümmesöamen,umsäumen,ab
-,ümmesüss,umsonst,ab
-,ümmeteihn,umziehen,ab
-,ümmeteo,herum,ab
-,ümmetiusken,umtauschen,ab
-de,Ümmewegg (Ümmewech),Umweg,ab
-,ümmewesseln,umwechseln,ab
-,ünnen,unten,ab
-,ünner,unter,ab
-,ünnerbienen,unterbinden,ab
-,ünnerboiten,einheizen,ab
-,ünnerbreken,unterbrechen,ab
-de,Ünnerböxen,Unterhose,ab
-,ünnerdeilen,unterteilen,ab
-,ünnerdiuken,untertauchen,ab
-,ünnerdrücken,unterdrücken,ab
-,ünnerdür,untendurch,ab
-de,Ünnererdsken,Lebewesen (im Erdboden lebend),ab
-,ünnerfüünsk,hinterhältig,ab
-de,Ünnergang,Untergang,ab
-,ünnergoahn,"untergehen, sinken",ab
-,ünnerhaulen,unterhalten,ab
-,ünnerheer,unterher,ab
-dat,Ünnerhiermd,Unterhemd,ab
-dat,Ünnerkinn,Doppelkinn,ab
-,ünnerkriupen,unterkriechen,ab
-,ünnerkurm,unterkommen,ab
-dat,Ünnerlief,Unterleib,ab
-de,Ünnerloage,"Unterlage, Bodenbretter vom Ackerwagen",ab
-,ünnernanner,untereinander,ab
-,ünnernierm,unternehmen,ab
-de,Ünneroffizier,Unteroffizier,ab
-,ünnerploigen,unterpflügen,ab
-,ünnerrichen,unterrichten,ab
-de,Ünnerricht,Unterricht,ab
-de,Ünnerrock,Unterrock,ab
-de,Ünnersatz,Untersatz,ab
-,ünnerschaaien,unterscheiden,ab
-de,Ünnerscheid,Unterschied,ab
-,ünnerschloan,unterschlagen,ab
-,ünnerschrieben,unterschreiben,ab
-de,Ünnerschrift,Unterschrift,ab
-,ünnersedt,untersetzt,ab
-,ünnersoiken,untersuchen,ab
-,ünnerste,untere,ab
-,ünnerstoahn,"unterstehen, wagen",ab
-,ünnerstrieken,unterstreichen,ab
-,ünnerstüsseln,abstützen (provisorisch),ab
-,ünnerstützen,unterstützen,ab
-de,Ünnertassen,Untertasse,ab
-,ünnerteihn,unterziehen,ab
-,ünnerteo,"darunter, unterhalb",ab
-,ünnerweges,unterwegs,ab
-de,Ünnerwäske,Unterwäsche,ab
-,ürbel,übel,ab
-de,Ürbelkert,Übelkeit,ab
-de,Üßen,Kröte,ab

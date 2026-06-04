@@ -1,13 +1,5 @@
 [
     {
-        "plattdeutsch": "\"Meinemann\" es daute, \"Froagoars\" lierbet nau.",
-        "hochdeutsch": "Meinen beruht nicht auf Fakten. Lieber durch Fragen der Sache auf den Grund gehen."
-    },
-    {
-        "plattdeutsch": "\"Meinen\", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.",
-        "hochdeutsch": "\"Meinen\" beruht nicht unbedingt auf Fakten."
-    },
-    {
         "plattdeutsch": "Achter Hartmanns Backs liggen.",
         "hochdeutsch": "Hiller Begriff für \"auf dem Friedhof liegen\"."
     },
@@ -44,16 +36,16 @@
         "hochdeutsch": "Es ging leicht herunter."
     },
     {
+        "plattdeutsch": "Dat häbbe eck mi wall haalf dacht.",
+        "hochdeutsch": "Das habe ich mir schon gedacht, aber ich war mir nicht ganz sicher. Da war ich mit meinen Gedanken auf der richtigen Spur."
+    },
+    {
         "plattdeutsch": "Dat hand mi nich.",
         "hochdeutsch": "Diese Arbeitshaltung, z.B. rechts oder links, liegt mir nicht."
     },
     {
         "plattdeutsch": "Dat hult mähr, os de ketaulske Glöabe.",
         "hochdeutsch": "Das hält gut."
-    },
-    {
-        "plattdeutsch": "Dat häbbe eck mi wall haalf dacht.",
-        "hochdeutsch": "Das habe ich mir schon gedacht, aber ich war mir nicht ganz sicher. Da war ich mit meinen Gedanken auf der richtigen Spur."
     },
     {
         "plattdeutsch": "Dat jappet nau.",
@@ -84,16 +76,16 @@
         "hochdeutsch": "Die Ursache bleibt nicht ohne Folgen. Das Geschehene hinterlässt tiefe Spuren."
     },
     {
+        "plattdeutsch": "Datt was ne Allmacht mit de beaden",
+        "hochdeutsch": "Eine längere Umarmung bei der Begrüßung"
+    },
+    {
         "plattdeutsch": "Dat was Schmu.",
         "hochdeutsch": "Das war nicht ganz legal. Das war Betrug."
     },
     {
         "plattdeutsch": "Dat wü wi hauge haul’n.",
         "hochdeutsch": "Das wollen wir in Ehren halten."
-    },
-    {
-        "plattdeutsch": "Datt was ne Allmacht mit de beaden",
-        "hochdeutsch": "Eine längere Umarmung bei der Begrüßung"
     },
     {
         "plattdeutsch": "Dau kamm hei dormiehe vendagg.",
@@ -128,16 +120,12 @@
         "hochdeutsch": "Der ist wohl nicht gut gelaunt."
     },
     {
-        "plattdeutsch": "De gloaihet wi en Leggeheohn.",
-        "hochdeutsch": "Er hat einen glühend roten Kopf."
-    },
-    {
         "plattdeutsch": "De gäaht in gede Fuhr.",
         "hochdeutsch": "Der ist für alles zu gebrauchen."
     },
     {
-        "plattdeutsch": "De hanget innen Kassen.",
-        "hochdeutsch": "Aufgebot (Bekanntmachung der standesamtlichen Eheschließung)"
+        "plattdeutsch": "De gloaihet wi en Leggeheohn.",
+        "hochdeutsch": "Er hat einen glühend roten Kopf."
     },
     {
         "plattdeutsch": "De häbb dor ahne rümmehiustert.",
@@ -150,6 +138,10 @@
     {
         "plattdeutsch": "De häff wall Lear uppe Tungen.",
         "hochdeutsch": "Er ist kein Feinschmecker."
+    },
+    {
+        "plattdeutsch": "De hanget innen Kassen.",
+        "hochdeutsch": "Aufgebot (Bekanntmachung der standesamtlichen Eheschließung)"
     },
     {
         "plattdeutsch": "De höat de Mieeke bölken",
@@ -174,6 +166,18 @@
     {
         "plattdeutsch": "De mott nau inne Feogen drücket wern.",
         "hochdeutsch": "Der muss noch angepasst werden."
+    },
+    {
+        "plattdeutsch": "Den es wall ne Lius ober de Lierbern laupen.",
+        "hochdeutsch": "Dem ist wohl eine Laus über die Leber gelaufen."
+    },
+    {
+        "plattdeutsch": "Denn süße oaber en Rühen iutstiuben.",
+        "hochdeutsch": "Dann gibt es Ärger."
+    },
+    {
+        "plattdeutsch": "Den ploaget de Weeldoage.",
+        "hochdeutsch": "Der ist übermütig. Er schlägt über die Stränge."
     },
     {
         "plattdeutsch": "De Pannen lett geot.",
@@ -208,16 +212,8 @@
         "hochdeutsch": "Eine unangenehme Entscheidung fällen"
     },
     {
-        "plattdeutsch": "Den es wall ne Lius ober de Lierbern laupen.",
-        "hochdeutsch": "Dem ist wohl eine Laus über die Leber gelaufen."
-    },
-    {
-        "plattdeutsch": "Den ploaget de Weeldoage.",
-        "hochdeutsch": "Der ist übermütig. Er schlägt über die Stränge."
-    },
-    {
-        "plattdeutsch": "Denn süße oaber en Rühen iutstiuben.",
-        "hochdeutsch": "Dann gibt es Ärger."
+        "plattdeutsch": "Dicke Melk un soite, dat gif schwanke Foite.",
+        "hochdeutsch": "Dickmilch mit Zucker kommt gut an. Dickmilch mit Zucker lässt die Schleckermäuler herbeieilen."
     },
     {
         "plattdeutsch": "Di häbb se wall dat Schoamlock iutrierten.",
@@ -228,20 +224,16 @@
         "hochdeutsch": "Du bist übermütig. Du hast wohl zu viel Energie, dass du diesen Blödsinn machst."
     },
     {
-        "plattdeutsch": "Dicke Melk un soite, dat gif schwanke Foite.",
-        "hochdeutsch": "Dickmilch mit Zucker kommt gut an. Dickmilch mit Zucker lässt die Schleckermäuler herbeieilen."
-    },
-    {
         "plattdeutsch": "Diu froages den Rühen ’n Lock in’n Oars.",
         "hochdeutsch": "Du nervst mit deinen ständigen Fragen."
     },
     {
-        "plattdeutsch": "Diu häs wall den Oars open.",
-        "hochdeutsch": "Du bist wohl nicht ganz dicht. Du spinnst wohl."
-    },
-    {
         "plattdeutsch": "Diu häss wall den Oars open.",
         "hochdeutsch": "Du hast wohl den Arsch offen."
+    },
+    {
+        "plattdeutsch": "Diu häs wall den Oars open.",
+        "hochdeutsch": "Du bist wohl nicht ganz dicht. Du spinnst wohl."
     },
     {
         "plattdeutsch": "Diu moss doch dien Geld nich glieks vewittken.",
@@ -352,16 +344,12 @@
         "hochdeutsch": "Ich wollte nur Spaß mit dir machen."
     },
     {
-        "plattdeutsch": "Ein Heohn setten.",
-        "hochdeutsch": "Ein Huhn zum Brüten unter einem Korb festsetzen."
+        "plattdeutsch": "Einen annen Kanthoaken kriegen.",
+        "hochdeutsch": "Jemanden zur Verantwortung ziehen."
     },
     {
         "plattdeutsch": "Einen anne Pannen kriegen.",
         "hochdeutsch": "Sonnenstich oder Schlag an den Kopf bekommen."
-    },
-    {
-        "plattdeutsch": "Einen annen Kanthoaken kriegen.",
-        "hochdeutsch": "Jemanden zur Verantwortung ziehen."
     },
     {
         "plattdeutsch": "Einen trechtesetten.",
@@ -376,12 +364,12 @@
         "hochdeutsch": "Einer muß die unangenehme Entscheidung"
     },
     {
-        "plattdeutsch": "En geoet Schwien frett ulles.",
-        "hochdeutsch": "Stell dich beim Essen nicht so an."
+        "plattdeutsch": "Ein Heohn setten.",
+        "hochdeutsch": "Ein Huhn zum Brüten unter einem Korb festsetzen."
     },
     {
-        "plattdeutsch": "Et / Hei häf ein’n dürdraaihet.",
-        "hochdeutsch": "Sie / Er hat Schweres erlebt."
+        "plattdeutsch": "En geoet Schwien frett ulles.",
+        "hochdeutsch": "Stell dich beim Essen nicht so an."
     },
     {
         "plattdeutsch": "Et eiget di nich.",
@@ -424,16 +412,20 @@
         "hochdeutsch": "Es hat heute Nacht ein wenig gefroren."
     },
     {
-        "plattdeutsch": "Et heff onning hiustert",
-        "hochdeutsch": "Das Wetter hat viel verwüstet"
-    },
-    {
         "plattdeutsch": "Et häff geot gürlt.",
         "hochdeutsch": "Guter Ertrag bei der Getreideernte."
     },
     {
         "plattdeutsch": "Et häff geot turket.",
         "hochdeutsch": "Es hat gut geklappt."
+    },
+    {
+        "plattdeutsch": "Et heff onning hiustert",
+        "hochdeutsch": "Das Wetter hat viel verwüstet"
+    },
+    {
+        "plattdeutsch": "Et / Hei häf ein’n dürdraaihet.",
+        "hochdeutsch": "Sie / Er hat Schweres erlebt."
     },
     {
         "plattdeutsch": "Et lett geot.",
@@ -492,12 +484,24 @@
         "hochdeutsch": "Er ist stolz trotz allem."
     },
     {
-        "plattdeutsch": "Haul dienen Rand!",
-        "hochdeutsch": "Halt deinen Mund!"
+        "plattdeutsch": "Häbb gi teo Hiuse Säcke vür de Dür︖",
+        "hochdeutsch": "Mach die Tür zu!"
     },
     {
-        "plattdeutsch": "Hei / Et es geot inschloan.",
-        "hochdeutsch": "Er / Sie / Es fügt sich gut ein und erfüllt die Erwartungen."
+        "plattdeutsch": "Häff hei/et denn schon wat anhoalt︖",
+        "hochdeutsch": "Hat er/sie sich erholt und an Gewicht zugenommen︖ (Eine Frage in Bezug auf Kuren in der Nachkriegszeit wo Menschen auf Grund von Hunger und Krankheit unterernährt waren.)"
+    },
+    {
+        "plattdeutsch": "Hässe diene Pieselotten teohaupe︖",
+        "hochdeutsch": "Hast du deine Siebensachen gepackt︖"
+    },
+    {
+        "plattdeutsch": "Hässe doarup lettet︖",
+        "hochdeutsch": "Hast du darauf geachtet︖"
+    },
+    {
+        "plattdeutsch": "Haul dienen Rand!",
+        "hochdeutsch": "Halt deinen Mund!"
     },
     {
         "plattdeutsch": "Hei döat hennflaaien.",
@@ -524,6 +528,14 @@
         "hochdeutsch": "Er ist auf die schiefe Bahn geraten. (sozialer Abstieg)"
     },
     {
+        "plattdeutsch": "Hei / Et es geot inschloan.",
+        "hochdeutsch": "Er / Sie / Es fügt sich gut ein und erfüllt die Erwartungen."
+    },
+    {
+        "plattdeutsch": "Hei/et häff nix teoteosetten.",
+        "hochdeutsch": "Er/sie hat keine körperlichen Reserven für eventuelle Krankheitsfälle. Er/sie ist ganz abgemagert."
+    },
+    {
         "plattdeutsch": "Hei flötket iut’n lesten Looke.",
         "hochdeutsch": "Er pfeift aus dem letzten Loch (atemlos)."
     },
@@ -532,16 +544,16 @@
         "hochdeutsch": "Er gab zur Antwort："
     },
     {
-        "plattdeutsch": "Hei häff de Spendierböxen ahne.",
-        "hochdeutsch": "Er ist spendabel."
-    },
-    {
         "plattdeutsch": "Hei häff den Kopp annen Messe.",
         "hochdeutsch": "Er ist sterbenskrank und liegt im Bett."
     },
     {
         "plattdeutsch": "Hei häff den Oars teoknierpen",
         "hochdeutsch": "Er ist gestorben (respektlose Äußerung)."
+    },
+    {
+        "plattdeutsch": "Hei häff de Spendierböxen ahne.",
+        "hochdeutsch": "Er ist spendabel."
     },
     {
         "plattdeutsch": "Hei häff Lear anne Schniuten.",
@@ -560,12 +572,12 @@
         "hochdeutsch": "Groll auf jemand haben."
     },
     {
-        "plattdeutsch": "Hei häff sick ganz ümmedoan.",
-        "hochdeutsch": "Er hat einen Sinneswandel vollzogen."
-    },
-    {
         "plattdeutsch": "Hei häff öhnen eine klitzket.",
         "hochdeutsch": "Er hat ihm eine Ohrfeige gegeben."
+    },
+    {
+        "plattdeutsch": "Hei häff sick ganz ümmedoan.",
+        "hochdeutsch": "Er hat einen Sinneswandel vollzogen."
     },
     {
         "plattdeutsch": "Hei höart dat Gräss wassen.",
@@ -592,12 +604,12 @@
         "hochdeutsch": "Er ist viel unterwegs."
     },
     {
-        "plattdeutsch": "Hei schmitt sick inne Bost.",
-        "hochdeutsch": "Er ist stolz."
-    },
-    {
         "plattdeutsch": "Hei schmäat mit de Wost noa ne Siehenspeck.",
         "hochdeutsch": "Er benutze einen kleinen Vorwandt, um etwas Größeres zu erreichen."
+    },
+    {
+        "plattdeutsch": "Hei schmitt sick inne Bost.",
+        "hochdeutsch": "Er ist stolz."
     },
     {
         "plattdeutsch": "Hei socket dorhenn.",
@@ -632,28 +644,8 @@
         "hochdeutsch": "Er wollte mir ans Leder."
     },
     {
-        "plattdeutsch": "Hei/et häff nix teoteosetten.",
-        "hochdeutsch": "Er/sie hat keine körperlichen Reserven für eventuelle Krankheitsfälle. Er/sie ist ganz abgemagert."
-    },
-    {
         "plattdeutsch": "Hier werd nix ünnern Steohl steken.",
         "hochdeutsch": "Hier wird nichts verheimlicht."
-    },
-    {
-        "plattdeutsch": "Häbb gi teo Hiuse Säcke vür de Dür︖",
-        "hochdeutsch": "Mach die Tür zu!"
-    },
-    {
-        "plattdeutsch": "Häff hei/et denn schon wat anhoalt︖",
-        "hochdeutsch": "Hat er/sie sich erholt und an Gewicht zugenommen︖ (Eine Frage in Bezug auf Kuren in der Nachkriegszeit wo Menschen auf Grund von Hunger und Krankheit unterernährt waren.)"
-    },
-    {
-        "plattdeutsch": "Hässe diene Pieselotten teohaupe︖",
-        "hochdeutsch": "Hast du deine Siebensachen gepackt︖"
-    },
-    {
-        "plattdeutsch": "Hässe doarup lettet︖",
-        "hochdeutsch": "Hast du darauf geachtet︖"
     },
     {
         "plattdeutsch": "Inne Hurken sitten.",
@@ -688,12 +680,12 @@
         "hochdeutsch": "Loses Mundwerk (Lästermaul)"
     },
     {
-        "plattdeutsch": "Leiber Rühe uppen Hobe sien, orre …",
-        "hochdeutsch": "Ein Hund auf dem Hof hat es besser als …."
-    },
-    {
         "plattdeutsch": "Leiber’n Spatz inne Hand, wie ne Diuben uppen Doake.",
         "hochdeutsch": "Lieber einen Spatz in der Hand, als eine Taube auf dem Dach."
+    },
+    {
+        "plattdeutsch": "Leiber Rühe uppen Hobe sien, orre …",
+        "hochdeutsch": "Ein Hund auf dem Hof hat es besser als …."
     },
     {
         "plattdeutsch": "Liggen Geld un schniehen Braut es fix ulle.",
@@ -702,6 +694,14 @@
     {
         "plattdeutsch": "Loat doa van af!",
         "hochdeutsch": "Lass die Sache los! Lass es sein!"
+    },
+    {
+        "plattdeutsch": "\"Meinemann\" es daute, \"Froagoars\" lierbet nau.",
+        "hochdeutsch": "Meinen beruht nicht auf Fakten. Lieber durch Fragen der Sache auf den Grund gehen."
+    },
+    {
+        "plattdeutsch": "\"Meinen\", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.",
+        "hochdeutsch": "\"Meinen\" beruht nicht unbedingt auf Fakten."
     },
     {
         "plattdeutsch": "Me schall dat lüssen",
@@ -816,12 +816,12 @@
         "hochdeutsch": "Aus der Art geschlagen."
     },
     {
-        "plattdeutsch": "Uppen Schwengel schieten.",
-        "hochdeutsch": "Kein Durchhaltevermögen"
-    },
-    {
         "plattdeutsch": "Up’n Pinn trehen.",
         "hochdeutsch": "Gas geben, sich beeilen"
+    },
+    {
+        "plattdeutsch": "Uppen Schwengel schieten.",
+        "hochdeutsch": "Kein Durchhaltevermögen"
     },
     {
         "plattdeutsch": "Van’n Beinen dat räaßet.",
@@ -864,6 +864,18 @@
         "hochdeutsch": "Taubenzucht und Imkerei sind kostspielige Hobbys."
     },
     {
+        "plattdeutsch": "Wie de Backen sau de Hacken.",
+        "hochdeutsch": "So wie man isst arbeitet man."
+    },
+    {
+        "plattdeutsch": "Wie loat se sick schrieben︖",
+        "hochdeutsch": "Wie ist der offizielle Nachname︖ (Unterschied zum Hofstättennamen)"
+    },
+    {
+        "plattdeutsch": "Wiet hoalen un dür betoahlen.",
+        "hochdeutsch": "Weit holen und teuer bezahlen."
+    },
+    {
         "plattdeutsch": "Wi häbb ulles inne Fissen.",
         "hochdeutsch": "Wir haben alles im Griff."
     },
@@ -880,24 +892,12 @@
         "hochdeutsch": "Wir wollen zum Vergnügen ausgehen."
     },
     {
-        "plattdeutsch": "Wie de Backen sau de Hacken.",
-        "hochdeutsch": "So wie man isst arbeitet man."
-    },
-    {
-        "plattdeutsch": "Wie loat se sick schrieben︖",
-        "hochdeutsch": "Wie ist der offizielle Nachname︖ (Unterschied zum Hofstättennamen)"
-    },
-    {
-        "plattdeutsch": "Wiet hoalen un dür betoahlen.",
-        "hochdeutsch": "Weit holen und teuer bezahlen."
+        "plattdeutsch": "Woahr di!",
+        "hochdeutsch": "Nimm dich in Acht!"
     },
     {
         "plattdeutsch": "Wo hoarpert dat niu ran︖",
         "hochdeutsch": "Wo liegt das Problem︖"
-    },
-    {
-        "plattdeutsch": "Woahr di!",
-        "hochdeutsch": "Nimm dich in Acht!"
     },
     {
         "plattdeutsch": "Wü’ gi Spinners häm’m︖",
