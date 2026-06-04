@@ -28,16 +28,7 @@ function zufallsworte() {
 	const wortlisteRandomFragment = document.createDocumentFragment()
 
 	wortlisteRandom.slice(0, 9).forEach(function(wort) {
-		let prefix = ''
-
-		// Präfixe basiert auf Sprecherin
-		if(wort.plattdeutsch.localeCompare('n', 'de') < 0) {
-			// Helga Wittenfeld: "hw-", Worte A bis M
-			prefix = 'hw'
-		} else if (wort.plattdeutsch.localeCompare('n', 'de') > 0) {
-			// Annette Borchardt: "ab-", Worte N bis Z
-			prefix = 'ab'
-		}
+		let prefix = wort.sprecher
 
 		// Artikel sind in den Daten separat. Wir sortieren nach Wort, zeigen aber mit Artikel an.
 		if(wort.artikel) {
@@ -75,16 +66,7 @@ zufallsworte()
 const wortlisteFragment = document.createDocumentFragment()
 
 wortliste.forEach(function(wort) {
-	let prefix = ''
-
-	// Präfixe basiert auf Sprecherin
-	if(wort.plattdeutsch.localeCompare('n', 'de') < 0) {
-		// Helga Wittenfeld: "hw-", Worte A bis M
-		prefix = 'hw'
-	} else if (wort.plattdeutsch.localeCompare('n', 'de') > 0) {
-		// Annette Borchardt: "ab-", Worte N bis Z
-		prefix = 'ab'
-	}
+	let prefix = wort.sprecher
 
 	// Artikel sind in den Daten separat. Wir sortieren nach Wort, zeigen aber mit Artikel an.
 	if(wort.artikel) {
