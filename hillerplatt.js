@@ -7,17 +7,51 @@ function shuffleArray(array) {
     }
 }
 
+// Toast-Notification für fehlende Audio-Dateien
+function showToast(message) {
+	let toast = document.createElement('div');
+	toast.style.cssText = `
+		position: fixed;
+		bottom: 20px;
+		left: 50%;
+		transform: translateX(-50%);
+		background-color: #333;
+		color: white;
+		padding: 15px 20px;
+		border-radius: 5px;
+		z-index: 9999;
+		font-size: 14px;
+	`;
+	toast.textContent = message;
+	document.body.appendChild(toast);
+	
+	setTimeout(function() {
+		toast.remove();
+	}, 3000);
+}
+
 // Audioaufnahmen abspielen
 function playAudio(name, ordner) {
 	let audio
+	let audioPath
 
 	if(ordner === 'redewendungen') {
-		audio = new Audio('audio/redewendungen/' + name + '.flac');
+		audioPath = 'audio/redewendungen/' + name + '.flac';
 	} else {
-		audio = new Audio('audio/recorder/' + name + '.flac');
+		audioPath = 'audio/recorder/' + name + '.flac';
 	}
 
-	audio.play();
+	audio = new Audio(audioPath);
+	
+	audio.onerror = function() {
+		showToast('Noch keine Audiodatei verfügbar.');
+		console.warn('Noch keine Audiodatei verfügbar: ' + audioPath);
+	};
+
+	audio.play().catch(function(error) {
+		showToast('Noch keine Audiodatei verfügbar.');
+		console.warn('Noch keine Audiodatei verfügbar: ' + audioPath);
+	});
 }
 
 // Randomisierte Wortliste füllen
