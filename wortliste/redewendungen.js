@@ -570,9 +570,9 @@ const redewendungen = [
         "audio": "Et werd bidann föarig..flac"
     },
     {
-        "plattdeutsch": "Et ／ Hei häf ein’n dürdraaihet.",
+        "plattdeutsch": "Et／hei häf ein’n dürdraaihet.",
         "hochdeutsch": "Sie / Er hat Schweres erlebt.",
-        "audio": "Et ／ Hei häf ein’n dürdraaihet..flac"
+        "audio": "Et／hei häf ein’n dürdraaihet..flac"
     },
     {
         "plattdeutsch": "Find de heilge Christ ´ne Brüggen, denn breck hei se; find hei keine, denn beoet hei eine.",
@@ -795,9 +795,9 @@ const redewendungen = [
         "audio": "Hei weol mi an’t Lear..flac"
     },
     {
-        "plattdeutsch": "Hei ／ Et es geot inschloan.",
+        "plattdeutsch": "Hei／et es geot inschloan.",
         "hochdeutsch": "Er / Sie / Es fügt sich gut ein und erfüllt die Erwartungen.",
-        "audio": "Hei ／ Et es geot inschloan..flac"
+        "audio": "Hei／et es geot inschloan..flac"
     },
     {
         "plattdeutsch": "Hei／et häff nix teoteosetten.",
@@ -851,7 +851,7 @@ const redewendungen = [
     },
     {
         "plattdeutsch": "Leiber Rühe uppen Hobe sien, orre …",
-        "hochdeutsch": "Ein Hund auf dem Hof hat es besser als ….",
+        "hochdeutsch": "Ein Hund auf dem Hof hat es besser als …",
         "audio": "Leiber Rühe uppen Hobe sien, orre ….flac"
     },
     {
