@@ -7,172 +7,86 @@ function shuffleArray(array) {
     }
 }
 
-// Toast-Notification für fehlende Audio-Dateien
 function showToast(message) {
-	let toast = document.createElement('div');
-	toast.style.cssText = `
-		position: fixed;
-		bottom: 20px;
-		left: 50%;
-		transform: translateX(-50%);
-		background-color: #333;
-		color: white;
-		padding: 15px 20px;
-		border-radius: 5px;
-		z-index: 9999;
-		font-size: 14px;
-	`;
-	toast.textContent = message;
-	document.body.appendChild(toast);
-	
-	setTimeout(function() {
-		toast.remove();
-	}, 3000);
+    const toast = document.createElement('div');
+    toast.style.cssText = `
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #333;
+        color: white;
+        padding: 15px 20px;
+        border-radius: 5px;
+        z-index: 9999;
+        font-size: 14px;
+    `;
+    toast.textContent = message;
+    document.body.appendChild(toast);
+    setTimeout(() => toast.remove(), 3000);
 }
 
-// Audioaufnahmen abspielen
-function playAudio(name, ordner) {
-	let audio
-	let audioPath
-
-	if(ordner === 'redewendungen') {
-		audioPath = 'audio/redewendungen/' + name + '.flac';
-	} else {
-		audioPath = 'audio/recorder/' + name + '.flac';
-	}
-
-	audio = new Audio(audioPath);
-	
-	audio.onerror = function() {
-		showToast('Noch keine Audiodatei verfügbar.');
-		console.warn('Noch keine Audiodatei verfügbar: ' + audioPath);
-	};
-
-	audio.play().catch(function(error) {
-		showToast('Noch keine Audiodatei verfügbar.');
-		console.warn('Noch keine Audiodatei verfügbar: ' + audioPath);
-	});
+function playAudio(filename, kind) {
+    const folder = kind === 'redewendungen' ? 'redewendungen' : 'recorder';
+    // Der Generator liefert den exakten Dateinamen; URL-Sonderzeichen müssen kodiert werden.
+    const audioPath = 'audio/' + folder + '/' + encodeURIComponent(filename);
+    const audio = new Audio(audioPath);
+    let reported = false;
+    const reportMissing = () => {
+        if (reported) return;
+        reported = true;
+        showToast('Noch keine Audiodatei verfügbar.');
+        console.warn('Noch keine Audiodatei verfügbar: ' + audioPath);
+    };
+    audio.onerror = reportMissing;
+    audio.play().catch(reportMissing);
 }
 
-// Randomisierte Wortliste füllen
-wortlisteRandom = wortliste.slice(0)
+function makeEntry(entry, kind) {
+    const item = document.createElement('li');
+    item.classList.add('col-md-4');
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.addEventListener('click', () => playAudio(entry.audio, kind));
+    const title = document.createElement('h3');
+    title.textContent = kind === 'redewendungen'
+        ? entry.plattdeutsch
+        : (entry.artikel ? entry.artikel + ' ' : '') + entry.plattdeutsch;
+    const translation = document.createElement('p');
+    translation.textContent = entry.hochdeutsch;
+    button.append(title, translation);
+    item.appendChild(button);
+    return item;
+}
 
+const wortlisteRandom = wortliste.slice();
 function zufallsworte() {
-	shuffleArray(wortlisteRandom)
-	const wortlisteRandomFragment = document.createDocumentFragment()
-
-	wortlisteRandom.slice(0, 9).forEach(function(wort) {
-		let prefix = wort.sprecher
-
-		// Artikel sind in den Daten separat. Wir sortieren nach Wort, zeigen aber mit Artikel an.
-		if(wort.artikel) {
-			wort.plattdeutschKomplett = wort.artikel + ' ' + wort.plattdeutsch
-		} else {
-			wort.plattdeutschKomplett = wort.plattdeutsch
-		}
-
-		let wortblock = document.createElement('li')
-
-		wortblock.classList.add('col-md-4')
-
-		let block = ''
-
-		// HTML zusammenbauen
-		// Fragezeichen sind in Dateinamen nicht erlaubt
-		block += '<button type="button" onclick="playAudio(\'' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '\')">'
-		block += '<h3>' + wort.plattdeutschKomplett + '</h3>'
-		block += '<p>' + wort.hochdeutsch + '</p>'
-		block += '</button>'
-
-		wortblock.innerHTML = block
-		wortlisteRandomFragment.appendChild(wortblock)
-	})
-
-	document.getElementById('wortliste-random').innerHTML = ''
-	document.getElementById('wortliste-random').appendChild(wortlisteRandomFragment)
+    shuffleArray(wortlisteRandom);
+    const fragment = document.createDocumentFragment();
+    wortlisteRandom.slice(0, 9).forEach(entry => fragment.appendChild(makeEntry(entry, 'woerter')));
+    const list = document.getElementById('wortliste-random');
+    list.replaceChildren(fragment);
 }
+zufallsworte();
 
-zufallsworte()
+const wortlisteFragment = document.createDocumentFragment();
+wortliste.forEach(entry => wortlisteFragment.appendChild(makeEntry(entry, 'woerter')));
+const wortlisteElement = document.getElementById('wortliste');
+wortlisteElement.appendChild(wortlisteFragment);
 
+const wordItems = Array.from(wortlisteElement.querySelectorAll('li'));
+document.getElementById('search').addEventListener('input', function() {
+    const value = this.value.toLocaleLowerCase('de');
+    let matches = 0;
+    wordItems.forEach(item => {
+        const visible = item.textContent.toLocaleLowerCase('de').includes(value);
+        item.style.display = visible ? '' : 'none';
+        if (visible) matches++;
+    });
+    document.querySelector('.search-item').textContent = this.value;
+    document.getElementById('search-error').style.visibility = matches ? 'hidden' : 'visible';
+});
 
-
-// Wortliste füllen
-const wortlisteFragment = document.createDocumentFragment()
-
-wortliste.forEach(function(wort) {
-	let prefix = wort.sprecher
-
-	// Artikel sind in den Daten separat. Wir sortieren nach Wort, zeigen aber mit Artikel an.
-	if(wort.artikel) {
-		wort.plattdeutschKomplett = wort.artikel + ' ' + wort.plattdeutsch
-	} else {
-		wort.plattdeutschKomplett = wort.plattdeutsch
-	}
-
-	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4')
-
-	let block = ''
-
-	// HTML zusammenbauen
-	// Fragezeichen sind in Dateinamen nicht erlaubt
-	block += '<button type="button" onclick="playAudio(\'' + prefix + '-' + wort.plattdeutschKomplett.replace('?', '') + '\')">'
-	block += '<h3>' + wort.plattdeutschKomplett + '</h3>'
-	block += '<p>' + wort.hochdeutsch + '</p>'
-	block += '</button>'
-
-	wortblock.innerHTML = block
-	wortlisteFragment.appendChild(wortblock)
-})
-
-document.getElementById('wortliste').appendChild(wortlisteFragment)
-
-
-// Suchfunktion
-document.querySelector('#search').addEventListener('keyup', function() {
-	var value = this.value.toLowerCase()
-
-	// Erst alle Wörter verstecken
-	document.querySelectorAll('#wortliste li').forEach(el => el.style.setProperty('display', 'none', 'important'))
-
-	// Auf Basis der Suche die Wörter zeigen
-	Array.from(document.querySelectorAll('#wortliste li'))
-		.filter(el => el.textContent.toLowerCase().match(value))
-		.forEach(el => el.style.display = null)
-
-	// Suchmeldung anfangs verstecken
-	document.querySelector('#search-error').style.visibility = 'hidden'
-
-	// Keine Suchergebnisse (leere Liste) → Suchmeldung anzeigen
-	if(document.querySelector('#wortliste').offsetHeight === 0) {
-		document.querySelector('.search-item').textContent = value
-		document.querySelector('#search-error').style.visibility = 'visible'
-	}
-})
-
-
-
-// Redewendungen füllen
-const redewendungenFragment = document.createDocumentFragment()
-
-redewendungen.forEach(function(wort) {
-	let wortblock = document.createElement('li')
-	wortblock.classList.add('col-md-4')
-
-	let block = ''
-	let prefix = ''
-	// Aktuell keine Präfixe, alles Marie Wiese
-
-	// HTML zusammenbauen
-	// Fragezeichen sind in Dateinamen nicht erlaubt
-	block += '<button type="button" onclick="playAudio(\'' + wort.plattdeutsch.replace('?', '') + '\', \'redewendungen\')">'
-
-	block += '<h3>' + wort.plattdeutsch + '</h3>'
-	block += '<p>' + wort.hochdeutsch + '</p>'
-	block += '</button>'
-
-	wortblock.innerHTML = block
-	redewendungenFragment.appendChild(wortblock)
-})
-
-document.getElementById('wortliste-redewendungen').appendChild(redewendungenFragment)
+const redewendungenFragment = document.createDocumentFragment();
+redewendungen.forEach(entry => redewendungenFragment.appendChild(makeEntry(entry, 'redewendungen')));
+document.getElementById('wortliste-redewendungen').appendChild(redewendungenFragment);

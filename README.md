@@ -45,15 +45,14 @@ Hermann Böhne, Annette Borchardt, Karin Childs, Karl-Heinz Hucke, Ewald Kröger
 --------------------------------------
 
 
-## Wortliste konvertieren
-1. XLSX → CSV per LibreOffice "Speichern als". Field delimiter `Tab`, String delimiter `` (leer)
-2. CSV → JSON per https://csvjson.com/csv2json → Headings ändern auf "artikel	plattdeutsch	hochdeutsch"
-3. JSON → JS object per https://www.convertonline.io/convert/json-to-js → mit `const wortliste = ` davor speichern
+## Wörterbuch und Redewendungen synchronisieren
+
+Die aktuelle Quelle ist [`wortliste/Tabelle.xlsx`](wortliste/Tabelle.xlsx). Die Webdaten und Recorder-Listen werden mit den Skripten in `tools/` erzeugt. Der vollständige Ablauf, die Audio-Dateinamen und die Prüfungen stehen in [`tools/README.md`](tools/README.md). CSV, JSON und JS bitte nicht einzeln bearbeiten.
 
 
 ## Aufnahmen
 - .flac als Format, ist klein und kompatibel https://caniuse.com/#feat=flac
-- Dateinamenbenennung: mit Initialen, Bindestrich und Wort, zB `hw-dat Aai.flac` – unklar, ob Initialen eine gute Idee ist, weil es nicht performant ist, per Javascript zu testen, welche Datei vorhanden ist
+- Dateinamen gemäß [`tools/README.md`](tools/README.md): Wörter mit `ab-` oder `hw-`, Redewendungen ohne Präfix; der generierte `audio`-Wert ist der exakte Dateiname. Beispiel: `hw-dat Aai.flac`.
 - Ein gutes Mikrofon (welches wird genutzt?)
 - Aufnahme einfach mit Laptop oder Handy, Aufnahmeprogramm.
 - Jedes Wort oder Sprichwort einzeln aufnehmen. Direkt anfangen zu reden, so wenig wie möglich Pause am Anfang und Ende. Aufnahme sofort nach aufgenommenem Wort benennen.

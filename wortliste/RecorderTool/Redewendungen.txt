@@ -1,3 +1,5 @@
+"Meinemann" es daute, "Froagoars" lierbet nau.
+"Meinen", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.
 Achter Hartmanns Backs liggen.
 An geden Schliepstein es’n Draaiher.
 Bet inne Pechhütten schloapen.
@@ -17,9 +19,9 @@ Dat Schwien noa’n Bärn bringen.
 Dat sitt dor sau inne Stänners.
 Dat süht man upstierns anners.
 Dat tüht nich in’n hohlen Baum.
-Datt was ne Allmacht mit de beaden
 Dat was Schmu.
 Dat wü wi hauge haul’n.
+Datt was ne Allmacht mit de beaden
 Dau kamm hei dormiehe vendagg.
 De Dagg es nich annen Stoaken biunen.
 De dör us en rooen Wurm schieten.
@@ -40,9 +42,6 @@ De kieket sick nich moal mit’m Oarse an.
 De kummp nau ümme Hansken un Heot.
 De lütke Febewoar kann us nau Ohen ansetten.
 De mott nau inne Feogen drücket wern.
-Den es wall ne Lius ober de Lierbern laupen.
-Denn süße oaber en Rühen iutstiuben.
-Den ploaget de Weeldoage.
 De Pannen lett geot.
 De Schlagg häff Ölge schloan.
 De sind mi iute Kunne wossen.
@@ -51,12 +50,15 @@ De Stoff (es)schiehet.
 De Sünne sitt up’m Gliehe. - Fiulwams wutt diu miehe︖
 De Tiet was knappe berennt.
 De Üßen den Kopp afbieten
-Dicke Melk un soite, dat gif schwanke Foite.
+Den es wall ne Lius ober de Lierbern laupen.
+Den ploaget de Weeldoage.
+Denn süße oaber en Rühen iutstiuben.
 Di häbb se wall dat Schoamlock iutrierten.
 Di steck wall de Hoaber.
+Dicke Melk un soite, dat gif schwanke Foite.
 Diu froages den Rühen ’n Lock in’n Oars.
-Diu häss wall den Oars open.
 Diu häs wall den Oars open.
+Diu häss wall den Oars open.
 Diu moss doch dien Geld nich glieks vewittken.
 Diu moss nau en Tacken teoleggen.
 Diu Oars!
@@ -84,13 +86,14 @@ Eck häbbe mi dat teowiern’ gierten.
 Eck mott iute Böxen.
 Eck well niu van dür.
 Eck weol di nur naaen.
-Einen annen Kanthoaken kriegen.
+Ein Heohn setten.
 Einen anne Pannen kriegen.
+Einen annen Kanthoaken kriegen.
 Einen trechtesetten.
 Einen vür de Schwürpen hämmen.
 Einer mott de Üßen dehen Kopp afbieten.
-Ein Heohn setten.
 En geoet Schwien frett ulles.
+Et / Hei häf ein’n dürdraaihet.
 Et eiget di nich.
 Et es biuten ganz schörne schnüffe.
 Et es en feinet Lüht.
@@ -104,7 +107,6 @@ Et haa venacht en birten knierpen.
 Et häff geot gürlt.
 Et häff geot turket.
 Et heff onning hiustert
-Et / Hei häf ein’n dürdraaihet.
 Et lett geot.
 Et ligg mi uppe Tungen.
 Et sibbelt sau saachte bi an.
@@ -124,19 +126,18 @@ Häff hei/et denn schon wat anhoalt︖
 Hässe diene Pieselotten teohaupe︖
 Hässe doarup lettet︖
 Haul dienen Rand!
+Hei / Et es geot inschloan.
 Hei döat hennflaaien.
 Hei es en birten trüggeblierm.
 Hei es en Lärgen.
 Hei es gümme an klüütken.
 Hei es schlonzig.
 Hei es up de Billerboahn kurm.
-Hei / Et es geot inschloan.
-Hei/et häff nix teoteosetten.
 Hei flötket iut’n lesten Looke.
 Hei gaff trügge
+Hei häff de Spendierböxen ahne.
 Hei häff den Kopp annen Messe.
 Hei häff den Oars teoknierpen
-Hei häff de Spendierböxen ahne.
 Hei häff Lear anne Schniuten.
 Hei häff mi dat iutenanner klamüsert
 Hei häff nix inne Meoen.
@@ -159,6 +160,7 @@ Hei was kort ümme.
 Hei was saun birten schelü.
 Hei weit Hiusgelegenhert.
 Hei weol mi an’t Lear.
+Hei/et häff nix teoteosetten.
 Hier werd nix ünnern Steohl steken.
 Inne Hurken sitten.
 Inne Lucht sitten.
@@ -168,12 +170,10 @@ Kaff dössken
 Kinner mitten Willen krieget wat mitte Twillen.
 Kummp nömms
 Lauset Miulweerk
-Leiber’n Spatz inne Hand, wie ne Diuben uppen Doake.
 Leiber Rühe uppen Hobe sien, orre …
+Leiber’n Spatz inne Hand, wie ne Diuben uppen Doake.
 Liggen Geld un schniehen Braut es fix ulle.
 Loat doa van af!
-"Meinemann" es daute, "Froagoars" lierbet nau.
-"Meinen", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.
 Me schall dat lüssen
 Mi döat de Rügge weih.
 Mienejoahr, schiet wat up’t aule Joahr.
@@ -202,8 +202,8 @@ Soite un Siuer vedeerf de Natiuer.
 Stripp, strapp, strull, es de Ömmer nau nich vull.
 Teoe Bucht kriegen
 Uit de Oart schloan.
-Up’n Pinn trehen.
 Uppen Schwengel schieten.
+Up’n Pinn trehen.
 Van’n Beinen dat räaßet.
 Wat obe de Kante bringen.
 Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ / Konns diu nich Doagestiet säggen︖
@@ -214,13 +214,13 @@ Wenn de Ziergen Woater süht, denn well se lappen.
 Wenn et eems es.
 Wenn mi dornoa es, denn … Wenn ich Lust dazu habe, dann … Dor was mi nich noa.
 Wer sien Geld well fleigen seihn, de hang et ant Diuben- un Immebein.
-Wie de Backen sau de Hacken.
-Wie loat se sick schrieben︖
-Wiet hoalen un dür betoahlen.
 Wi häbb ulles inne Fissen.
 Wi moaket vedann wieter.
 Wi oarbert’e bian.
 Wi wütt ’n Hitken fillen.
-Woahr di!
+Wie de Backen sau de Hacken.
+Wie loat se sick schrieben︖
+Wiet hoalen un dür betoahlen.
 Wo hoarpert dat niu ran︖
+Woahr di!
 Wü’ gi Spinners häm’m︖

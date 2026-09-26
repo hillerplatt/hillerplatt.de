@@ -2,7 +2,7 @@ afliuen
 afschoaben
 afschobbern
 anhoalen
-Bass ( in Bass kurm)
+Bass (in Bass kurm)
 beschieten
 betuppen
 bidenne (Goa dor bidenne!)
@@ -13,12 +13,11 @@ dat Hult (innen Hulte)
 dat Ketäakelken
 dat Keterkelken
 dat Krüüß
-dat Krüüß
 dat Lärge
 dat Lett
 dat Mienejoahr
-dat Oisken
 dat Öller
+dat Oisken
 dat Pökelfleisk
 dat Pöttkegeschirr
 dat Schoabeßel
@@ -63,7 +62,6 @@ de Messhoaken
 de Messwoagen
 de Minn’ner Misse
 de Misse
-deon
 de Pennelpleog
 de Pöttker
 de Pöttkeßel
@@ -93,6 +91,7 @@ de Tullstock
 de Twasstroate
 de Wunsk
 de Zappkeoken
+deon
 Doagestiet säggen
 eems
 eiget
@@ -112,7 +111,6 @@ iutplünnern
 iutsöhnen
 kaalken
 ketaulsk
-ketaulsk
 knellen
 koaterig
 kodderig
@@ -128,7 +126,6 @@ oberschlobbern
 obertorrern
 pierperig
 plünnern
-püttken
 püttken
 rümmespalkoren
 schall

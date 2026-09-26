@@ -11,7 +11,11 @@ achteran
 achterheer
 achternanner
 achterümme
+ängestig (ängestich)
+ännern
 af
+af un an
+af un teo
 afännern
 afbaalgen
 afbieten
@@ -37,15 +41,15 @@ afglippen
 afgnabbeln
 afgresen
 afgünstig
-afhanden
 afhängig (afhängich)
+afhanden
 afhaulen
 afhaulen
 afheoen
 afhoaken
 afhoarken
-afhöarn
 afhocken
+afhöarn
 afjachtern
 afkanzeln
 afkeoen
@@ -113,8 +117,6 @@ afteiken
 aftellen
 aftoiben
 aftrehen
-af un an
-af un teo
 afwasken
 afwisken
 ahne
@@ -122,6 +124,7 @@ akkedaaien
 akkroat
 Amerikoa
 an
+an dem sien
 anbaaien
 anbeoen
 anbienen
@@ -134,7 +137,6 @@ anbrennen
 anbucken
 anbühen
 andeinen
-an dem sien
 andeon
 andeon (sick wat andeon)
 andössken
@@ -147,7 +149,6 @@ anfoihen
 anfoihlen
 anfutken
 angeiten
-ängestig (ängestich)
 angierm
 angnabbeln
 angoahn
@@ -182,7 +183,6 @@ annegeln
 annen
 annen Enne
 annere
-ännern
 anners
 annersrümme
 annertiet
@@ -244,16 +244,16 @@ baaien
 baalgen
 backen
 bähen
+bännigen
+bärde
+bärsk
 Bammel hämmen
 bange
 bange moaken
 bange sien
 bannig (bannich)
-bännigen
-bärde
-bärsk
+Bass (in Bass kurm)
 bassen
-Bass ( in Bass kurm)
 baule
 Bedacht (mit Bedacht)
 bedacht sien
@@ -375,9 +375,9 @@ bitterböase
 biuten
 biwieten
 blackstärt
+blänken
 blaffen
 blahen
-blänken
 blau
 blaus
 blaut
@@ -402,19 +402,19 @@ bluchterig (bluchterich)
 boan
 boarselig (boarselich)
 boarsk
-böase
 bockbeinig
+böase
+bölken
+bössen
 boistern
 boiten
-bölken
 boom
 bossen
-bössen
 bottern
 bräet
 bräetbeinig
-brammen
 brästig (brästich)
+brammen
 bregenklürterig
 breitz
 breken
@@ -429,18 +429,18 @@ broaken
 brühen
 bücken
 bühen
+bündken
 bullsterig (bullsterich)
 bullweerken
-bündken
 bunt
 bunt moaken
 burseln
 butt
 butz
 daaien
-dampen
 dämpen
 dämpig (dämpich)
+dampen
 danken
 danne
 danzen
@@ -475,8 +475,8 @@ dat Bild; de Biller
 dat Billerbeok
 dat Blaag (Blaach); de Bloargen
 dat Blackglass
-dat Blatt; de Bleare
 dat Blatt (innen Bloae)
+dat Blatt; de Bleare
 dat Bleck
 dat Bleikestück
 dat Bleot
@@ -523,8 +523,8 @@ dat Drachloaken
 dat Driefhius
 dat Drüttel
 dat Düenanner
-dat Dullhius
 dat Dürhäng
+dat Dullhius
 dat Dutzend
 dat Eckhius
 dat Enne
@@ -596,9 +596,9 @@ dat Glücke
 dat Gnoadenbeok
 dat Goarn
 dat Gössel
-dat Graff; de Greber
 dat Gräss
 dat Grässspier
+dat Graff; de Greber
 dat Grautmiul
 dat Greoen
 dat Griesbraut
@@ -637,16 +637,16 @@ dat Hoagelschiuer
 dat Hoahnentreaßel
 dat Hoai
 dat Hoar; de Hoare
-dat Höarn; de Höarns
 dat Hoarnetz
 dat Hoarspier
 dat Hochtietspoar
+dat Höarn; de Höarns
 dat Huck
-dat Hult
-dat Hultdeil
-dat Hult (innen Hulte)
-dat Hulzkenlear
 dat Hüüsken
+dat Hult
+dat Hult (innen Hulte)
+dat Hultdeil
+dat Hulzkenlear
 dat Iis
 dat Iisen
 dat Immeschiuer
@@ -679,15 +679,15 @@ dat Kleoen
 dat Klitzkenzapp
 dat Klobenmest
 dat Klümpken
-dat Klumpsoat
 dat Klürtergeld
+dat Klumpsoat
 dat Knai; de Knaaie
 dat Knick
+dat Kööksel
+dat Köppken
 dat Kommerfack
 dat Konfiefken
 dat Kooen
-dat Kööksel
-dat Köppken
 dat Koppküssen
 dat Koppweih
 dat Kriuplock
@@ -699,9 +699,9 @@ dat Kürkenschapp
 dat Kürßel
 dat Küssen
 dat Lämmken
-dat Land (uppen Lanne)
 dat Lärd
 dat Lärge
+dat Land (uppen Lanne)
 dat Lauf
 dat Laus
 dat Lear
@@ -713,20 +713,20 @@ dat Lied
 dat Lief
 dat Liefken
 dat Liefweih
+dat Liek (noan Lieke)
 dat Liekdörn
 dat Liekloaken
-dat Liek (noan Lieke)
 dat Lienen
 dat Lienölge
 dat Liensoat
 dat Lierben
 dat Littermoate
-dat Löabecken
 dat Loager
 dat Loaken
 dat Lock
-dat Loff
+dat Löabecken
 dat Löskeblatt
+dat Loff
 dat Lüht
 dat Lürgeniis
 dat Lütke
@@ -764,15 +764,15 @@ dat Oalfatt
 dat Oarslock
 dat Oberhiermd
 dat Oberwoater
+dat Ölge
+dat Öller
+dat Ööfken
 dat Ohmnlock
 dat Ohmnrohr
 dat Ohr
 dat Oiber
 dat Oiber
 dat Oisken
-dat Ölge
-dat Öller
-dat Ööfken
 dat Pannenroießel
 dat Pannkeokendeil
 dat Peck
@@ -786,25 +786,25 @@ dat Pesteoernhius
 dat Piepensärbeßel
 dat Pierk
 dat Pierksel
-dat Plattdütsk
 dat Plättisen
+dat Plattdütsk
 dat Pleogisen
 dat Ploaster
 dat Plückefett
 dat Poar
 dat Pökelfleisk
+dat Pöttkegeschirr
 dat Poppier
 dat Potthius
-dat Pöttkegeschirr
 dat Pucken
+dat Püppken
 dat Pullhult
 dat Pulwer
 dat Pund
 dat Pundstücke; de Punkstücke
-dat Püppken
 dat Quedroat
-dat Räap
 dat Rad; de Reere
+dat Räap
 dat Reengenweer
 dat Reff
 dat Reid
@@ -821,17 +821,17 @@ dat Rietpeerd
 dat Rindfleisk
 dat Rindlear
 dat Rindveih
-dat Röakeschapp
 dat Roathius
+dat Röakeschapp
 dat Roggenbraut
 dat Roggenfärld
 dat Roggenwief
 dat Roibesoat
 dat Roießel
+dat Rüsthult
 dat Rullbrett
 dat Runkellauf
 dat Rusk
-dat Rüsthult
 dat Saaiefatt
 dat Saaißenstreck
 dat Säel
@@ -864,19 +864,19 @@ dat Schoabeßel
 dat Schoalbrett
 dat Schoap
 dat Schoar
-dat Schoer; de Schöare
-dat Schoppk
 dat Schöppsel
+dat Schoer; de Schöare
 dat Schöttelbeoed
+dat Schoppk
 dat Schrappsel
 dat Schraut
 dat Schriefsel
 dat Schrinnsel
 dat Schüht
-dat Schullerblatt
-dat Schuppsel
 dat Schürbrett
 dat Schüssel
+dat Schullerblatt
+dat Schuppsel
 dat Schwattbraut
 dat Schwetzkenmirragg
 dat Schwetzkenzapp
@@ -900,11 +900,11 @@ dat Splinthult
 dat Spoiksel
 dat Spoilwoater
 dat Sprützenhius
+dat Stännerweerk
 dat Stammenne
 dat Stammhius
 dat Standweer
 dat Stankett
-dat Stännerweerk
 dat Steekiisen
 dat Steerbenswoort
 dat Steffkiend
@@ -927,7 +927,6 @@ dat Sünnekindken
 dat Sürgeschwien
 dat Süster
 dat Sutken
-datt
 dat Taalglecht
 dat Tappenlock
 dat Taskendeok
@@ -952,14 +951,14 @@ dat Toorfmest
 dat Treoerhius
 dat Tuchthius
 dat Tuchtschwien
+dat Tüüg (Tüüch)
 dat Tull
 dat Tuppen
-dat Tüüg (Tüüch)
-dat Ulldoagestüüg (Ulldoagestüüch)
-dat Unglücke
 dat Ünnerhiermd
 dat Ünnerkinn
 dat Ünnerlief
+dat Ulldoagestüüg (Ulldoagestüüch)
+dat Unglücke
 dat Unneweer
 dat Untüüg (Untüüch)
 dat Unweer
@@ -1010,15 +1009,15 @@ dat Woagenstell
 dat Woater
 dat Wockenblatt
 dat Wöörbeok
-dat Woort; de Wööre
 dat Wöpkenbraut
+dat Woort; de Wööre
+dat Würksel
 dat Wulldeok
 dat Wullgoarn
 dat Wullgräss
 dat Wullkleoen
 dat Wunner
 dat Wunnerweerk
-dat Würksel
 dat Zapp
 dat Zappbraut
 dat Zegaarnmest
@@ -1026,6 +1025,7 @@ dat Ziskewoater
 dat Zuppenfleisk
 dat Zuppenheohn
 dat Zuppenkriut
+datt
 dau
 dauf
 daumoals
@@ -1034,6 +1034,10 @@ de
 de Aaierpliumen
 de Aaierschoalen
 de Aarn
+de Ärhn
+de Ärmitten
+de Ärmittenschärper
+de Äxen
 de Afbidde
 de Afbidde deon
 de Afecke
@@ -1066,9 +1070,6 @@ de Appelsaft
 de Appelstütk
 de April
 de Apteiken
-de Ärhn
-de Ärmitten
-de Ärmittenschärper
 de Asken
 de Askenkassen
 de Assen
@@ -1077,7 +1078,6 @@ de Aulen
 de Aulske
 de Aultjoahrsoabend
 de Austerhaaide
-de Äxen
 de Baal
 de Baalg (Baalch)
 de Baalgen
@@ -1090,21 +1090,21 @@ de Backelken
 de Backen
 de Backenboart
 de Backentoahn
-de Bäcker
-de Bäckeraaie
 de Backetrog (Backetroch)
 de Backohmn
 de Backstein
 de Backvull
+de Bäcker
+de Bäckeraaie
 de Bähentrecker
+de Bär
+de Bär
 de Ballerkopp
 de Bammel
 de Bange
 de Bangeböxen
 de Bank; de Bänke
 de Bansen
-de Bär
-de Bär
 de Batzen
 de Bauhnen
 de Baum; de Böame
@@ -1185,21 +1185,21 @@ de Boarselkopp
 de Boart
 de Boartlicker
 de Böasewicht
-de Boiken
-de Bokemührlen
 de Bölkeraaie
 de Bölkhaals
 de Bönsel
 de Bössen
+de Böxen
+de Böxenschieter
+de Böxenwulf
+de Boiken
+de Bokemührlen
 de Bost; de Böste
 de Bostkassen
 de Botterbleomen
 de Bottermelk
 de Bottermullen
 de Bottern
-de Böxen
-de Böxenschieter
-de Böxenwulf
 de Braaien
 de Bracken
 de Bramm
@@ -1245,10 +1245,14 @@ de Brügamm
 de Brüggen
 de Brummitten
 de Brummkrüsel
-de Bübbitten
 de Budding
+de Bübbitten
 de Büen
 de Bühl; de Bühls
+de Bünsel
+de Bürgel
+de Bürgelkoorf
+de Büssen
 de Bullenpiersel
 de Bullerbass
 de Bullerböxen
@@ -1259,26 +1263,21 @@ de Bulten
 de Bulthütten
 de Bulzen
 de Bunken
-de Bünsel
 de Burch
 de Burchpiersel
-de Bürgel
-de Bürgelkoorf
 de Burrei
 de Bus
 de Busk; de Büske
-de Büssen
 de Butz
 de Christ
-decken
 de Cloon
 de Colon
 de Dackpannen
 de Dackrennen
 de Dacksteohl
+de Dämper
 de Dagg (Dach); de Doage
 de Damp
-de Dämper
 de Dannen
 de Dannenappel
 de Dannenbaum
@@ -1315,6 +1314,20 @@ de Diumen
 de Doagestiet
 de Doaler
 de Docken
+de Döllmer
+de Dönekens
+de Dönner
+de Dönnerbaalken
+de Dönnerdagg (Dönnerdach)
+de Dönnergürte
+de Dönnerschlagg (Dönnerschlach)
+de Döörper
+de Dörpe
+de Dörpstein
+de Döskopp
+de Dösskekerl
+de Dössker
+de Döst
 de Dohen
 de Dohenfiehe
 de Dohengreber
@@ -1327,23 +1340,9 @@ de Dohenwoagen
 de Dohenwoake
 de Doikershund
 de Dokter
-de Döllmer
-de Dönekens
-de Dönner
-de Dönnerbaalken
-de Dönnerdagg (Dönnerdach)
-de Dönnergürte
-de Dönnerschlagg (Dönnerschlach)
 de Dooen
-de Döörper
 de Dopp; de Döppe
 de Doppelender
-de Dörpe
-de Dörpstein
-de Döskopp
-de Dösskekerl
-de Dössker
-de Döst
 de Draaiher
 de Drangfüllen
 de Dreck
@@ -1357,25 +1356,23 @@ de Dreoßel
 de Dreoßel
 de Drieber
 de Driefjagd
-de Dröagebäcker
-de Droahtbössen
 de Droaht; de Dröahe
+de Droahtbössen
 de Droahtirsel
 de Droahtwurm
 de Droaken
-de Druffel
+de Dröagebäcker
 de Drüppen
 de Drüppenfaal
 de Drürmelpott
+de Druffel
 de Dübel
 de Dübelskroam
 de Dümling
 de Dümmerwiend
-de Dummhert
-de Dummkopp
 de Dünkel
-de Dürbogen
 de Dür; de Dürs
+de Dürbogen
 de Dürfall
 de Dürgang
 de Dürgriff
@@ -1384,6 +1381,8 @@ de Dürl
 de Dürschlagg (Dürschlach)
 de Dürstänner
 de dürwossen Speck
+de Dummhert
+de Dummkopp
 de Dussel
 de Dutk
 de Dutt
@@ -1413,10 +1412,10 @@ de Etlierpel
 de Faal
 de Faalenkrankhert
 de Faalgen
-de Fall
 de Färldkiertel
 de Färldmius
 de Färldwegg (Färldwech)
+de Fall
 de Fasspannen
 de Fattbiener
 de Fauln
@@ -1430,9 +1429,9 @@ de Fehler
 de Fellketuffel
 de Femielge
 de Feoermann
+de Feot (teo Feote); de Foite
 de Feotbank
 de Feotlappen
-de Feot (teo Feote); de Foite
 de Ferre
 de Fidibus
 de Fiehe
@@ -1476,9 +1475,9 @@ de Fliusen
 de Flötkepiepen
 de Flucht
 de Flucht
-de Flunk
 de Flürgel
 de Flürter
+de Flunk
 de Flutkebrei
 de Foahnen
 de Foahrkoarten
@@ -1513,15 +1512,15 @@ de Füerstiehe
 de Füertangen
 de Füerwehr
 de Füerwiehen
-de Fuhr
 de Füllen
 de Fülllierpel
+de Fuhr
 de Gaailbülte
 de Gaalgen
+de Gärßel
 de Gaffel
 de Gaffeltangen
 de Ganter
-de Gärßel
 de Gassen
 de Gaus; de Göase
 de Gausefitk
@@ -1557,14 +1556,14 @@ de Goabm
 de Goaen
 de Göarte
 de Göbel
-de Gooten
 de Göpsen
+de Gooten
+de Grässklöpper
+de Grässnurf
 de Graffstein
 de Grammen
 de Grappen
 de Grappen
-de Grässklöpper
-de Grässnurf
 de Grautaulen
 de Grautmoime
 de Grautvoar
@@ -1575,31 +1574,32 @@ de Griesenetten
 de Griesköppe
 de Gripps
 de Groaben
+de Grötte
 de Groffschmett
 de Groschen
-de Grötte
+de Grüppen
 de Grull
 de Grund; de Grünne
 de Grundmüen
-de Grüppen
 de Grutt
+de Gürlige Sorte
+de Gürte
 de Guldlack
 de Guldschmett
 de Guldwächte
-de Gürlige Sorte
-de Gürte
 de Haaide
 de Haalfklabaster
 de Haalfwossene
 de Haalm
-de Haalsafschnieher
 de Haals; de Hälse
+de Haalsafschnieher
 de Haalskiehen
 de Hacken
 de Hackenrieter
 de Hacker
 de Hackselbock
 de Hackselkommern
+de Häring
 de Hand; de Hänne
 de Handiulen
 de Hannel
@@ -1607,7 +1607,6 @@ de Hannoiwersken
 de Hansken
 de Hanswost
 de Hantekassen
-de Häring
 de Haspel
 de Haumierlen
 de Haupen; de Höape
@@ -1615,7 +1614,6 @@ de Heekstern
 de Heemel
 de Heerfst
 de Heide
-dehen
 de Heohnerdroaht
 de Heohnerfehen
 de Heohnerkamm
@@ -1655,7 +1653,6 @@ de Hiusnoame
 de Hiusupgoaben
 de Hiut
 de Hoaber
-de Höachte
 de Hoagel
 de Hoagelkörns
 de Hoahn; de Hehne
@@ -1676,13 +1673,16 @@ de Hochtiet; de Hochtiehen
 de Hochtietsbitter
 de Hochtietsdagg (Hochtietsdach)
 de Hocken
+de Höachte
+de Hölter
+de Hörlkoorf; de Hörlköörbe
 de Hoff; de Höbe (uppen Hobe)
 de Hoiete
 de Hoihnerwiehm
-de Hölter
-de Hörlkoorf; de Hörlköörbe
-de Hueraaie
 de Hülpe
+de Hueraaie
+de Hürbel
+de Hürbelbank
 de Hulster
 de Hultbock; de Hultböcke
 de Hultdiuben
@@ -1697,8 +1697,6 @@ de Hulzkenstierbel
 de Hunger
 de Hungerhoaken
 de Hungerhoarken
-de Hürbel
-de Hürbelbank
 de Hurken
 de Iber
 de Iisbär
@@ -1707,16 +1705,13 @@ de Iisenboahn
 de Iistappen
 de Iisvurgel
 de Ile
-deilen
 de Imme
 de Immekoorf
-deinen
 de Inschlagg (Inschlach)
 de Insoat
 de Intucht
 de Inwürpel
 de Inwürpelhoaken
-deipe
 de Irmel
 de Irsel
 de Iuhe
@@ -1752,11 +1747,11 @@ de Joahreszoahl
 de Joahrkeoken
 de Joahrmoark
 de Jucht
+de Jürk
 de Juli
 de Junge
 de Juni
 de Juppen
-de Jürk
 de Kaalk
 de Kaalkkiuhlen
 de Kaalkloaen
@@ -1764,6 +1759,7 @@ de Kaalkohmn
 de Kabacke
 de Kabbelaaie
 de Kachelohmn
+de Käse
 de Kaffe
 de Kaffebauhnen
 de Kaffekannen
@@ -1774,7 +1770,6 @@ de Kaffetiet
 de Kaffwannen
 de Kanter
 de Kanthoaken
-de Käse
 de Kasse
 de Katte
 de Kaul
@@ -1834,9 +1829,9 @@ de Klingelbühl
 de Kliuten
 de Kliutentreher
 de Kloaber
-de Klöarben
-de Klöäte
 de Klocken
+de Klöäte
+de Klöarben
 de Klopphingst
 de Klucke
 de Klümpe
@@ -1862,17 +1857,17 @@ de Koaen
 de Koahn
 de Koarten
 de Koater
+de König
+de Königin
+de Köörfker
 de Kohlflachen
 de Kohlflachenwoagen
 de Koihe
 de Kokmeschinen
 de Konfematzieon
-de König
-de Königin
 de Kooen
 de Kooenbleomen
 de Koorf
-de Köörfker
 de Koorfpullen
 de Kopp; de Köppe
 de Koppelbaum
@@ -1896,25 +1891,25 @@ de Kroamsticken
 de Kroiger
 de Kroinen
 de Kruck
-de Krummheoer
-de Krummstänner
-de Krummstock
 de Krüpers
 de Krüppen
 de Krüsel
 de Krüselwiend
+de Krummheoer
+de Krummstänner
+de Krummstock
 de Küeraaie
-de Kuffer
 de Külle
-de Kump
-de Kumst
-de Kumsthürbel
-de Kunne
 de Kürken
 de Kürkendisk
 de Kürkensteohl
 de Kürtel
 de Küssenbetogg (Küssenbetoch)
+de Kuffer
+de Kump
+de Kumst
+de Kumsthürbel
+de Kunne
 de Kutsken
 de Kutskwoagen
 de Kuttosse
@@ -1923,13 +1918,13 @@ de Läerjunge
 de Läertiet
 de Lährm
 de Lährmkiuhlen
-de Landstroate
 de Längde
-de Langewiele
-de Langwoagen
 de Länneraaien
 de Lärge
 de Lärghert (Lärchhert)
+de Landstroate
+de Langewiele
+de Langwoagen
 de Latüchen
 de Lauhn
 de Lauperaaie
@@ -1979,28 +1974,27 @@ de Loake
 de Löarper
 de Löffte
 de Lokus
-de Lüchen
 de Lucht
 de Luchtort
-de Luft
+de Lüchen
 de Lügbühl, de Lürgenbühl
 de Lühe
 de Lüning
 de Lürgen
 de Lüse
-de Lussen
 de Lütke
+de Luft
+de Lussen
 de Lutten
-dem
 de Maai
 de Maaibaum
 de Maaihbaalken
 de Maaihmeschinen
 de Maairegen
 de Maaitiet
+de März
 de Mama
 de Manschettenknaup
-de März
 de Masken
 de Maskendroaht
 de Matten
@@ -2057,27 +2051,26 @@ de Moand
 de Moandagg (Moandach)
 de Moark
 de Moark
+de Möller
+de Möttke
 de Mohen
 de Moime
-de Möller
 de Monat
-de Möttke
-de Muen
 de Müen
 de Müggen
 de Mührlen
 de Mührlendiek
 de Mührlenflürgel
+de Muen
+de Mürker
+de Müssen
 de Mulkeraaie
 de Mund
 de Murken
-de Mürker
 de Musick
-de Müssen
 de Mutte
 de Mutten
 de Mutz
-den
 de Naaihkassen
 de Naaihmeschinen
 de Naaihnoartel
@@ -2089,10 +2082,10 @@ de Nachtiuln
 de Nachtschloapenstiet
 de Nachtsteohl
 de Nacken
+de Nätte
 de Naffel
 de Nammdagg (Nammdach)
 de Nask
-de Nätte
 de Naut
 de Nautgroschen
 de Nautriepe
@@ -2101,25 +2094,20 @@ de Niehen
 de Niehendür
 de Nierbel
 de Niertel
-denken
-denken helpen
-denn
-denne (Goah dor denne!)
-denne (Wo kumms diu denne︖)
 de Noaber
 de Noaberskopp
 de Noageburt
 de Noagel; de Negel
 de Noagelschmett
-de Nöagesten
 de Noaht
 de Noaloat
 de Noame
 de Noarben
 de Noaricht
+de Nöagesten
+de Nott; de Nürte
 de Nottbaum
 de Nottbusk
-de Nott; de Nürte
 de Nottschoalen
 de November
 de Nuck
@@ -2139,6 +2127,15 @@ de Oarnunge
 de Oars
 de Oarsbacken
 de Oart
+de Ölgemührlen
+de Ölgepullen
+de Ölgesoat
+de Öllern
+de Ölste
+de Ömmer
+de Örtel
+de Örtelbüen
+de Örtelspierler
 de Ohen
 de Ohmn
 de Ohmndür
@@ -2146,21 +2143,11 @@ de Ohmnklappen
 de Ohmnringe
 de Oisen
 de Oktober
-de Ölgemührlen
-de Ölgepullen
-de Ölgesoat
-de Öllern
-de Ölste
 de Oma
-de Ömmer
-deon
 de Oort
 de Oortstein
 de Opa
 de Openoars
-de Örtel
-de Örtelbüen
-de Örtelspierler
 de Osse
 de Packen
 de Packloage
@@ -2232,10 +2219,11 @@ de Piuße
 de Piuter
 de Placken
 de Plackeraaie
-de Plaggen
-de Planten
 de Plänter
 de Plänters
+de Plätzen
+de Plaggen
+de Planten
 de Plantespoan
 de Plantketuffel
 de Plass
@@ -2243,7 +2231,6 @@ de Platten
 de Plattfeot
 de Plattschiuten
 de Plattschüppen
-de Plätzen
 de Plege
 de Pleog (Pleoch)
 de Pleogstärt
@@ -2269,17 +2256,17 @@ de Poahl; de Pöahle
 de Poapst
 de Poater
 de Poater
+de Pölter
+de Pöppel
+de Pöttker
+de Pöttkeßel
 de Pogge; de Poggen
 de Poggenfiller
 de Poggensteohl
-de Pölter
-de Pöppel
 de Poppiere
 de Post
 de Pott; de Pötte
 de Pottkeoken
-de Pöttker
-de Pöttkeßel
 de Pottkieker
 de Pottlappen
 de Pottlicker
@@ -2287,22 +2274,24 @@ de Prieche
 de Prierkel
 de Pries
 de Proahlhans
+de Prötker
 de Proimken
 de Proppen
-de Prötker
 de Prott
+de Prütt
 de Prull
 de Prullneegelken
 de Prurk
 de Prurkeraaie
-de Prütt
 de Puckel
 de Püel
+de Pümpel
+de Pütten
+de Püüster
 de Pull
 de Pullacken
 de Pullen
 de Pulteroabend
-de Pümpel
 de Pumpen
 de Pumpenschwengel
 de Punken
@@ -2312,8 +2301,6 @@ de Puppmwoagen
 de Puschen
 de Pusken
 de Puttappel
-de Pütten
-de Püüster
 de Quaalm
 de Quackelaaie
 de Quadderaaie
@@ -2371,14 +2358,14 @@ de Riuhe
 de Rium
 de Riupen
 de Riuten
+de Roat
+de Rock
 de Röakekommern
 de Röakewiehm
-de Roat
 de Röatekiuhlen
-de Rock
+de Röhen
 de Roggen
 de Roggenbleomen
-de Röhen
 de Roibe
 de Romen
 de Rotthacken
@@ -2388,6 +2375,11 @@ de Rüggenweihdoage
 de Rüggestrang
 de Rühe
 de Rühenbleomen
+de Rüstbaum
+de Rüstbreere
+de Rüstkiehen
+de Rüstlöker
+de Rüümte
 de Rullen
 de Rundlöarper
 de Rungen
@@ -2397,13 +2389,8 @@ de Runkelbleere
 de Runkelkiuhlen
 de Russen
 de Rust
-de Rüstbaum
-de Rüstbreere
-de Rüstkiehen
-de Rüstlöker
 de Rutk
 de Rutsken
-de Rüümte
 de Saaiekassen
 de Saaiekatten
 de Saaiemeschinen
@@ -2416,20 +2403,20 @@ de Saalbenveband
 de Sabbelaaie
 de Sackkoaen
 de Sackschörten
+de Särpen
 de Sammler
 de Sand
 de Sandhaupen
 de Sandkassen
-de Särpen
 de Satz
 de Saut
 de Sautkring
 de Schähen
-de Schanne
 de Schärdießen
 de Schärper
 de Schärperkoahen
 de Schärtel
+de Schanne
 de Schateken
 de Schaut
 de Scheeges
@@ -2465,9 +2452,9 @@ de Schium
 de Schiumkellen
 de Schiuten
 de Schlaaier
+de Schlackerschnei
 de Schlächter
 de Schlächteraaie
-de Schlackerschnei
 de Schlagg (Schlach)
 de Schlappen
 de Schlappen
@@ -2499,10 +2486,10 @@ de Schlüngel
 de Schlüngelbank
 de Schlünze
 de Schlünze
-de Schluppäsen
 de Schlürke
 de Schlürschluck
 de Schlürtel
+de Schluppäsen
 de Schmaaitiet
 de Schmachtlappen
 de Schmant
@@ -2514,8 +2501,8 @@ de Schmett
 de Schmiehe
 de Schmöakepiepen
 de Schmu
-de Schmulln
 de Schmüse
+de Schmulln
 de Schnei
 de Schneibaal
 de Schneiglöckchen
@@ -2541,8 +2528,8 @@ de Schnöppenlicker
 de Schnöppenpatt
 de Schnöppentrogg (Schnöppentroch)
 de Schnösel
-de Schnurrkatten
 de Schnüsk
+de Schnurrkatten
 de Schoadn
 de Schoal
 de Schoalen
@@ -2552,14 +2539,14 @@ de Schockeloadenbudding
 de Schockeloadenkeoken
 de Schoehbössen
 de Schoelklasse
+de Schörten
+de Schöttel
 de Schoiler
 de Schoppen
 de Schoppendeel
 de Schoppendür
-de Schörten
 de Schosstein
 de Schossteinfeger
-de Schöttel
 de Schraaihaals
 de Schräem
 de Schräempott
@@ -2576,17 +2563,17 @@ de Schriufstock
 de Schrullen
 de Schucht
 de Schüen
-de Schullern
 de Schülligkert (Schüllichkert)
 de Schüppen
 de Schürbössen
 de Schürken
 de Schürte
+de Schullern
 de Schusseligkert
 de Schwaalm
-de Schwamm
 de Schwärt
 de Schwärtfoite
+de Schwamm
 de Schwattbrautskossen
 de Schwattdoorn
 de Schwattdreoßel
@@ -2613,8 +2600,8 @@ de Schwindsucht
 de Schwoaen
 de Schwoager
 de Schwoarm
-de Schwungpleog
 de Schwürpen
+de Schwungpleog
 de See
 de Sekunne
 de Seldoat
@@ -2645,26 +2632,26 @@ de Soagen
 de Soagespoine
 de Soake
 de Soake
-de Söameraaien
 de Soargnoagel
 de Soat
 de Soatketuffel
+de Söameraaien
 de Söcken
+de Sönndagg (Sönndach)
+de Sönndoageshaals
+de Sööle
+de Sööle
 de Soiten
 de Soitigkert (Soitichkert)
 de Sommer
 de Sommerdagg (Sommerdach)
 de Sommerroggen
-de Sönndagg (Sönndach)
-de Sönndoageshaals
-de Sööle
-de Sööle
 de Soorgen
 de Soorgensteohl
 de Spaaigel
+de Spärken
 de Spangen
 de Spannsoagen
-de Spärken
 de Speckschwoaen
 de Specksiehen
 de Speis
@@ -2714,16 +2701,16 @@ de Staalhoasen
 de Staallucht
 de Stadt
 de Stadt; de Stehe
+de Stänkeraaie
+de Stänner
+de Stärt; de Stäre
+de Stärtreimen
 de Stampel
 de Stamperaaie
 de Stampketuffel
 de Stangen
 de Stangen
 de Stangenknail
-de Stänkeraaie
-de Stänner
-de Stärt; de Stäre
-de Stärtreimen
 de Statiuer
 de Steckroibe
 de Steckroibenscheole
@@ -2764,12 +2751,12 @@ de Stoaken
 de Stoapel
 de Stoat
 de Stockneegelken
+de Stökel
+de Stöppel
 de Stoff
 de Stoffbaalen
-de Stökel
 de Stoobm
 de Stoppekoorf
-de Stöppel
 de Stoppnoartel
 de Stratz
 de Strauhbleomen
@@ -2799,14 +2786,14 @@ de Studierte
 de Stüer
 de Stüern
 de Stülpen
+de Stürterbock
+de Stüssel
+de Stütk
 de Stump
 de Stunne
 de Sturmhoaken
 de Sturmliuken
 de Sturmlüchen
-de Stürterbock
-de Stüssel
-de Stütk
 de Stutz (uppen Stutz)
 de Subbelaaie
 de Süger
@@ -2814,7 +2801,6 @@ de Süke
 de Sülen
 de Süll
 de Sülte
-de Sump
 de Sünne
 de Sünnematen
 de Sünnenschien
@@ -2822,14 +2808,15 @@ de Sünnoabend
 de Süper
 de Sürgedießel
 de Sürgen
+de Sump
 de Taalg
 de Taalgen
 de Tacken
 de Tadder
-de Tante
 de Tänte
-de Tappen
 de Tärnen
+de Tante
+de Tappen
 de Taske
 de Tasken
 de Taskeniuhe
@@ -2884,9 +2871,9 @@ de Toahndokter
 de Toahnpiene
 de Toahnwottel
 de Töge
+de Togg (Toch)
 de Toggbank (Tochbank)
 de Togghoarken (Tochhoaken)
-de Togg (Toch)
 de Tommen
 de Tonten
 de Toorf
@@ -2927,19 +2914,19 @@ de Tucken
 de Tucksache
 de Tüge
 de Tüllen
+de Türgel
+de Tüskentiet
+de Tüügbössen (Tüüchbössen)
 de Tullstock
 de Tungen
 de Tungenbreker
 de Tungenschlagg (Tungenschlach)
 de Tunnen
 de Tunnenwulf
-de Türgel
 de Turteldiuben
-de Tüskentiet
-de Tüügbössen (Tüüchbössen)
-de Twang
 de Twärnt
 de Twärntsfohmt
+de Twang
 de Twassbroaken
 de Twasskopp
 de Twassriergel
@@ -2951,16 +2938,13 @@ de Twillen
 de Twillinge
 de Twingen
 de Übunge
-de Ulldagg (Ulldach)
 de Ümmegang
 de Ümmehang
 de Ümmeleitunge
 de Ümmeschlagg
-de Ümmestand; de Ümmestänne
 de Ümmestänne
+de Ümmestand; de Ümmestänne
 de Ümmewegg (Ümmewech)
-de Unkel
-de Unminske
 de Ünnerböxen
 de Ünnererdsken
 de Ünnergang
@@ -2973,6 +2957,11 @@ de Ünnerscheid
 de Ünnerschrift
 de Ünnertassen
 de Ünnerwäske
+de Ürbelkert
+de Üßen
+de Ulldagg (Ulldach)
+de Unkel
+de Unminske
 de Unoart
 de Unroat
 de Untiet
@@ -2988,10 +2977,8 @@ de Upsatz
 de Upwand
 de Upwaskelappen
 de Urbär
-de Ürbelkert
 de Urkel
 de Uröllern
-de Üßen
 de Varre
 de Vatte
 de Veband
@@ -3019,6 +3006,7 @@ de Vestand
 de Vigeline
 de Vigelinenstrieker
 de Voar
+de Vürschlagghommer (Vürschlachhommer)
 de Vullboart
 de Vullhert
 de Vullmacht
@@ -3026,17 +3014,16 @@ de Vurgel
 de Vurgelbiehen
 de Vurgelbiuer
 de Vurgelschieten
-de Vürschlagghommer (Vürschlachhommer)
 de Waaide
 de Waaihemührlen
 de Wääske
 de Wächte
 de Wägen
+de Wäske
 de Walnott; de Walnürte
 de Walnottsbaum
 de Walten
 de Wand; de Wänne
-de Wäske
 de Waskelappen
 de Waskkürken
 de Waskmeschinen
@@ -3120,16 +3107,19 @@ de Woaterpullen
 de Woaterwoage
 de Wocken
 de Wockenstock
-de Woiler
-de Wost; de Wöste
 de Wöstefinger
 de Wöstefissen
 de Wöstekiertel
 de Wöstestock
+de Woiler
+de Wost; de Wöste
 de Wostschieben
 de Wottel
 de Wottelburg
 de Wrist
+de Wüppen
+de Würker
+de Würkesteohl
 de Wulf
 de Wulken
 de Wulkenbruch
@@ -3138,9 +3128,6 @@ de Wullmüse
 de Wullmüssen
 de Wunne
 de Wunsk
-de Wüppen
-de Würker
-de Würkesteohl
 de Wurm; de Würmer
 de Zappedeus
 de Zappkeoken
@@ -3171,13 +3158,26 @@ de Zossen
 de Zuckerfisk
 de Zuckerkeoken
 de Zuckerroibe
+de Zugg (Zuch)
 de Zuggsaalben (Zuchsaalben)
 de Zuggvürgel (Zuchvürgel)
-de Zugg (Zuch)
 de Zuppen
 de Zuppenlierpel
 de Zuppenpott
 de Zuppenschöttel
+decken
+dehen
+deilen
+deinen
+deipe
+dem
+den
+denken
+denken helpen
+denn
+denne (Goah dor denne!)
+denne (Wo kumms diu denne︖)
+deon
 di
 dibbeln
 dichte
@@ -3199,13 +3199,17 @@ doal
 doalknaaien
 doameln
 doch
-doktern
 döllmern
+dönnern
+döppen
+dörlk
+dörpen
+dösig
+dössken
+doktern
 donne biehe
 donnehaulen
-dönnern
 doof
-döppen
 dor
 dorachter
 doran
@@ -3213,10 +3217,8 @@ dorbi
 dorfür
 dorhenn
 dorin
-dörlk
 dormiehe
 dornoa
-dörpen
 dorrober
 dorrümme
 dorrünner
@@ -3225,8 +3227,6 @@ dorteo
 dortiergen
 dorvan
 dorvür
-dösig
-dössken
 draaihen
 dreckig
 dregen
@@ -3235,28 +3235,22 @@ drieben
 drieste
 drinken
 dröage
-dröagen
 dröage Schwetzken
+dröagen
 dröahen
-droff
 drömmen
+droff
 drücken
 drüesken
-drupp
 drüppen
 drürben
 drürmelig (drürmelich)
 drürseln
+drupp
 dubbelt
 düchtig (düchtich)
 düen
 düenanner
-dull
-dumm
-dummdrieste
-dummet Tügg (dummet Tüch)
-dumpen
-dumpig (dumpich)
 dünig (dünich)
 dünne
 dür
@@ -3308,12 +3302,18 @@ dürsoiken
 dürwossen
 düsse
 düsse Doage
-Dussel hat
 düsset
 düster
 dütsk
 Dütskland
 dütt
+dull
+dumm
+dummdrieste
+dummet Tügg (dummet Tüch)
+dumpen
+dumpig (dumpich)
+Dussel hat
 ebens
 echte
 eck
@@ -3328,13 +3328,13 @@ eigen
 eigene
 eigentlik
 eiget
+ein up anner
 einen
 einer
 einfach
 einige
 einigermoaten
 einsoam
-ein up anner
 eis
 elben
 en
@@ -3390,15 +3390,15 @@ fliedig (fliedich)
 flöcken
 flötken
 flotten Heinrich
-flüchten
 fludderig (fludderich)
+flüchten
 flutsken
 foahl
 foaken
 föarig (föarich)
+förrern
 foihen
 foilen
-förrern
 fraaien
 Frankriek
 franzoisk
@@ -3415,18 +3415,18 @@ friermeln
 frisk
 froagen
 fröalik
-froien
 frösterig (frösterich)
+froien
 früamt
 früamtgoahn
 früher
 fründlik
 fucheln
-fulgen
 füllen
 für
-furtern
 fürwoahr
+fulgen
+furtern
 fusken
 futken
 gaffen
@@ -3564,6 +3564,7 @@ heiten
 helle
 helpen
 henn
+henn un heer
 henndrieben
 henndür
 hennfaalen
@@ -3582,7 +3583,6 @@ hennlaupen
 hennleggen
 hennsetten
 hennteo
-henn un heer
 hennwiesen
 heoen
 heoßen
@@ -3606,26 +3606,26 @@ hoalen
 hoan
 hoarken
 hoarn
+hoarpern
 höarn
 höarpen
-hoarpern
 höart
-hoffentlich
-hoien
 hökern
 hölten
+hoffentlich
+hoien
 hopen
 hott
 hottvetwass
 hügen
-hult
-hult moal
 hüngerig (hüngerich)
 hüpig (hüpich)
 hüppken
 hüü
 hüünsken
 hüünskerig (hüünskerich)
+hult
+hult moal
 iberig (iberich)
 iisig (iisich)
 iiskault
@@ -3653,27 +3653,27 @@ infreisen
 infriedigen
 ingeiten
 ingierm
-inkoken
 inkörpen
+inkoken
 inkriegen
 inloaen
 inmessen
 inmoaken
 inne
-innedutten
+inne (in de)
 inne Fissen
 inne Fuhr liggen
-innehoien
-inne (in de)
 inne Kiuhlen trehen
+inne Richte
+inne Schiermskeraaie
+inne Tunnen trehen
+innedutten
+innehoien
 innemoite
 innemoitekurm
 innen
 innen Dürbogen
-inne Richte
-inne Schiermskeraaie
 innessen
-inne Tunnen trehen
 innicken
 innierm
 inpacken
@@ -3695,8 +3695,8 @@ inschmehen
 inschoalen
 insetten
 insoarken
-insoiken
 insölten
+insoiken
 insperrn
 inspringen
 instanne
@@ -3705,9 +3705,9 @@ instierlen
 instippen
 instoahn
 insutken
+int (in dat)
 intappen
 inteihn
-int (in dat)
 intiusken
 intrechtern
 intrehen
@@ -3721,6 +3721,7 @@ iuse
 Iuse
 iusereiner
 iust
+iut, iute
 iutbacken
 iutbeoen
 iutbetern
@@ -3765,7 +3766,6 @@ iuthaulen
 iutheilen
 iuthoalen
 iuthöarn
-iut, iute
 iutjuckeln
 iutkieken
 iutkielen
@@ -3814,8 +3814,8 @@ iutspaaien
 iutsteerben
 iutsteken
 iutstoahn
-iutstoppen
 iutstörten
+iutstoppen
 iutteihn
 iutteiken
 iuttellen
@@ -3873,8 +3873,8 @@ klaaien
 klabasterig (klabasterich)
 klabastern
 kläen
-klamüsern
 klärben
+klamüsern
 klebusterig (klebusterich)
 klebustern
 kleok
@@ -3886,10 +3886,10 @@ kloar
 kloarmoaken
 kloterig (kloterich)
 klucksk
-klunstern
 klürterig (klürterich)
 klürtern
 klüütken
+klunstern
 knaaien
 knaisärlen
 knappe
@@ -3907,12 +3907,12 @@ knüücheln
 koahl
 koaterig
 kodderig
-koken
 kölpen
 köörfken
 köppen
-koppsober
 körpen
+koken
+koppsober
 kort
 kossen
 kputt
@@ -3928,33 +3928,33 @@ kroasken
 krüseln
 krüsselig (krüsselich)
 küen
-kumm
 künnig (künnich)
 künnt
-kuntant
-kurm (kamm)
 kürnen
 kürteln
+kumm
+kuntant
+kurm (kamm)
 laaien
 labberig (labberich)
 lachen
 lacke
 läen
-laff
 lährnen
+längen
+längest
+lärge
+Lärges
+laff
 lang
 lange
 langen
-längen
 langes
 langeskieken
 langeskurm
-längest
 langsoam
 langwielig (langwielich)
 lappen
-lärge
-Lärges
 lauhnen
 laupen
 laus
@@ -4005,42 +4005,42 @@ liuter
 liuthaals
 loahm
 loahmen
+loate
+loaten
 löahnen
 löan
 löapsk
-loate
-loaten
+lösken
 loie
 loien
-lösken
 lüchen
 lühen
 lüssen
-lussenlaus
 lütk
 lütke
 lütken
 lütker Knaup
 Lütkes (wat Lütkes)
+lussenlaus
 lutt
 maaihen
 maaisten
 maaistendeils
-magg (mach)
 mähr
 mährere
+märßen
+magg (mach)
 man
+man teo
 mannicheiner
 mannichmoal
 Manschetten hämmen
-man teo
-märßen
 meerken
 meinen
 melk
 Melk dürsaaien
-melken
 melk wern
+melken
 mellen
 meotwillig (meotwillich)
 messen
@@ -4084,26 +4084,26 @@ mohen
 moie
 müe
 müen
-mundsmoate
-mundvull
 mürgen (magg, möche)
 mürten
 müülsk
-nä
+mundsmoate
+mundvull
+naaie Stoobm
 naaien
 naaien (eine naaien)
-naaie Stoobm
 naaiet
 naaihen
 Naamd
 naarsk
 Nacht
+nä
+nämlich
+nait, naaie
 naitmelken (Keoh)
 naitmoidsk
-nait, naaie
 naitschierig
 naitschierig (naitschierig)
-nämlich
 natt
 nattkault
 natürlich
@@ -4114,8 +4114,8 @@ ne
 negeln
 nen
 nich
-niches
 nich woar︖
+niches
 nickköppen
 nie
 niepe
@@ -4127,11 +4127,10 @@ nimmernöchtern
 niu
 nix
 noa
+noa un noa
 noadenken
 noadregen
 noafroagen
-nöagen
-nöager
 noagierm
 noah
 noahe
@@ -4143,18 +4142,19 @@ noakieken
 noalaupen
 noaloaten
 noamhaft moaken
-nöarig (nöarich)
 noasäggen
 noaseihn
-noa un noa
 noavetellen
+nöagen
+nöager
+nöarig (nöarich)
 nöchtern
-noisterig (noisterich)
 nömms
+noisterig (noisterich)
 nücken
-nur
 nüssken
 nütte
+nur
 oabe
 oaber
 oahnen
@@ -4188,24 +4188,24 @@ oberull
 oberweggseihn (oberwechseihn)
 oberwittken
 och
-oh Gäste
 öhn
-ohne
 öhne
 öhr
 öhre
 öhrt
+örteln
+össen
+oh Gäste
+ohne
 oilen
 onnink
 open
 orre
-örteln
 oss
-össen
 paalken
 packen
-pankrott
 pärken
+pankrott
 passen
 passig (passich)
 pattken
@@ -4223,50 +4223,50 @@ Pingsten
 pinnebassenvull
 pissen
 piußen
-pläästern
-pläckerig küen
-pläckerig (pläckerich)
 pladdern
+pläästern
+pläckerig (pläckerich)
+pläckerig küen
+plätten
 planten
 platt
 plattboarsk
 plattdütsk
-plätten
 plattoars
 plegen
-plöahen
 ploastern
+plöahen
 ploigen
 plücken
 plünnern
-pöahlen
 poahlrisk
 poar
 poatern
 poaterwelsk
+pöahlen
 pricke
 prierkeln
 priesen
 proahlen
 proat
 probaaien
+prötken
 proimken
 proppen
 proppenfull
 propper
-prötken
 prrr
 prünen
-prurken
 prüssen
+prurken
 pucken
 pülsken
+püttken
+püttken
+püüsken
 pultern
 putken
-püttken
-püttken
 putzen
-püüsken
 quaalmen
 quackelig (quackelich)
 quaddern
@@ -4281,10 +4281,10 @@ quietsken
 quittengeel
 quutsken
 raaihen
-räaßen
 rabbeln
 racken
 radfoihen
+räaßen
 ramentern
 rammdösig
 ran
@@ -4341,11 +4341,11 @@ rinschieten
 rinschloan
 risk
 risk dür
-risken
-riske Schiuten
 risk iut
 risk up
 risk wegg (risk wech)
+riske Schiuten
+risken
 riuhen
 riuken
 riumbeint
@@ -4354,8 +4354,8 @@ riusemiuserig (riusemiuserich)
 riut
 riutbreken
 riutfienen
-riutfoihen
 riutförrern
+riutfoihen
 riuthelpen
 riutkriegen
 riutkurm
@@ -4366,15 +4366,14 @@ riutputzen
 riutschmieten
 riutstellen
 roaen
-röagen
 roaken
-röaken
 rober
-roihen
+röagen
+röaken
 röttlick
+roihen
 ruckoasen
 rühen
-rullen
 rümme
 rümmebölken
 rümmedöllmern
@@ -4390,19 +4389,20 @@ rümmespoiken
 rümmestoahn
 rümmesüen
 rümmesürlen
+rünner
+rünnerfaalen
+rüserig (rüserich)
+rullen
 rumooen
 rumstern
 rund
 rundümme
 rungenaaien
-rünner
-rünnerfaalen
 rupp
 ruppdössken
 ruppen
 ruppkurm
 rupplasken
-rüserig (rüserich)
 rusterig (rusterich)
 rustern
 rutken
@@ -4500,9 +4500,9 @@ schnoien
 schnurhen
 schnurken
 schnurterig (schnurterich)
-schöane
 schoarp
 schobben
+schöane
 schoss
 schoss seihn
 schraaien
@@ -4515,19 +4515,19 @@ schriuben
 schroaien
 schrumpeln
 schruppen
-schuen
 schüen
 schüllig (schüllich)
 schümen
-schuppen
+schuen
 Schüppen teihn
 schüppken
 schürköppen
 schüttkern
+schuppen
 schwaat
 schwack
-schwanke
 schwärten
+schwanke
 schwattbunt
 schwattken
 schwemmen
@@ -4569,18 +4569,18 @@ sitten
 siuer
 siugen
 siupen
+Sius un Brius
 siusen
 siusengeln
-Sius un Brius
 soagen
+sölte
+sörpen
 soiken
 soite
-sölte
 sommerdoages
 sonnerboar
 sonnerlick
 sonnern
-sörpen
 spaaien
 spalkoen
 speckeliehen
@@ -4601,19 +4601,19 @@ splitternoakend
 spoan
 spoarsoam
 spoaßig (spoaßich)
+spöttsk
 spoiken
 spoikenhaftig (spoikenhaftich)
 spoilen
-spöttsk
 spreken
 springen
 sprützen
 spüen
 spuhen
 stäbig
-stampeln
 stännern
 stännig (stännich)
+stampeln
 steerben (sturm)
 steken
 stellen
@@ -4628,8 +4628,8 @@ stille
 stilleschwiegen
 stillken
 stimmen
-stinkenfiul
 stinken (stünk)
+stinkenfiul
 stippen
 stiuben (stauf)
 stiuken
@@ -4641,8 +4641,8 @@ stoats
 stoatsk
 stockstiebe
 stökeln
-stoppen
 störten
+stoppen
 stramme
 strammen
 strauhdoof
@@ -4657,10 +4657,10 @@ strükeln
 strullen
 strunzen
 stührnen
-stulte
-stump
 stürtern
 stüsseln
+stulte
+stump
 subbeln
 süen
 süken
@@ -4686,19 +4686,26 @@ tellen
 Teller vull
 telten
 teo
+teo bunt
+teo Enne
+teo kort
+teo korte kurm
+teo Liebe
+teo loate
+teo teo
+teo tweien
+teo vierl
 teoaaist
 teoballern
 teobienen
 teobottern
 teobringen
-teo bunt
 teodecken
 teodeon
 teodregen
 teodrepen
 teodrücken
 teoe
-teo Enne
 teofällig (teofällich)
 teofeoern
 teofreisen
@@ -4730,16 +4737,12 @@ teokniepen
 teoknörpen
 teokoken
 teokoppe stiegen
-teo kort
-teo korte kurm
 teoküen
 teoläen
 teolaupen
 teoleggen
 teoleibe
 teolest
-teo Liebe
-teo loate
 teoloaten
 teolustern
 teomeote
@@ -4747,8 +4750,8 @@ teomeoten
 teominnest
 teomoaken
 teomüen
-teonaaien
 teon annern
+teonaaien
 teonichte moaken
 teonierm
 teooilen
@@ -4777,23 +4780,20 @@ teoschnaaien
 teoschüppen
 teosetten
 teospierlen
-teostanne
 teostännig (teostännich)
+teostanne
 teosteken
 teostimmen
 teostoahn
-teostoppen
 teostörten
+teostoppen
 teoteihn
-teo teo
 teoteosetten
 teotreoen
-teo tweien
 teoulleraaist
 teoullerlest
 teovedeinen
 teovelässig
-teo vierl
 teowassen
 teowielen
 teowiernen
@@ -4812,10 +4812,10 @@ tietwiese
 timmern
 tiusken
 toahr
-töamen
 tocken
-toiben
+töamen
 töllig (töllich)
+toiben
 Toorf ringen
 Toorf steken
 torrerig (torrerich)
@@ -4869,18 +4869,18 @@ trüggeszoppen
 trüggeteihn
 trüggewiesen
 trummeln
-tüchten
 tuckschullern
+tüchten
 tüddelig (tüddelich)
 tügen
 tülken
 türgeln
-turken
-turnen
 tüsken
 tüskendür
 tüskenküen
 tüskensteken
+turken
+turnen
 twaaie
 twaaiebreken
 twaaiedrücken
@@ -4894,31 +4894,15 @@ twass
 twassaf
 twassköppig (twassköppich)
 twassober
+twei, tweie
 tweibeinig (tweibeinich)
 tweimoal
 tweischlöaperiget Berre
 tweispännig eten
 tweistöckig (tweistöckich)
-twei, tweie
 twillen
 twingen
 üben
-ull
-ullärne
-ulldoages
-ulle
-ullebeste
-ulle Doage
-ullehand
-ullehaupe
-ulleleste
-ulles
-ulletiet
-ullewärts, ullewegens
-ullhante
-ullteo
-ullteovierl
-ull wier
 ümme
 ümmebäarn
 ümmebienen
@@ -4927,8 +4911,8 @@ ull wier
 ümmeböcken
 ümmebreken
 ümmebringen
-ümmebullen
 ümmebündken
+ümmebullen
 ümmedenken
 ümmedeon
 ümmedörpen
@@ -4943,9 +4927,9 @@ ull wier
 ümmegroaben
 ümmehangen
 ümmehenn
+ümmehocken
 ümmehöapen
 ümmehöarn
-ümmehocken
 ümmekieken
 ümmekippen
 ümmeknicken
@@ -4973,21 +4957,6 @@ ull wier
 ümmeteo
 ümmetiusken
 ümmewesseln
-un
-unbännig (unbännich)
-unbehulpen
-unbesoorget
-unbestännig (unbestännich)
-undankboar
-undütlig (undütlich)
-ungedüllig (ungedüllich)
-ungefähr
-ungeot
-ungewiernt
-unglieke
-unkleok
-unkloar
-unlente
 ünnen
 ünner
 ünnerbienen
@@ -5020,6 +4989,38 @@ unlente
 ünnerteihn
 ünnerteo
 ünnerweges
+ürbel
+ull
+ull wier
+ullärne
+ulldoages
+ulle
+ulle Doage
+ullebeste
+ullehand
+ullehaupe
+ulleleste
+ulles
+ulletiet
+ullewärts, ullewegens
+ullhante
+ullteo
+ullteovierl
+un
+unbännig (unbännich)
+unbehulpen
+unbesoorget
+unbestännig (unbestännich)
+undankboar
+undütlig (undütlich)
+ungedüllig (ungedüllich)
+ungefähr
+ungeot
+ungewiernt
+unglieke
+unkleok
+unkloar
+unlente
 unnöarig (unnöarich)
 unnütte
 unpatt
@@ -5027,6 +5028,12 @@ unriep
 unvescheemt
 unvestännig (unvestännich)
 up
+up iut sien
+up sick hämmen
+up Trillitt
+up ulle Fälle
+up un af
+up un doal
 upbassen
 upbeoen
 upbewoahen
@@ -5057,9 +5064,9 @@ upfaalen
 upfangen
 upfiulen
 upfoarten
+upförrern
 upfoihen
 upfoorken
-upförrern
 upfreisen
 upfreten
 upfrisken
@@ -5078,7 +5085,6 @@ uphissen
 uphiulen
 uphöarn
 uphörpen, uphüpen
-up iut sien
 upjoagen
 upklaaien
 upklärn
@@ -5103,11 +5109,11 @@ upnegeln
 upnierm
 uppassen
 uppe
+uppe sien
 uppeblieben
 uppen
 uppen Amte
 uppenanner
-uppe sien
 uppiußen
 uppliustern
 uppumpen
@@ -5129,7 +5135,6 @@ upschmieten
 upschrieben
 upschüchtern
 upschütten
-up sick hämmen
 upsiugen
 upsoiken
 upsperrn
@@ -5139,21 +5144,17 @@ upsteoen
 upstierns
 upstoahn
 upstoapeln
-upstokeln
 upstörten
+upstokeln
 upstund (upstunds)
+upt (up dat)
 upteihn
 uptellen
 uptiergen
 uptoakeln
 uptöamen
 uptrehen
-up Trillitt
 uptrumpfen
-upt (up dat)
-up ulle Fälle
-up un af
-up un doal
 upwännig (upwännich)
 upwasken
 upwassen
@@ -5164,7 +5165,6 @@ upwellen
 upwiesen
 upwoilen
 urault
-ürbel
 urboar
 urdeilen
 uren
@@ -5177,13 +5177,13 @@ van af
 van dor
 van dor an
 van dür
-vannenanner
-vannen (van den)
-vanne (van de)
 van niu an
 van sümms
 van Tiet teo Tiet
 van wieten
+vanne (van de)
+vannen (van den)
+vannenanner
 veännern
 veäppeln
 vebaaien
@@ -5204,8 +5204,8 @@ vebloaihen
 veblöden
 vebloien
 veboagen
-veböagen
 veboarseln
+veböagen
 vebohen
 vebohrt
 vebreken
@@ -5214,8 +5214,8 @@ vebriuken
 vebroaen
 vebroken
 vebühen
-vebummeln
 vebürgen
+vebummeln
 vedaddert
 vedann
 vedauen
@@ -5237,18 +5237,18 @@ vedrömmeln
 vedrücken
 vedubbeln
 vedübeln
-vedummdübeln
 vedüstern
 vedütlichen
 vedütsken
+vedummdübeln
 veeerben
 veenzeln
 vefaalen
 vefangen
 vefeoern
 vefiulen
-veflogen
 veflötken
+veflogen
 vefoihen
 vefreisen
 vefreten
@@ -5299,10 +5299,10 @@ vekniepen
 vekniusen
 veknüppen
 veknüücheln
-vekohlen
-vekoken
 vekörpen
 veköstigen
+vekohlen
+vekoken
 vekriupen
 vekrüen
 veküen
@@ -5310,8 +5310,8 @@ vekülgen
 vekurm
 veläen
 velährnen
-velangen
 velängern
+velangen
 velaupen
 velegen
 veleggen
@@ -5323,8 +5323,8 @@ veloddern
 velogen
 velohen
 velopp
-velustern
 velüstig (velüstich)
+velustern
 vemärhen
 vemasseln
 vemeten
@@ -5377,9 +5377,9 @@ veschwiegen
 veschwinnen (veschwunnen)
 veseihn (sick veseihn)
 vesiupen
+vesölten
 vesohlen
 vesoiken
-vesölten
 vesoorgen
 vesperrn
 vespierlen
@@ -5400,8 +5400,8 @@ vetogen
 vetorrern
 vetrehen
 vetwass
-veunglücken
 veürbeln
+veunglücken
 veurdeilen
 vewämsen
 vewasken
@@ -5414,20 +5414,10 @@ vewiernen
 vewittken
 vewittken
 vewoahen
-vewunnern
 vewünsken
+vewunnern
 vezichen
 vierl
-vull
-vuller
-vullfreten
-vullkurm
-vullmoaken
-vullproppen
-vullsabbern
-vullschieten
-vullschlabbern
-vullstännig (vullstännich)
 vündoage
 vünter
 vür
@@ -5445,6 +5435,16 @@ vürne
 vürniehrm
 vürsichtig (vürsichtich)
 vürwärts
+vull
+vuller
+vullfreten
+vullkurm
+vullmoaken
+vullproppen
+vullsabbern
+vullschieten
+vullschlabbern
+vullstännig (vullstännich)
 waaien
 waaihen
 wabbelig (wabbelich)
@@ -5454,10 +5454,10 @@ wach sien
 wach wern
 wacke
 wägen
+wältern
 wall
 wall (wutt diu wall heerkurm)
 walten
-wältern
 wanken
 wann
 warnen
@@ -5472,6 +5472,7 @@ weermen
 weert
 wege
 wegen
+wegg (wech)
 weggblieben (wechblieben)
 weggbloasen (wechbloasen)
 weggbringen (wechbringen)
@@ -5505,7 +5506,6 @@ weggspoilen (wechspoilen)
 weggsteken (wechsteken)
 weggsturm (wechsturm)
 weggteihn (wechteihn)
-wegg (wech)
 weih
 weihdeon
 weik
@@ -5519,8 +5519,8 @@ wennen
 wer
 werd
 wern
-wernigstens (wernichstens)
 wernig (wernich)
+wernigstens (wernichstens)
 wesseln
 wi
 wichsen
@@ -5562,6 +5562,7 @@ wittken
 wittschierterig (wittschierterich)
 wittschnürterig (wittschnürterich)
 wo
+wo foaken
 woahen
 woahr
 woahr di
@@ -5575,7 +5576,7 @@ woaterstiebe
 wobi
 wodenne
 wodür
-wo foaken
+wössen
 wofür
 woheer
 wohenn
@@ -5588,26 +5589,25 @@ woran
 worober
 worümme
 worupp
-wössen
 woteo
 wovan
 wrutzen
-wullacken
 wüllen
+wünsken
+wünskensweert
+wüppen
+würken
+wullacken
 wunnerboar
 wunnerlick
 wunnern
 Wunners wat
-wünsken
-wünskensweert
 wuppen
-wüppen
-würken
 wurmsteeks
 wurnen
 wutt
-wutte wall … (wutt diu wall …)
 wutte (wutt diu)
+wutte wall … (wutt diu wall …)
 zackenaaien
 zappen
 zappendüster
