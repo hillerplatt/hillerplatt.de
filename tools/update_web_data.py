@@ -68,6 +68,11 @@ def validate_identity(value, location):
     first_line = value.splitlines()[0]
     if first_line != clean_whitespace(first_line) or re.search(r"\(\s|\s\)", first_line):
         raise ValueError(f"Unsaubere Schreibweise in {location}: {first_line!r}")
+    displayed = clean_content_web(first_line)
+    if re.search(r'[<>:"/\\|?*\x00-\x1f]', displayed):
+        raise ValueError(f"Ungültiges Zeichen im Recorder-Dateinamen in {location}: {displayed!r}")
+    if len(displayed.encode("utf-8")) > 240:
+        raise ValueError(f"Recorder-Dateiname zu lang in {location}: {displayed!r}")
 
 
 def build_data():

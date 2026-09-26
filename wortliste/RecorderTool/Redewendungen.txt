@@ -1,5 +1,3 @@
-"Meinemann" es daute, "Froagoars" lierbet nau.
-"Meinen", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.
 Achter Hartmanns Backs liggen.
 An geden Schliepstein es’n Draaiher.
 Bet inne Pechhütten schloapen.
@@ -93,7 +91,6 @@ Einen trechtesetten.
 Einen vür de Schwürpen hämmen.
 Einer mott de Üßen dehen Kopp afbieten.
 En geoet Schwien frett ulles.
-Et / Hei häf ein’n dürdraaihet.
 Et eiget di nich.
 Et es biuten ganz schörne schnüffe.
 Et es en feinet Lüht.
@@ -115,6 +112,7 @@ Et was mi uppe Tiet schoten.
 Et was öhne an’n Pierk togen.
 Et well ulles innen Woarmen wassen.
 Et werd bidann föarig.
+Et ／ Hei häf ein’n dürdraaihet.
 Find de heilge Christ ´ne Brüggen, denn breck hei se; find hei keine, denn beoet hei eine.
 Fleiskes Fritzken kick dür Wullgorns Fenster. Wat es dat︖
 Für’n Sack vull Geld nimmp de Welt den Heot af.
@@ -122,11 +120,10 @@ Für’n Sack vull Geld nimmp de Welt den Heot af.
 Goa doa bidenne!
 Gümmer den Kopp innen Nacken, wenn de Haals auk dreckig es!
 Häbb gi teo Hiuse Säcke vür de Dür︖
-Häff hei/et denn schon wat anhoalt︖
+Häff hei／et denn schon wat anhoalt︖
 Hässe diene Pieselotten teohaupe︖
 Hässe doarup lettet︖
 Haul dienen Rand!
-Hei / Et es geot inschloan.
 Hei döat hennflaaien.
 Hei es en birten trüggeblierm.
 Hei es en Lärgen.
@@ -160,7 +157,8 @@ Hei was kort ümme.
 Hei was saun birten schelü.
 Hei weit Hiusgelegenhert.
 Hei weol mi an’t Lear.
-Hei/et häff nix teoteosetten.
+Hei ／ Et es geot inschloan.
+Hei／et häff nix teoteosetten.
 Hier werd nix ünnern Steohl steken.
 Inne Hurken sitten.
 Inne Lucht sitten.
@@ -206,7 +204,7 @@ Uppen Schwengel schieten.
 Up’n Pinn trehen.
 Van’n Beinen dat räaßet.
 Wat obe de Kante bringen.
-Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ / Konns diu nich Doagestiet säggen︖
+Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ ／ Konns diu nich Doagestiet säggen︖
 Wat up de Riege kriegen.
 Wem dat Glücke es teogedoan, dem legg Aaier sümms de Hoahn.
 Wenn de Beerg werd bunt, mott de Hoaber inne Grund.
@@ -224,3 +222,5 @@ Wiet hoalen un dür betoahlen.
 Wo hoarpert dat niu ran︖
 Woahr di!
 Wü’ gi Spinners häm’m︖
+„Meinemann“ es daute, „Froagoars“ lierbet nau.
+„Meinen“, dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.

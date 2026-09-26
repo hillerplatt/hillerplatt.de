@@ -1,15 +1,5 @@
 const redewendungen = [
     {
-        "plattdeutsch": "\"Meinemann\" es daute, \"Froagoars\" lierbet nau.",
-        "hochdeutsch": "Meinen beruht nicht auf Fakten. Lieber durch Fragen der Sache auf den Grund gehen.",
-        "audio": "\"Meinemann\" es daute, \"Froagoars\" lierbet nau..flac"
-    },
-    {
-        "plattdeutsch": "\"Meinen\", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.",
-        "hochdeutsch": "\"Meinen\" beruht nicht unbedingt auf Fakten.",
-        "audio": "\"Meinen\", dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss..flac"
-    },
-    {
         "plattdeutsch": "Achter Hartmanns Backs liggen.",
         "hochdeutsch": "Hiller Begriff für \"auf dem Friedhof liegen\".",
         "audio": "Achter Hartmanns Backs liggen..flac"
@@ -475,11 +465,6 @@ const redewendungen = [
         "audio": "En geoet Schwien frett ulles..flac"
     },
     {
-        "plattdeutsch": "Et / Hei häf ein’n dürdraaihet.",
-        "hochdeutsch": "Sie / Er hat Schweres erlebt.",
-        "audio": "Et / Hei häf ein’n dürdraaihet..flac"
-    },
-    {
         "plattdeutsch": "Et eiget di nich.",
         "hochdeutsch": "Du hast es nicht verdient.",
         "audio": "Et eiget di nich..flac"
@@ -585,6 +570,11 @@ const redewendungen = [
         "audio": "Et werd bidann föarig..flac"
     },
     {
+        "plattdeutsch": "Et ／ Hei häf ein’n dürdraaihet.",
+        "hochdeutsch": "Sie / Er hat Schweres erlebt.",
+        "audio": "Et ／ Hei häf ein’n dürdraaihet..flac"
+    },
+    {
         "plattdeutsch": "Find de heilge Christ ´ne Brüggen, denn breck hei se; find hei keine, denn beoet hei eine.",
         "hochdeutsch": "Ist Weihnachten Frostwetter, wird es danach milder. Ist es zu Weihnachten mild, kommt eine Frostperiode.",
         "audio": "Find de heilge Christ ´ne Brüggen, denn breck hei se; find hei keine, denn beoet hei eine..flac"
@@ -620,9 +610,9 @@ const redewendungen = [
         "audio": "Häbb gi teo Hiuse Säcke vür de Dür︖.flac"
     },
     {
-        "plattdeutsch": "Häff hei/et denn schon wat anhoalt︖",
+        "plattdeutsch": "Häff hei／et denn schon wat anhoalt︖",
         "hochdeutsch": "Hat er/sie sich erholt und an Gewicht zugenommen︖ (Eine Frage in Bezug auf Kuren in der Nachkriegszeit wo Menschen auf Grund von Hunger und Krankheit unterernährt waren.)",
-        "audio": "Häff hei/et denn schon wat anhoalt︖.flac"
+        "audio": "Häff hei／et denn schon wat anhoalt︖.flac"
     },
     {
         "plattdeutsch": "Hässe diene Pieselotten teohaupe︖",
@@ -638,11 +628,6 @@ const redewendungen = [
         "plattdeutsch": "Haul dienen Rand!",
         "hochdeutsch": "Halt deinen Mund!",
         "audio": "Haul dienen Rand!.flac"
-    },
-    {
-        "plattdeutsch": "Hei / Et es geot inschloan.",
-        "hochdeutsch": "Er / Sie / Es fügt sich gut ein und erfüllt die Erwartungen.",
-        "audio": "Hei / Et es geot inschloan..flac"
     },
     {
         "plattdeutsch": "Hei döat hennflaaien.",
@@ -810,9 +795,14 @@ const redewendungen = [
         "audio": "Hei weol mi an’t Lear..flac"
     },
     {
-        "plattdeutsch": "Hei/et häff nix teoteosetten.",
+        "plattdeutsch": "Hei ／ Et es geot inschloan.",
+        "hochdeutsch": "Er / Sie / Es fügt sich gut ein und erfüllt die Erwartungen.",
+        "audio": "Hei ／ Et es geot inschloan..flac"
+    },
+    {
+        "plattdeutsch": "Hei／et häff nix teoteosetten.",
         "hochdeutsch": "Er/sie hat keine körperlichen Reserven für eventuelle Krankheitsfälle. Er/sie ist ganz abgemagert.",
-        "audio": "Hei/et häff nix teoteosetten..flac"
+        "audio": "Hei／et häff nix teoteosetten..flac"
     },
     {
         "plattdeutsch": "Hier werd nix ünnern Steohl steken.",
@@ -1040,9 +1030,9 @@ const redewendungen = [
         "audio": "Wat obe de Kante bringen..flac"
     },
     {
-        "plattdeutsch": "Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ / Konns diu nich Doagestiet säggen︖",
+        "plattdeutsch": "Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ ／ Konns diu nich Doagestiet säggen︖",
         "hochdeutsch": "Grüße bitte! Oder： Du hast gefälligst ordentlich zu grüßen!",
-        "audio": "Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ / Konns diu nich Doagestiet säggen︖.flac"
+        "audio": "Wat sägg de Irsel, wenn hei in de Mührlen kummp︖ ／ Konns diu nich Doagestiet säggen︖.flac"
     },
     {
         "plattdeutsch": "Wat up de Riege kriegen.",
@@ -1128,5 +1118,15 @@ const redewendungen = [
         "plattdeutsch": "Wü’ gi Spinners häm’m︖",
         "hochdeutsch": "Kommen wir als abendlicher Besuch gelegen︖ (In der Regel Nachbarn)",
         "audio": "Wü’ gi Spinners häm’m︖.flac"
+    },
+    {
+        "plattdeutsch": "„Meinemann“ es daute, „Froagoars“ lierbet nau.",
+        "hochdeutsch": "Meinen beruht nicht auf Fakten. Lieber durch Fragen der Sache auf den Grund gehen.",
+        "audio": "„Meinemann“ es daute, „Froagoars“ lierbet nau..flac"
+    },
+    {
+        "plattdeutsch": "„Meinen“, dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss.",
+        "hochdeutsch": "\"Meinen\" beruht nicht unbedingt auf Fakten.",
+        "audio": "„Meinen“, dat drügg, oaber wenn diu in de Böxen schiss, dat es gewiss..flac"
     }
 ]
